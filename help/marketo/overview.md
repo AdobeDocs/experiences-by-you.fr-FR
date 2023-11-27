@@ -1,15 +1,15 @@
 ---
 title: Marketo par vous
-description: Contenu généré par le client
+description: Marketo by You présente du contenu généré par les utilisateurs et créé par des utilisateurs ordinaires qui ont acquis un niveau d’expertise et d’influence avec leurs connaissances d’Adobe Marketo.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 27%
+source-wordcount: '218'
+ht-degree: 24%
 
 ---
 
