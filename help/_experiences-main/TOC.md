@@ -1,18 +1,18 @@
 ---
-user-guide-title: Expériences par vous
-user-guide-description: Adobe du contenu généré par le client
-breadcrumb-title: Expériences par vous
+user-guide-title: Experiences by You
+user-guide-description: Contenu généré par la clientèle Adobe
+breadcrumb-title: Experiences by You
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 74%
+ht-degree: 81%
 
 ---
 
 
-# Expériences par vous {#experiences-by-you}
+# Experiences by You {#experiences-by-you}
 
-+ [Expériences par vous](/help/overview.md)
++ [Experiences by You](/help/overview.md)
 
 + [!DNL Analytics] par vous {#analytics}
    + [Vue d’ensemble](/help/analytics/overview.md)
@@ -64,7 +64,7 @@ ht-degree: 74%
       + [Résolution de problèmes pour les spécialistes du marketing](/help/campaign/acs/troubleshooting-for-marketers.md)
    + Stratégie et leadership{#strategy}
       + [Dix bonnes pratiques pour le succès de  [!DNL Adobe Campaign]  pour les spécialistes marketing](/help/campaign/10-best-practices-for-marketers.md)
-+ Experience Manager par vous {#experience-manager}
++ Experience Manager by You {#experience-manager}
    + [Vue d’ensemble](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
       + [Évaluation de la maturité d’AEM Sites](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
