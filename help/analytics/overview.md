@@ -1,6 +1,6 @@
 ---
-title: Analytics par vous
-description: Analytics by You présente du contenu généré par les utilisateurs et créé par les utilisateurs ordinaires qui ont acquis un niveau d’expertise et d’influence avec leurs connaissances d’Adobe Analytics.
+title: Analytics selon vous
+description: Analytics by You présente du contenu généré par des utilisateurs et utilisatrices de tous les jours qui ont acquis un certain niveau d’expertise et d’influence grâce à leurs connaissances d’Adobe Analytics.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 21%
+source-wordcount: '196'
+ht-degree: 23%
 
 ---
 
@@ -77,6 +77,6 @@ La chose la plus puissante sur [!DNL Adobe Experience Cloud] solutions ? Vous. L
 ## Ressources supplémentaires
 
 * [Communauté Adobe Analytics Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr)
-* [Documentation Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=fr)
+* [Documentation Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=fr)
 * [Tutoriels Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr)
 * [Informations sur les produits Adobe Analytics](https://business.adobe.com/fr/products/analytics/web-analytics.html)

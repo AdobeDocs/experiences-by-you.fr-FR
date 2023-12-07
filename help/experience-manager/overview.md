@@ -1,6 +1,6 @@
 ---
-title: Experience Manager par vous
-description: Experience Manager by You présente du contenu généré par les utilisateurs et créé par des utilisateurs ordinaires qui ont acquis un niveau d’expertise et d’influence avec leurs connaissances de Adobe Experience Manager.
+title: Experience Manager by You
+description: Experience Manager by You présente du contenu généré par des utilisateurs et utilisatrices de tous les jours qui ont acquis un certain niveau d’expertise et d’influence grâce à leurs connaissances d’Experience Manager.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 23%
+source-wordcount: '188'
+ht-degree: 26%
 
 ---
 
@@ -49,7 +49,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-    <strong>Playbook d’intégration de Cloud Manager</strong>
+    <strong>Manuel d’intégration de Cloud Manager</strong>
     </a>
     </div>
     <p>
@@ -76,7 +76,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
 
 ## Ressources supplémentaires
 
-* [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr)
+* [Communautés de Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr)
 * [Documentation du Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr)
 * [Tutorials Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=fr)
 * [Informations sur les produits Experience Manager](https://business.adobe.com/fr/products/experience-manager/adobe-experience-manager.html)

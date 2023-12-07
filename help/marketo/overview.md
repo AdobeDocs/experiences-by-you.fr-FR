@@ -1,6 +1,6 @@
 ---
-title: Marketo par vous
-description: Marketo by You présente du contenu généré par les utilisateurs et créé par des utilisateurs ordinaires qui ont acquis un niveau d’expertise et d’influence avec leurs connaissances d’Adobe Marketo.
+title: Marketo selon vous
+description: Marketo by You présente du contenu généré par des utilisateurs et utilisatrices de tous les jours qui ont acquis un certain niveau d’expertise et d’influence grâce à leurs connaissances de Marketo.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 24%
+source-wordcount: '205'
+ht-degree: 16%
 
 ---
 
@@ -40,7 +40,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
     </a>
     </div>
     <p>
-    <em>Découvrez la navigation dans l’interface utilisateur et familiarisez-vous avec la plateforme [!DNL Marketo Engage].</em>
+    <em>Découvrez comment naviguer dans l’interface utilisateur et vous familiariser avec votre façon de contourner le [!DNL Marketo Engage] plateforme.</em>
     <p>
   </td>
   <td>
@@ -58,15 +58,15 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Programmes de messagerie" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="Programmes de messagerie électronique" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
-    <strong>Programmes de messagerie</strong>
+    <strong>Programmes de messagerie électronique</strong>
     </a>
     </div>
     <p>
-    <em>Suivez ce tutoriel complet dédié à la création d’un programme de messagerie à l’aide d’un test A/B.</em>
+    <em>Regardez ce tutoriel détaillé pour savoir comment créer un programme de messagerie avec un test A/B.</em>
     <p>
   </td>
 </tr>
@@ -77,6 +77,6 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
 ## Ressources supplémentaires
 
 * [Marketo Nation (communautés)](https://nation.marketo.com/)
-* [Documentation d’Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html)
+* [Documentation Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html)
 * [Tutorials Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
 * [Informations sur les produits Adobe Marketo Engage](https://business.adobe.com/products/marketo/adobe-marketo.html)

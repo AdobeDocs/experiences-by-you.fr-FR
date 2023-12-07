@@ -1,6 +1,6 @@
 ---
-title: Campagne par vous
-description: Campaign by You présente du contenu généré par les utilisateurs et créé par des utilisateurs ordinaires ayant acquis un niveau d’expertise et d’influence avec leurs connaissances d’Adobe Campaign.
+title: Campaign selon vous
+description: Campaign by You présente du contenu généré par des utilisateurs et utilisatrices de tous les jours qui ont acquis un certain niveau d’expertise et d’influence grâce à leurs connaissances d’Adobe Campaign.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -9,8 +9,8 @@ thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 33%
+source-wordcount: '195'
+ht-degree: 27%
 
 ---
 
@@ -50,7 +50,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>Dépannage pour les spécialistes du marketing : 5 erreurs courantes de workflow et de diffusion</strong>
+    <strong>Dépannage pour les marketeurs : 5 erreurs courantes de workflow et de diffusion</strong>
     </a>
     </div>
     <p>
@@ -59,11 +59,11 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="Dix bonnes pratiques pour le succès d’Adobe Campaign pour les professionnels et professionnelles du marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>Dix bonnes pratiques pour le succès d’Adobe Campaign pour les professionnels et professionnelles du marketing</strong>
+    <strong>Dix bonnes pratiques pour le succès d’Adobe Campaign pour les marketeurs</strong>
     </a>
     </div>
     <p>
