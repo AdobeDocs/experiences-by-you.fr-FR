@@ -11,9 +11,9 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 26805f8f9edf3a3a3a38c4cb954e07378f13920d
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '905'
 ht-degree: 1%
 
 ---
@@ -52,7 +52,7 @@ Un guide de gouvernance sert de source de vérité pour la configuration de l’
 
 ### Étape 2 : identifier les éléments à inclure dans votre [!DNL [!DNL Marketo Engage]] Documentation et [!DNL Changelogs]
 
-Le format varie d’une plateforme basée sur le cloud à un document partagé. Vous pouvez concevoir le format qui répond aux besoins de votre entreprise. [Voici une documentation simple et un modèle Excel de modification](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) couvrant les éléments importants avec lesquels vous pouvez commencer. Ces cas comprennent notamment :
+Le format varie d’une plateforme basée sur le cloud à un document partagé. Vous pouvez concevoir le format qui répond aux besoins de votre entreprise. [Voici une documentation simple et un modèle Excel de modification](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) couvrant les éléments importants que vous pouvez utiliser. Ces cas comprennent notamment :
 
 * Documentation
    * Nom du modèle de programme
@@ -92,9 +92,9 @@ Créer un emplacement central ou un référentiel pour stocker toute la document
 
 Planifiez des révisions régulières de votre documentation afin de vous assurer qu’elle reste exacte et à jour. On peut facilement l&#39;ignorer pendant les heures de pointe. Configurez de manière proactive des rappels sur votre calendrier afin de vous assurer que votre équipe effectue régulièrement des mises à jour pour refléter les modifications ou les optimisations de vos programmes opérationnels.
 
-## Et après ? 
+## Et après ?
 
-Commencer en téléchargeant ceci [modèle simple](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
+Commencer en téléchargeant ceci [modèle simple](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
 
 Suivez les étapes ci-dessus pour développer votre guide de gouvernance et votre documentation. Pendant que vous effectuez le processus, tenez compte des règles de base suivantes :
 
