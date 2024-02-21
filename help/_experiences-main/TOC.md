@@ -2,10 +2,10 @@
 user-guide-title: Experiences by You
 user-guide-description: Contenu généré par la clientèle Adobe
 breadcrumb-title: Experiences by You
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 81%
+source-wordcount: '293'
+ht-degree: 73%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 81%
 
 + [!DNL Analytics] par vous {#analytics}
    + [Vue d’ensemble](/help/analytics/overview.md)
-   + Présentation du service [!DNL Analytics]{#intro-to-analytics}
+   + Introduction à [!DNL Analytics] {#intro-to-analytics}
       + Transitionner à partir d’autres plateformes {#transitioning-from-other-platforms}
          + [Transition depuis [!DNL Google Analytics]](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
@@ -34,7 +34,7 @@ ht-degree: 81%
       + Mesures {#metrics}
          + [Au revoir Excel, bonjour les mesures calculées !](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [Faites passer un cap à votre analyse des données grâce aux mesures calculées](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
-      + Organisation et partage de projets {#curate-and-share-projects}
+      + Organiser et partager des projets {#curate-and-share-projects}
          + [Exploiter la puissance du partage en lecture seule](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
       + Conseils et astuces {#tips-and-tricks}
          + [Conseils et astuces accessibles par un clic droit pour des workflows plus efficaces](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
@@ -63,18 +63,20 @@ ht-degree: 81%
    + [!DNL Campaign Standard] {#campaign-standard}
       + [Résolution de problèmes pour les spécialistes du marketing](/help/campaign/acs/troubleshooting-for-marketers.md)
    + Stratégie et leadership{#strategy}
-      + [Dix bonnes pratiques pour le succès de  [!DNL Adobe Campaign]  pour les spécialistes marketing](/help/campaign/10-best-practices-for-marketers.md)
-+ Experience Manager by You {#experience-manager}
+      + [Dix bonnes pratiques pour [!DNL Adobe Campaign] succès pour les marketeurs](/help/campaign/10-best-practices-for-marketers.md)
++ Experience Manager par vous {#experience-manager}
    + [Vue d’ensemble](/help/experience-manager/overview.md)
-   + AEM Sites {#sites}
+   + AEM Sites {#sites}
       + [Évaluation de la maturité d’AEM Sites](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
       + Bonnes pratiques {#sites-best-practices}
          + [Conseils et astuces AEM Champion : session 1](/help/experience-manager/sites/expert-resources/champion-tips-1.md)
          + [Conseils et astuces AEM Champion : session 2](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
-   + AEM as a Cloud Service {#cloud-service}
+   + AEM as a Cloud Service {#cloud-service}
       + [[!DNL Cloud Manager] Intégration à Playbook](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
       + [[!DNL Cloud Manager] Types d’environnement](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
       + [[!DNL Cloud Manager] Interface utilisateur](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + Bonnes pratiques {#cloud-manager-best-practices}
+         + [Utilisation des journaux dans Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
 + [!DNL Marketo Engage] par vous {#marketo-engage}
    + [Vue d’ensemble](/help/marketo/overview.md)
    + Notions fondamentales {#fundamentals}
