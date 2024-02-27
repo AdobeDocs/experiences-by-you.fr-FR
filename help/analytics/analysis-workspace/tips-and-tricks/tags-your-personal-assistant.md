@@ -9,7 +9,7 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: 718a4fcd0ae06f544d1a78926b0c4d13cda8808a
+source-git-commit: e63d6cf68e70622ddcdbe92064d84ad72ca483c3
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Eh bien, je déteste faire éclater votre bulle, mais essayez simplement de part
 
 Donc, c&#39;est le jeu depuis le premier jour, mais si nous pouvions changer les règles ?
 
-En fait, et si nous pouvions créer notre propre assistant personnel pour changer ces rôles pour de bon ?
+En fait, et si nous pouvions créer notre propre assistant personnel pour changer ces règles pour de bon ?
 
 Sérieusement, ce dont nous parlons ici, ce sont les TAGS !  C&#39;est vrai!!  C&#39;est notre ami avec le hashtag, anciennement connu sous les noms de &quot;chiffre&quot; et de &quot;livre sterling&quot;, comme nous l&#39;avons vu sur nos téléphones.  Ceux d&#39;entre nous qui musiciens là-bas appellent même ça &quot;sharp&quot;.
 
