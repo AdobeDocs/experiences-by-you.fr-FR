@@ -10,15 +10,14 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-source-git-commit: 35e62c4f1a093b4f755e175e9b553a43887e4292
+source-git-commit: a27a5538a7009d00d01227865ced4c5039147496
 workflow-type: tm+mt
-source-wordcount: '722'
-ht-degree: 5%
+source-wordcount: '711'
+ht-degree: 2%
 
 ---
 
-# Dépannage pour les spécialistes du marketing : 5 erreurs courantes de workflow et de diffusion
+# Dépannage pour les marketeurs : 5 erreurs courantes de workflow et de diffusion
 
 Par : [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, consultant principal, Meijer
 
@@ -29,7 +28,7 @@ En utilisant ACS, j&#39;ai rencontré des erreurs qui peuvent prendre du temps e
 
 ## Erreur de correspondance du type de données
 
-**Code d’erreur:**
+**Code d’erreur :**
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **Cause :**
@@ -45,7 +44,7 @@ Remplacez le type de données du champ de l&#39;activité &quot;Chargement de fi
 
 ## Erreur de personnalisation de la diffusion
 
-**Code d’erreur:**
+**Code d’erreur :**
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **Cause :**
@@ -64,7 +63,7 @@ En savoir plus sur [réconciliation](https://experienceleague.adobe.com/docs/cam
 
 ## Erreur du jeu de données de champ commun
 
-**Code d’erreur:**
+**Code d’erreur :**
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Cause :**
@@ -73,7 +72,7 @@ Ce problème se produit lors de l’utilisation de la variable **activité d’e
 
 ![Erreur du jeu de données de champ commun](/help/_assets/kt-13256/dataset-error.png)
 
-**Solution:**
+**Solution :**
 
 Cette erreur peut être résolue de deux manières différentes :
 
@@ -87,10 +86,10 @@ Cette erreur peut être résolue de deux manières différentes :
 
 ## Nom du champ Erreur de suppression
 
-**Code d’erreur:**
+**Code d’erreur :**
 `XTK-170036 Unable to parse expression 'i__name'`
 
-**Cause:**
+**Cause :**
 
 Les points d’échec peuvent se produire dans une variable **activité d&#39;enrichissement**. L’une des plus courantes est affichée ci-dessous.
 
@@ -98,7 +97,7 @@ Les points d’échec peuvent se produire dans une variable **activité d&#39;en
 
 Cela se produit lorsque vous modifiez manuellement le nom d’une expression dans l’activité. L’image montre que l’expression a été modifiée à partir de `name `to `i__name`.
 
-**Solution:**
+**Solution :**
 
 Vous pouvez résoudre cette erreur de trois façons :
 
@@ -110,7 +109,7 @@ Vous pouvez résoudre cette erreur de trois façons :
 
 ## Erreur de suppression de la table temporaire 
 
-**Code d’erreur:**
+**Code d’erreur :**
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **Cause :**
