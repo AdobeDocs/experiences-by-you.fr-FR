@@ -2,10 +2,10 @@
 user-guide-title: Experiences by You
 user-guide-description: Contenu généré par la clientèle Adobe
 breadcrumb-title: Experiences by You
-source-git-commit: ba46ad10c20184083076950883f169df09ca7778
+source-git-commit: 1b241ca79816dde59641bbdfc05b35041862d145
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 67%
+source-wordcount: '323'
+ht-degree: 66%
 
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 67%
          + [Création de segments de parcours client - deuxième partie](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [Différences entre le créateur de segments et les segments rapides](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
          + [Maintenant, attendez un segment... Utiliser la segmentation pour découvrir de nouvelles informations](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [La magie derrière le rideau - des segments complexes](/help/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + Mesures {#metrics}
          + [Au revoir Excel, bonjour les mesures calculées !](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [Faites passer un cap à votre analyse des données grâce aux mesures calculées](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
