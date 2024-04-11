@@ -2,10 +2,10 @@
 user-guide-title: Experiences by You
 user-guide-description: Contenu généré par la clientèle Adobe
 breadcrumb-title: Experiences by You
-source-git-commit: cdedf565731b423bdac6b48d207fac979d0b7459
+source-git-commit: 56f6d47f6176aaa01343e4f807afbd54b2d49e08
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 65%
+source-wordcount: '333'
+ht-degree: 64%
 
 ---
 
@@ -80,6 +80,7 @@ ht-degree: 65%
       + Bonnes pratiques {#cloud-manager-best-practices}
          + [Utilisation des journaux dans Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
          + [Planification d’une migration vers AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
+         + [Stratégies et conseils de post-migration](/help/experience-manager/cloud-service/expert-resources/aem-champions/post-migration.md)
          + [Utilisation de l’analyseur des bonnes pratiques](/help/experience-manager/cloud-service/expert-resources/aem-champions/best-practice-analyzer.md)
          + [Relever les défis lors de la migration vers AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration-challenges.md)
 + [!DNL Marketo Engage] par vous {#marketo-engage}
