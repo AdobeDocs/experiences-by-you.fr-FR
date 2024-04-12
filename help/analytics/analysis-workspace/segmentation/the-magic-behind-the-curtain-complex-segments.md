@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
-source-git-commit: 59dbe503fb179ed24ec8380f0d3e853deec82a7b
+source-git-commit: 1e9e57c00adb37a01e42cbbb82e62918e7543b19
 workflow-type: tm+mt
 source-wordcount: '4102'
 ht-degree: 2%
@@ -202,7 +202,7 @@ Passons un peu de temps à décompresser, car il y a beaucoup de choses qui se p
 
 Tout d’abord, au lieu d’afficher une ventilation quotidienne, je vous montre une ventilation de page, car je pense que cela aidera à mieux illustrer les deux segments.
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">Les trois premières colonnes (Pages vues, Visites et Visiteurs uniques) ne sont pas segmentées et affichent donc toutes les pages du site. Notez que je n’ai pas inclus les commandes ici, car les commandes sont suivies sur une action et ne font donc pas partie de la portée de la dimension de page.</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail1.png" width="352"
@@ -210,7 +210,7 @@ Tout d’abord, au lieu d’afficher une ventilation quotidienne, je vous montre
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">Ensuite, je montre le résultat du segment simple, en regardant uniquement <strong>accès</strong> sur les deux pages spécifiées. Vous remarquerez que les autres pages de la ventilation génèrent toutes 0, comme prévu.</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
@@ -218,7 +218,7 @@ Tout d’abord, au lieu d’afficher une ventilation quotidienne, je vous montre
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">Maintenant, voici un petit bonus, avant d’afficher le résultat du segment avancé, j’ai utilisé un autre segment simple de "Commandes existantes" (à un niveau d’accès), et je l’ai associé à des visiteurs uniques. Cela me renverra le total des UV qui ont passé des commandes pendant la période de mon rapport, ainsi que les UV qui ont touché chacune de ces pages... cela aidera à mieux illustrer le prochain ensemble de colonnes.</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail3.png" width="352"
@@ -226,7 +226,7 @@ Tout d’abord, au lieu d’afficher une ventilation quotidienne, je vous montre
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">L’ensemble final de colonnes est empilé avec mon segment complexe. L’ensemble des UV avec commandes correspond au segment "Commandes existantes" simple à chaque page, mais vous remarquerez que le total est significativement différent. Comme cet ensemble de données limite explicitement l’ensemble de données aux visiteurs qui ont passé des commandes ET accédé aux pages, je m’intéresse explicitement.</td> <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail4.png" width="352">
         </td>
@@ -333,14 +333,14 @@ Changeons les choses et commençons par regarder les comparaisons, puis nous all
 
 ![Segment5A-TableauComparaison](assets/segment-example-5/segment5a-table-comparison.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">Les 4 premières colonnes ne sont pas segmentées et devraient être faciles à comprendre. Notez que *"Entrées"* est essentiellement une valeur calculée basée sur l’endroit où les visiteurs démarrent la session. Je l'ai ajouté ici pour montrer que cela ne renvoie pas les informations recherchées, car les utilisateurs peuvent accéder au site par plusieurs canaux marketing (en regardant les médias sociaux, en effectuant des recherches, en cliquant sur des emails marketing, etc.). tous dans la même visite/session).</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
         </td>
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">L’ensemble de colonnes suivant utilise un "segment d’accès standard", qui examine essentiellement les accès pour lesquels le canal marketing est "recherche payante". Toutefois, cela renverra TOUS les accès en fonction de l’attribution Canal marketing, mais sans isoler les clics publicitaires "Recherche payante" réels. Par conséquent, cela ne renverra pas les données dont nous avons besoin.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail2.png" width="352">
         </td>
@@ -350,7 +350,7 @@ Changeons les choses et commençons par regarder les comparaisons, puis nous all
 
 ![Segment5A-PaidSearchHit](assets/segment-example-5/segment5a-paid-search-hit.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">Maintenant, les deux prochains ensembles de données semblent identiques, et en fait, ils retourneront les mêmes données de deux manières différentes. Mais maintenant, je regarde spécifiquement le <i>instances</i> où était le canal marketing <strong>set</strong> à "Recherche payante".</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
         </td>
