@@ -2,10 +2,10 @@
 user-guide-title: Experiences by You
 user-guide-description: Contenu généré par la clientèle Adobe
 breadcrumb-title: Experiences by You
-source-git-commit: 56f6d47f6176aaa01343e4f807afbd54b2d49e08
+source-git-commit: 75b14fc5c051bffd8110a1e31f72bfdc965f9cff
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 64%
+source-wordcount: '341'
+ht-degree: 62%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 64%
          + [Faites passer un cap à votre analyse des données grâce aux mesures calculées](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + Organiser et partager des projets {#curate-and-share-projects}
          + [Exploiter la puissance du partage en lecture seule](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [Déverrouiller les analyses, exploiter la puissance des annotations](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + Conseils et astuces {#tips-and-tricks}
          + [Conseils et astuces accessibles par un clic droit pour des workflows plus efficaces](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
          + [#Tags - votre assistant personnel](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
