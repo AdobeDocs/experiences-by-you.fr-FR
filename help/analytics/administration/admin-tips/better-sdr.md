@@ -10,9 +10,9 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 484f93bc2828d2565486eff8ae4801a8d203d280
+source-git-commit: 35d2ea7d88d2c43b79730c700e73e539c5f0d8ac
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **Modifiez votre stratégie de données et habilitez votre équipe à créer un document de référence de conception de solution (SDR) solide. Éliminer les écarts de mesure et favoriser une culture collaborative des données au moyen de méthodologies étape par étape.**
 
-Il est enfin temps. Vous avez créé une référence solide de conception de solution (DTS). Il s’agit du guide que vous utilisez pour implémenter vos mesures et dimensions, ce qu’elles sont appelées, quand elles se déclenchent, et que vos appareils l’ont adoré. Vous avez parcouru l&#39;ensemble du processus de déploiement, écrit les critères d&#39;acceptation, parcouru vos empreintes, QAing tout le processus, et c&#39;est fait ! C&#39;était beaucoup de travail, et maintenant c&#39;est fait. Votre instance d’Adobe Analytics doit faire passer le marketing et les produits de haut en bas au fur et à mesure qu’ils analysent les données, obtiennent de nouvelles révélations sur vos clients, et trouvent tous les domaines de succès et, enfin, les domaines de moindre succès. Mais vous n&#39;entendez pas les éloges que vous attendiez.
+Il est enfin temps. Vous avez créé une référence solide de conception de solution (DTS). Il s’agit du guide que vous utilisez pour implémenter vos mesures et dimensions, ce qu’elles sont appelées, quand elles se déclenchent, et que vos appareils l’ont adoré. Vous avez parcouru l&#39;ensemble du processus de déploiement, écrit les critères d&#39;acceptation, parcouru vos empreintes, QAing tout le processus, et c&#39;est fait ! C&#39;était beaucoup de travail, et maintenant c&#39;est fait. Votre instance d’Adobe Analytics doit faire passer le marketing et les produits de haut en bas au fur et à mesure qu’ils analysent les données, obtiennent de nouvelles révélations sur vos clients, et trouvent tous les domaines de succès et, enfin, les domaines de moindre succès. Mais vous n&#39;entendez pas les louanges que vous attendiez.
 
 D&#39;un camp, vous entendez des plaintes.
 
@@ -30,7 +30,7 @@ D&#39;un camp, vous entendez des plaintes.
 
 &quot;Pourquoi n’y a-t-il pas de mesure pour cela ?&quot;
 
-&quot;J&#39;ai besoin de beaucoup plus de détails à ce sujet ! Une mesure seule ne suffit pas. Il y a au moins trois dimensions différentes dont j’ai besoin pour comprendre la performance. Pourquoi ne les avez-vous pas mis dedans ?&quot;
+&quot;J&#39;ai besoin de beaucoup plus de détails à ce sujet ! Une mesure seule ne suffit pas. Il y a au moins trois dimensions différentes dont j’ai besoin pour comprendre les performances. Pourquoi ne les avez-vous pas mis dedans ?&quot;
 
 Mais c&#39;est l&#39;autre camp qui est une cause d&#39;inquiétude encore plus grande. D&#39;eux, vous n&#39;entendez rien du tout. Mais bien pire, vous voyez des graphiques qui ont été très clairement extraits de votre ancienne solution d&#39;analyse, vous savez, celle qui n&#39;est plus entretenue, et chaque jour tombe plus dans un marécage de décrépitude et de données sales. Un sentiment de terreur vous remplit quand vous pensez aux décisions qui pourraient être prises avec ce désordre.
 
@@ -107,7 +107,7 @@ Ce n&#39;est pas le moyen le plus rapide de rassembler un DTS. C&#39;est beaucou
 
 Ce document a été rédigé par :
 
-![capture d’écran de Gitai](assets/gitai-headshot.png)
+![capture d’écran de Gitai](assets/gitai-headshot-150.jpg)
 
 Gitai Ben-Ammi, directeur associé de l&#39;architecture commerciale chez Accenture
 
