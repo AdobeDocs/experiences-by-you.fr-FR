@@ -2,10 +2,10 @@
 user-guide-title: Experiences by You
 user-guide-description: Contenu généré par la clientèle Adobe
 breadcrumb-title: Experiences by You
-source-git-commit: 41ca454dc8526d42848033ef30036e200b8adc99
+source-git-commit: d3772a4fd4e5e2d26bc637370c7ba7d29336ccb4
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 62%
+source-wordcount: '350'
+ht-degree: 61%
 
 ---
 
@@ -18,47 +18,48 @@ ht-degree: 62%
    + [Vue d’ensemble](/help/analytics/overview.md)
    + Introduction à [!DNL Analytics] {#intro-to-analytics}
       + Transitionner à partir d’autres plateformes {#transitioning-from-other-platforms}
-         + [Transition depuis [!DNL Google Analytics]](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+         + [Transition depuis [!DNL Google Analytics]](../analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
       + Utilisation des panneaux {#using-panels}
-         + [Présentation du panneau d’attribution et des fenêtres rétroactives](/help/analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
+         + [Présentation du panneau d’attribution et des fenêtres rétroactives](../analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + Visualisations {#visualizations}
-         + [Libérer les Insights avec des histogrammes](/help/analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
-         + [Plus que des mots - Utiliser des visualisations et descriptions de texte](/help/analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
-         + [Comprendre le comportement de la clientèle à l’aide de l’Analyse des cohortes](/help/analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
+         + [Libérer les Insights avec des histogrammes](../analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+         + [Plus que des mots - Utiliser des visualisations et descriptions de texte](../analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+         + [Comprendre le comportement de la clientèle à l’aide de l’Analyse des cohortes](../analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
       + Segmentation {#segmentation}
-         + [Création de segments de parcours client](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
-         + [Création de segments de parcours client - deuxième partie](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
-         + [Différences entre le créateur de segments et les segments rapides](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
-         + [Maintenant, attendez un segment... Utiliser la segmentation pour découvrir de nouvelles informations](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
-         + [La magie derrière le rideau - des segments complexes](/help/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
+         + [Création de segments de parcours client](../analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
+         + [Création de segments de parcours client - deuxième partie](../analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
+         + [Différences entre le créateur de segments et les segments rapides](../analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
+         + [Maintenant, attendez un segment... Utiliser la segmentation pour découvrir de nouvelles informations](../analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [La magie derrière le rideau - des segments complexes](../analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + Mesures {#metrics}
-         + [Au revoir Excel, bonjour les mesures calculées !](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+         + [Au revoir Excel, bonjour les mesures calculées !](../analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [Faites passer un cap à votre analyse des données grâce aux mesures calculées](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + Organiser et partager des projets {#curate-and-share-projects}
-         + [Exploiter la puissance du partage en lecture seule](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [Exploiter la puissance du partage en lecture seule](../analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
          + [Déverrouiller les analyses, exploiter la puissance des annotations](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + Conseils et astuces {#tips-and-tricks}
-         + [Conseils et astuces accessibles par un clic droit pour des workflows plus efficaces](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
-         + [#Tags - votre assistant personnel](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
+         + [Conseils et astuces accessibles par un clic droit pour des workflows plus efficaces](../analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [#Tags - votre assistant personnel](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + Administration {#administration}
       + Compétences clés en administration {#key-admin-skills}
-         + [Créer une communauté plus forte](/help/analytics/administration/key-admin-skills/empowered-community.md)
-         + [Simplifier et consacrer moins de temps à la formation des utilisateurs](/help/analytics/administration/key-admin-skills/simplify-training-users.md)
-         + [Avoir une place à table](/help/analytics/administration/key-admin-skills/gaining-a-seat-at-the-table.md)
-         + [Raconter des histoires percutantes avec des données](/help/analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
-         + [Traduire [!DNL Adobe Analytics] langage technique de manière non technique](/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
-         + [Travailler à la transversale](/help/analytics/administration/key-admin-skills/working-cross-functionally.md)
+         + [Créer une communauté plus forte](../analytics/administration/key-admin-skills/empowered-community.md)
+         + [Simplifier et consacrer moins de temps à la formation des utilisateurs](../analytics/administration/key-admin-skills/simplify-training-users.md)
+         + [Avoir une place à table](../analytics/administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+         + [Raconter des histoires percutantes avec des données](../analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
+         + [Traduire [!DNL Adobe Analytics] langage technique de manière non technique](../analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+         + [Travailler à la transversale](../analytics/administration/key-admin-skills/working-cross-functionally.md)
       + Conseils et bonnes pratiques pour les administrateurs {#admin-tips}
-         + [Télécharger le manuel relatif à l’implémentation](/help/analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
-         + [Créer des conventions d’affectation de noms normalisées](/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md)
-         + [Créer des modèles de code normalisés](/help/analytics/administration/admin-tips/create-standardized-code-templates.md)
-         + [Créer des vidéos et des formations de base](/help/analytics/administration/admin-tips/create-basic-videos-and-training.md)
-         + [Créer un [!DNL Adobe Analytics] site](/help/analytics/administration/admin-tips/create-an-internal-adobe-analytics-site.md)
-         + [Utiliser une suite de rapports globale](/help/analytics/administration/admin-tips/use-a-global-report-suite.md)
-         + [Créer un projet d’actualités et d’annonces](/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
-         + [Exceller grâce aux tableaux de bord exécutifs synthétiques](/help/analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-         + [Créer des tableaux de bord opérationnels](/help/analytics/administration/admin-tips/create-operational-dashboards.md)
+         + [Télécharger le manuel relatif à l’implémentation](../analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+         + [Créer des conventions d’affectation de noms normalisées](../analytics/administration/admin-tips/create-standardized-naming-conventions.md)
+         + [Créer des modèles de code normalisés](../analytics/administration/admin-tips/create-standardized-code-templates.md)
+         + [Créer des vidéos et des formations de base](../analytics/administration/admin-tips/create-basic-videos-and-training.md)
+         + [Créer un [!DNL Adobe Analytics] site](../analytics/administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+         + [Utiliser une suite de rapports globale](../analytics/administration/admin-tips/use-a-global-report-suite.md)
+         + [Créer un projet d’actualités et d’annonces](../analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
+         + [Exceller grâce aux tableaux de bord exécutifs synthétiques](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+         + [Créer des tableaux de bord opérationnels](../analytics/administration/admin-tips/create-operational-dashboards.md)
+         + [Construire une culture des données et une meilleure référence de conception de solution](../analytics/administration/admin-tips/better-sdr.md)
 + [!DNL Campaign] par vous {#campaign}
    + [Vue d’ensemble](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
