@@ -10,13 +10,13 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
+source-git-commit: b3b98aee5ee23e323a9bc762c673700b02366f4c
 workflow-type: tm+mt
 source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # Construire une culture des données et une meilleure référence de conception de solution
 
@@ -61,7 +61,7 @@ Je vais commencer en vous laissant sortir un peu du crochet. Il y a *always* ce 
 ***Tableaux de bord d’aperçu***
 
 1. À l’aide de la carte Entonnoir , créez des tableaux de bord de maquette.
-1. Il doit y avoir une vue globale, comme un tableau de bord Résumé, et des tableaux de bord pour chacun des entonnoirs.
+1. Il doit y avoir une vue globale, telle qu’une [Tableau de bord du résumé exécutif](driving-success-with-executive-summary-dashboards.md)et les tableaux de bord pour chacun des entonnoirs.
 1. Il y en aura également d’autres plus spécifiques à votre site ou application, comme les performances du produit ou les performances du contenu.
 1. Distribuez-les aux parties prenantes concernées et obtenez des commentaires sur la conception.
 1. Effectuez les mises à jour demandées et, si de nouvelles mesures ou dimensions sont nécessaires, ajoutez-les à votre SDR.
@@ -112,4 +112,3 @@ Ce document a été rédigé par :
 Gitai Ben-Ammi, directeur associé de l&#39;architecture commerciale chez Accenture
 
 Adobe Analytics Champion
-
