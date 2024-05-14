@@ -2,10 +2,10 @@
 user-guide-title: Experiences by You
 user-guide-description: Contenu généré par la clientèle Adobe
 breadcrumb-title: Experiences by You
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 61%
+source-wordcount: '358'
+ht-degree: 60%
 
 ---
 
@@ -60,6 +60,8 @@ ht-degree: 61%
          + [Exceller grâce aux tableaux de bord exécutifs synthétiques](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
          + [Créer des tableaux de bord opérationnels](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [Construire une culture des données et une meilleure référence de conception de solution](../analytics/administration/admin-tips/better-sdr.md)
+   + Implémentation {#implementation}
+      + [Guide stratégique pour la mise en oeuvre du SDK Web](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
 + [!DNL Campaign] par vous {#campaign}
    + [Vue d’ensemble](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
