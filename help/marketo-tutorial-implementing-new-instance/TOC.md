@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 5c97b4fa98a54c7891fa0537b9540beb5bbfffdf
+source-git-commit: 3f0c335cc1660e7fbafd46dc372d3bab65eff763
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '91'
 ht-degree: 2%
 
 ---
@@ -27,5 +27,4 @@ ht-degree: 2%
 + [Organisation d’une nouvelle instance et établissement de conventions de dénomination](./organizing-new-instance.md)
 + [Concevoir un marketing conversationnel omnicanal avec Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Prise en main de la gouvernance et de la documentation des instances](./documenting-your-instance.md)
-+ [[!DNL Marketo Engage] par vous](/https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
 + [[!DNL Marketo Engage] Tutoriels](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr)
