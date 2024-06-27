@@ -1,19 +1,19 @@
 ---
-title: Dix bonnes pratiques pour le succès de  [!DNL Adobe] [!DNL Campaign] pour les spécialistes marketing
+title: Dix bonnes pratiques pour [!DNL Adobe] [!DNL Campaign] succès pour les marketeurs
 description: Découvrez les dix bonnes pratiques pour vous aider [!DNL Adobe] [!DNL Campaign] les utilisateurs déverrouillent et accélèrent la transformation numérique des consommateurs et une meilleure expérience pour leurs clients.
 doc-type: article
 solution: Campaign
 feature-set: Campaign
-feature: Personalization, [!DNL Campaign]s, Subscriptions, Deliverability
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: add6ed84-892d-4901-9dd2-b0cba0c57290
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: ec621f6e118292a3f8448c0e21abe8a1284cb10e
 workflow-type: tm+mt
-source-wordcount: '1276'
-ht-degree: 81%
+source-wordcount: '1262'
+ht-degree: 77%
 
 ---
 
@@ -28,7 +28,7 @@ Dans cet article, Christian partage ses bonnes pratiques pour aider. [!DNL Adobe
 
 Première étape pour garantir le succès de [!DNL [!DNL Adobe] [!DNL Campaign]] permet de comprendre vos outils et les attentes des clients, et cela est vrai dans n’importe quel type de marketing. Définissez et comprenez clairement les canaux que vous utilisez pour contacter vos client(e)s, sachez quand utiliser ces canaux et pourquoi.
 
-[!DNL Adobe][!DNL Campaign] est un outil flexible qui vous permet d’exécuter et d’orchestrer des communications de différentes manières. [La moitié des client(e)s utilisent trois à cinq canaux lors de chaque parcours d’achat ](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Il est donc essentiel de comprendre et de planifier l’utilisation de ces canaux pour accomplir tout le potentiel de votre plateforme et interagir avec vos client(e)s.
+[!DNL Adobe] [!DNL Campaign] est un outil flexible qui vous permet d’exécuter et d’orchestrer des communications de différentes manières. [La moitié des client(e)s utilisent trois à cinq canaux lors de chaque parcours d’achat ](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Il est donc essentiel de comprendre et de planifier l’utilisation de ces canaux pour accomplir tout le potentiel de votre plateforme et interagir avec vos client(e)s.
 
 ## 2. Documenter et comprendre vos données des client(e)s
 
@@ -50,7 +50,7 @@ Vos campagnes sont aussi efficaces que les structures de données sous-jacentes 
 
 Comme vos client(e)s, vous avez une routine quotidienne. L’envoi et l’orchestration de vos campagnes doivent correspondre à ce rythme. Sinon, vous risquez de ne pas atteindre vos client(e)s, étant donné que [85 % des e-mails envoyés ne sont jamais ouverts et 98 % n’obtiennent pas de clic publicitaire](https://www.validity.com/resource-center/state-of-email-2021/).
 
-Si, par exemple, vos client(e)s consultent leur téléphone le matin à la recherche des meilleures offres, envisagez de leur envoyer une promotion par SMS. S’ils ou elles naviguent la nuit en quête de la prochaine tendance, pensez à envoyer un e-mail de relance avec un code promo pour une livraison gratuite. Il est également important d’utiliser l’outil de carte thermique dans [!DNL [!DNL Campaign]] pour tracker l&#39;exécution de vos workflows et envois. La coordination et la facilitation des communications entre plusieurs marques peut s’avérer difficile. [Garder un œil sur le rythme, la cadence et le timing de vos e-mails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=fr)[!DNL Campaign] est essentiel pour assurer la stabilité et la force globales de votre message et de votre instance 
+Si, par exemple, vos client(e)s consultent leur téléphone le matin à la recherche des meilleures offres, envisagez de leur envoyer une promotion par SMS. S’ils ou elles naviguent la nuit en quête de la prochaine tendance, pensez à envoyer un e-mail de relance avec un code promo pour une livraison gratuite. Il est également important d’utiliser l’outil de carte thermique dans [!DNL [!DNL Campaign]] pour tracker l&#39;exécution de vos workflows et envois. La coordination et la facilitation des communications entre plusieurs marques peut s’avérer difficile. [Surveiller et connaître le rythme, la cadence et le timing de vos emails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=fr) sont inestimables pour la stabilité et la force globales de votre message et [!DNL Campaign] instance.
 
 ## 4. Utiliser la personnalisation là où elle est importante
 
