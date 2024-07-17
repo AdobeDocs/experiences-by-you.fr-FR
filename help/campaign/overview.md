@@ -10,13 +10,13 @@ exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 27%
+ht-degree: 26%
 
 ---
 
 # [!DNL Campaign] par Vous : ressources par utilisateurs, pour les utilisateurs.
 
-La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. Les utilisateurs qui prennent les produits, les exploitent, et les appliquent de manière incroyable et innovante pour créer des expériences et des résultats significatifs. Expériences par vous présente le contenu créé par les utilisateurs de tous les jours qui ont atteint un niveau d’expertise et d’influence sur leurs [!DNL Adobe] solutions Experience Cloud. Ce savoir peer-to-peer encourage la collaboration et la découverte - ce qui vous permet, ainsi qu’à tout autre utilisateur, de trouver l’inspiration nécessaire pour améliorer votre expertise produit.
+La chose la plus puissante à propos des solutions Experience Cloud [!DNL Adobe] ? Vous. Les utilisateurs qui prennent les produits, les exploitent, et les appliquent de manière incroyable et innovante pour créer des expériences et des résultats significatifs. Experience by You présente le contenu créé par les utilisateurs de tous les jours qui ont atteint un niveau d’expertise et d’influence avec leurs solutions Experience Cloud [!DNL Adobe]. Ce savoir peer-to-peer encourage la collaboration et la découverte - ce qui vous permet, ainsi qu’à tout autre utilisateur, de trouver l’inspiration nécessaire pour améliorer votre expertise produit.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -37,7 +37,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-    <strong>Meilleures pratiques relatives aux 5 workflows pour les marketeurs</strong>
+    <strong> Meilleures pratiques de workflow pour les marketeurs</strong>
     </a>
     </div>
     <p>
@@ -50,7 +50,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>Dépannage pour les marketeurs : 5 erreurs courantes de workflow et de diffusion</strong>
+    <strong>Résolution des problèmes pour les marketeurs : 5 erreurs courantes de workflow et de diffusion</strong>
     </a>
     </div>
     <p>
@@ -78,7 +78,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
 ## Ressources supplémentaires
 
 * [Communauté Adobe Campaign Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr)
-* Adobe Campaign v8 -  [Documentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=fr) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr)
+* Adobe Campaign v8 - [Documentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=fr) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr)
 * Adobe Campaign Classic v7 - [Documentation](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=fr) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr)
-* ADOBE CAMPAIGN STANDARD - [Documentation](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=fr) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr)
-* [Informations sur les produits Adobe Campaign](https://business.adobe.com/fr/products/campaign/adobe-campaign.html)
+* Adobe Campaign Standard - [Documentation](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=fr) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr)
+* [Informations sur le produit Adobe Campaign](https://business.adobe.com/products/campaign/adobe-campaign.html)

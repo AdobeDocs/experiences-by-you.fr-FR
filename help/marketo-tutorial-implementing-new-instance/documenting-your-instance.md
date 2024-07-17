@@ -9,13 +9,13 @@ duration: 0
 last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
-
 
 # Prise en main de la gouvernance et de la documentation des instances
 
@@ -23,7 +23,7 @@ Une bonne documentation peut être presque aussi importante que l’implémentat
 
 Mais ça ne s&#39;arrête pas là. Votre équipe peut avoir besoin de documents d’activation ou de matériel de formation supplémentaires pour améliorer ses compétences avec Marketo Engage. Ces ressources peuvent inclure des exercices interactifs, des questionnaires d’accès ou des instructions sur les actions possibles dans Marketo Engage, ce qui bénéficie à tous les utilisateurs Marketo Engage de votre entreprise. Que vous créiez un guide de gouvernance complet ou que vous documentiez initialement les principaux aspects de configuration, l’enregistrement des décisions prises lors de l’intégration est essentiel pour garantir le succès de votre équipe actuelle et des futures générations d’embauches.
 
-En comprenant l’importance de la documentation et de la gouvernance, ce tutoriel décrit les bonnes pratiques provenant de pairs experts. [Prise en main de la documentation sur la gouvernance et la formation des Marketo Engage](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} et [Comment documenter votre instance ?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank} pour vous aider à mettre en place un processus et à conserver la documentation adaptée à vos utilisateurs internes.
+En comprenant l’importance de la documentation et de la gouvernance, ce tutoriel décrit les bonnes pratiques provenant de pairs experts [Prise en main de la documentation sur la gouvernance et la formation de votre Marketo Engage](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} et [Comment documenter votre instance ?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank} pour vous aider à mettre en place un processus et à conserver la documentation pertinente pour vos utilisateurs internes.
 
 ## Pourquoi la documentation des modifications et des décisions pendant la mise en oeuvre de l’instance est essentielle
 
@@ -103,7 +103,7 @@ Un autre moyen essentiel de la gouvernance d’instance consiste à créer un fi
 
 ## Et après ?
 
-* Téléchargez la [exemple de documentation et Changelog](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) et les adapter en fonction des besoins de votre entreprise.
+* Téléchargez l’ [exemple de documentation et de Changelog](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) et adaptez-les en fonction des besoins de votre entreprise.
 * Stockez la documentation sur une plateforme accessible sur laquelle votre entreprise préfère référencer et mettre à jour régulièrement. Par exemple, certains champions Marketo Engage utilisent Confluence (par Atlassian) ou Excel Spreadsheet.
 * Assurez-vous que chaque règle que vous créez pour la gouvernance dispose d’un propriétaire pour l’appliquer et adapter la documentation, en la tenant à jour au fil du temps.
 

@@ -1,6 +1,6 @@
 ---
-title: Au revoir Excel, bonjour les mesures calculées !
-description: Découvrez les avantages de l’utilisation de mesures calculées dans [!DNL Adobe Analytics] et comment ils peuvent vous fournir une vue continue et dynamique de vos données dans cet article.
+title: Adieu Excel, bonjour des mesures calculées
+description: Découvrez les avantages de l’utilisation des mesures calculées dans  [!DNL Adobe Analytics] et comment elles peuvent vous fournir une vue continue et dynamique de vos données dans cet article.
 feature-set: Analytics
 feature: Calculated Metrics
 role: User
@@ -12,20 +12,20 @@ thumbnail: KT-13178.jpeg
 exl-id: b233d6d0-2e89-473e-b700-9977b402af39
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1270'
-ht-degree: 1%
+source-wordcount: '1274'
+ht-degree: 0%
 
 ---
 
-# Au revoir Excel, bonjour les mesures calculées !
+# Adieu Excel, bonjour des mesures calculées
 
-Découvrez les avantages de l’utilisation de mesures calculées dans [!DNL Adobe Analytics] et comment ils peuvent vous fournir une vue continue et dynamique de vos données dans cet article.
+Découvrez les avantages de l’utilisation de mesures calculées dans [!DNL Adobe Analytics] et comment elles peuvent vous fournir une vue continue et dynamique de vos données dans cet article.
 
-Hé ! Pourquoi êtes-vous dans Excel en ce moment ? Je sais pourquoi. Vous avez des rapports pour atteindre les bonnes personnes. Vous êtes occupé à saisir des données depuis [!DNL Adobe Analytics] et calculer les taux de conversion, les tracer, et se préparer à les placer tous dans un PowerPoint qui s&#39;adresse aux décideurs. J&#39;espère vraiment que vous utilisez au moins le Report Builder pour le faire, mais je sais que certains d&#39;entre vous copient et collent manuellement des données d&#39;un espace de travail vers Excel.
+Hé ! Pourquoi êtes-vous dans Excel en ce moment ? Je sais pourquoi. Vous avez des rapports pour atteindre les bonnes personnes. Vous êtes occupé à saisir des données provenant de [!DNL Adobe Analytics] et à calculer des taux de conversion, à les tracer et à vous préparer à tous les placer dans un PowerPoint qui se dirige vers les décideurs. J&#39;espère vraiment que vous utilisez au moins le Report Builder pour le faire, mais je sais que certains d&#39;entre vous copient et collent manuellement des données d&#39;un Workspace vers Excel.
 
-Pourquoi ?
+Pourquoi ?
 
-Pourquoi passer par un processus manuel chaque mois ? Pourquoi présenter une vue statique une fois par mois au lieu d’une vue continue et dynamique ? Pourquoi le copier dans PowerPoint ? Pourquoi ne pas créer de mesures calculées dans [!DNL Adobe Analytics] directement ?
+Pourquoi passer par un processus manuel chaque mois ? Pourquoi présenter une vue statique une fois par mois au lieu d’une vue continue et dynamique ? Pourquoi le copier dans PowerPoint ? Pourquoi ne pas créer directement des mesures calculées dans [!DNL Adobe Analytics] ?
 
 ## Les mesures calculées sont puissantes
 
@@ -39,9 +39,9 @@ Les mesures calculées sont puissantes, mais même les fonctions mathématiques 
 
    J&#39;y ai été. Copiez/collez. Entrez la formule ou faites glisser la cellule au-dessus vers le bas. Cliquez sur le graphique et modifiez la plage pour obtenir les douze ou treize derniers mois. Copiez maintenant le graphique. Maintenant, recommencez. Et encore une fois. Et encore une fois. Envoyez le PowerPoint. C&#39;est fastidieux et chronophage, et c&#39;est comme si vous deviez le faire tous les mois pour toujours.
 
-   Vous pouvez à la place créer un espace de travail qui utilise votre mesure calculée, dont la période correspond aux 12 ou 13 derniers mois complets, et dont les données et le graphique sont automatiquement mis à jour au contour de minuit le premier jour de chaque mois. Les destinataires peuvent avoir un accès direct à l’espace de travail. Une copie de PDF peut leur être automatiquement envoyée par courriel le premier jour du mois ou après que vous avez utilisé les visualisations de texte pour ajouter vos commentaires sur les données (vous savez, la partie amusante des rapports).
+   Vous pouvez à la place créer un Workspace qui utilise votre mesure calculée, dont la période correspond aux 12 ou 13 derniers mois complets, et dont les données et le graphique sont automatiquement mis à jour au premier jour de chaque mois, d’un seul coup de minuit. Les destinataires peuvent avoir un accès direct à Workspace. Une copie de PDF peut leur être automatiquement envoyée par courriel le premier jour du mois ou après que vous avez utilisé les visualisations de texte pour ajouter vos commentaires sur les données (vous savez, la partie amusante des rapports).
 
-1. **Les mesures calculées peuvent être appliquées à de grands ensembles de données**
+1. **Des mesures calculées peuvent être appliquées à de grands ensembles de données**
 
    Vous pouvez exporter tous les noms de produits dans Excel et commencer à calculer les taux de conversion et les recettes par visiteur, mais cela devient fastidieux lorsque vous en avez environ 100 000. Aucun problème avec les mesures calculées. Déposez votre dimension dans un tableau comme vous le faites habituellement, puis utilisez vos mesures calculées comme mesures. Vous disposez maintenant d’une table de tri dynamique qui se met à jour automatiquement lorsque des produits ou toute dimension que vous utilisez sont ajoutés à votre catalogue.
 
@@ -55,7 +55,7 @@ Les mesures calculées sont puissantes, mais même les fonctions mathématiques 
 
 La plupart des taux de conversion ne sont que des divisions simples. Divisez le nombre de conversions par le nombre de visiteurs ou de visites. Divisez le nombre de pages vues pour la dernière page d’un entonnoir par le nombre de pages vues pour la première page d’un entonnoir. Divisez le nombre de clics publicitaires de campagne internes par le nombre d’impressions. Toutes ces tâches peuvent facilement être effectuées sous forme de mesures calculées et placées dans un tableau de bord avec une faible latence des données, une mise à jour des visualisations et une plus grande partageabilité.
 
-**Cas d’utilisation 2 : Recherche interne**
+**Cas d’utilisation 2 : recherche interne**
 
 La recherche interne est l’un des outils les plus importants pour comprendre votre site. Les résultats de la recherche sur le site vous indiquent ce qui intéresse vos visiteurs et s’ils peuvent facilement le trouver par le biais de la navigation ou non. Vous devez être en mesure de déterminer si la recherche de votre site fonctionne bien et l’utilisation d’un peu d’ajout et de division de base peut vous donner cette réponse.
 
@@ -75,10 +75,10 @@ J’espère que cela vous a montré certaines des possibilités d’utilisation 
 
 ## Auteur
 
-Ce document a été rédigé par :
+Ce document a été rédigé par :
 
 ![Capture d&#39;écran de Gittai](assets/gittai.png)
 
-**Gitai Ben-Ammi**, consultant principal chez Concentrix Catalyst
+**Gitai Ben-Ammi**, consultant principal chez Concentrix Catalyst
 
 [!DNL Adobe Analytics] Champion

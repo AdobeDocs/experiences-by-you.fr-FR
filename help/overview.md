@@ -15,7 +15,7 @@ ht-degree: 9%
 
 # Expériences par vous : ressources par utilisateurs, pour les utilisateurs.
 
-La chose la plus puissante sur [!DNL Adobe] solutions d’expérience numérique (DX) ? Vous. Les utilisateurs qui prennent les produits, les exploitent, et les appliquent de manière incroyable et innovante pour créer des expériences et des résultats significatifs. _Expériences par vous_ propose du contenu créé par des utilisateurs ordinaires ayant atteint un niveau d’expertise et d’influence par rapport à leurs [!DNL Adobe] Solutions DX. Ce savoir peer-to-peer encourage la collaboration et la découverte - ce qui vous permet, ainsi qu’à tout autre utilisateur, de trouver l’inspiration nécessaire pour améliorer votre expertise produit.
+La chose la plus puissante à propos des solutions [!DNL Adobe] d’expérience numérique (DX) ? Vous. Les utilisateurs qui prennent les produits, les exploitent, et les appliquent de manière incroyable et innovante pour créer des expériences et des résultats significatifs. _Experience by You_ présente le contenu créé par des utilisateurs ordinaires ayant atteint un niveau d’expertise et d’influence avec leurs solutions [!DNL Adobe] DX. Ce savoir peer-to-peer encourage la collaboration et la découverte - ce qui vous permet, ainsi qu’à tout autre utilisateur, de trouver l’inspiration nécessaire pour améliorer votre expertise produit.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -40,7 +40,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions d’expérience numérique
     </a>
     </div>
     <p>
-    <em>Conseils pratiques pour [!DNL Analysis Workspace] pour rendre vos workflows plus efficaces.</em>
+    <em>Conseils que vous pouvez utiliser dans [!DNL Analysis Workspace] pour rendre vos workflows plus efficaces.</em>
     <p>
   </td>
   <td>
@@ -53,12 +53,12 @@ La chose la plus puissante sur [!DNL Adobe] solutions d’expérience numérique
     </a>
     </div>
     <p>
-    <em>Tutoriel détaillé pour savoir comment créer un programme de messagerie avec un test A/B.</em>
+    <em>Tutoriel détaillé pour apprendre à créer un programme de messagerie avec un test A/B.</em>
     <p>
   </td>
   <td>
     <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="AEM playbook d’intégration as a Cloud Service" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+      <img alt="Manuel d’intégration AEM as a Cloud Service" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
@@ -66,7 +66,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions d’expérience numérique
     </a>
     </div>
     <p>
-    <em>Le manuel d’intégration vous permet de prendre en charge en tant que nouvel administrateur et développeur les [!DNL AEM as a Cloud Service].</em>
+    <em> Le manuel d’intégration vous aide à prendre en charge les fonctions d’administrateur et de développeur pour [!DNL AEM as a Cloud Service].</em>
     <p>
   </td>
 </tr>
@@ -75,7 +75,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions d’expérience numérique
 
 ## Ressources supplémentaires
 
-* [Communautés d’Experience League](https://experienceleaguecommunities.adobe.com/?profile.language=fr)
+* [Communautés Experience League](https://experienceleaguecommunities.adobe.com/?profile.language=fr)
 * [Documentation Experience Cloud](https://experienceleague.adobe.com/docs/?lang=fr)
 * [Tutoriels Experience Cloud](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr)
 * [business.adobe.com](https://business.adobe.com)

@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Construire une culture des données et une meilleure référence de conception de solution
 
-_Modifiez votre stratégie de données et habilitez votre équipe à créer un document de référence de conception de solution (SDR) solide. Éliminer les écarts de mesure et favoriser une culture collaborative des données au moyen de méthodologies étape par étape._
+_Modifiez votre stratégie de données et habilitez votre équipe à créer un document de référence de conception de solution (SDR) solide. Éliminer les écarts de mesure et favoriser une culture collaborative des données par des méthodologies pas à pas._
 
-Il est enfin temps. Vous assemblez un solide DTS. Un SDR est le guide que vous utilisez pour implémenter vos mesures et dimensions. Vous avez défini comment on les appelle, quand ils se déclenchent, et vos développeurs adorent ça. Vous avez parcouru tout le processus de déploiement, écrit les critères d&#39;acceptation, parcouru vos empreintes, testé, et c&#39;est fait ! Votre instance de [!DNL Adobe Analytics] devrait être la célébration par les équipes marketing et produit lorsqu’elles analysent les données, obtenir de nouvelles révélations sur vos clients, et trouver tous les domaines de succès et, enfin, les domaines de moindre succès. Mais vous n&#39;entendez pas les louanges que vous attendiez.
+Il est enfin temps. Vous assemblez un solide DTS. Un SDR est le guide que vous utilisez pour implémenter vos mesures et dimensions. Vous avez défini comment on les appelle, quand ils se déclenchent, et vos développeurs adorent ça. Vous avez parcouru tout le processus de déploiement, écrit les critères d&#39;acceptation, parcouru vos empreintes, testé, et c&#39;est fait ! Votre instance de [!DNL Adobe Analytics] doit recevoir les célébrations des équipes marketing et produit lorsqu’elles analysent les données, obtiennent de nouvelles révélations sur vos clients et trouvent tous les domaines de succès et, enfin, les domaines de moindre succès. Mais vous n&#39;entendez pas les louanges que vous attendiez.
 
 D’une équipe, vous entendez des plaintes comme :
 
@@ -34,17 +34,17 @@ D’une équipe, vous entendez des plaintes comme :
 
 Mais c&#39;est l&#39;autre équipe qui est une cause d&#39;inquiétude encore plus grande. D&#39;eux, vous n&#39;entendez rien du tout. Pire encore, vous voyez des graphiques qui ont clairement été extraits de votre ancienne solution d&#39;analyse (celle qui n&#39;est plus entretenue, et qui chaque jour tombe plus loin dans un marécage de décrépitude et de données sales). Un sentiment de terreur vous remplit lorsque vous considérez les décisions qui pourraient être prises avec ce gâchis originel.
 
-_Qu&#39;est-ce qui s&#39;est mal passé ?_
+_Qu’est-ce qui s’est mal passé ?_
 
-_Pourquoi y a-t-il des écarts dans les mesures ?_
+_Pourquoi y a-t-il des écarts dans la mesure ?_
 
-_Pourquoi les membres de votre équipe n&#39;acceptent-ils pas cela ?_
+_Pourquoi les membres de votre équipe n’acceptent-ils pas cela ?_
 
-Je vais commencer en vous laissant sortir légèrement du crochet. Il y a _always_ ce sera une révision. Si votre site ou application est suffisamment complexe pour avoir besoin d’une solution d’analyse d’entreprise, il est garanti que vous manquerez quelque chose. Mais dans ce cas, vous n&#39;avez pas manqué d&#39;expliquer les écarts de mesure que je décris.
+Je vais commencer en vous laissant sortir légèrement du crochet. _sera toujours_ une révision. Si votre site ou application est suffisamment complexe pour avoir besoin d’une solution d’analyse d’entreprise, il est garanti que vous manquerez quelque chose. Mais dans ce cas, vous n&#39;avez pas manqué d&#39;expliquer les écarts de mesure que je décris.
 
 Ce qui s&#39;est mal passé est beaucoup plus difficile à mettre dans une feuille de calcul. Essentiellement, vous avez manqué votre première chance de créer une culture de données collaborative lors de la création de votre DTS.
 
-Je veux vous guider à travers une méthode que mes collègues et moi-même avons développée pour à la fois construire un meilleur DTS avec moins d&#39;écarts, et pour que les utilisateurs finaux investissent (et même parfois enthousiastes) sur leur nouvelle instance de [!DNL Adobe Analytics]. Passons en revue comment et pourquoi vous devriez considérer cette méthode.
+Je veux vous guider à travers une méthode que mes collègues et moi-même avons développée pour à la fois créer un meilleur DTS avec moins d&#39;écarts, et pour que les utilisateurs finaux investissent (et même parfois enthousiastes) sur leur nouvelle instance de [!DNL Adobe Analytics]. Passons en revue comment et pourquoi vous devriez considérer cette méthode.
 
 ## Comment
 
@@ -65,13 +65,13 @@ _Découvrez la conférence sur les mesures. Utilisez une carte d’entonnoir pou
 1. Avec les concepteurs et les responsables de produits, passez en revue chaque étape et discutez de ce que tout le monde considère comme un succès dans cet entonnoir. S’agit-il du taux de conversion ? Choisit-il un chemin particulier ? Utilise-t-il certaines fonctionnalités ?
 1. Posez des questions sur les mesures et dimensions nécessaires pour comprendre les performances de l’entonnoir à chaque étape de l’entonnoir et dans son ensemble.
 1. Au-dessus de chaque étape de l’entonnoir, ajoutez les mesures et les dimensions qui sont mesurées à cette étape, y compris les mesures calculées.
-1. Au début de chaque entonnoir, écrivez les rapports qui s’affichent dans le tableau de bord que le chef de produit peut utiliser pour effectuer le suivi des performances. Ces rapports incluent une [rapport sur les abandons](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [mois en cours](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [taux de conversion de tendance](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line), et tout ce qui est plus spécifique à cet entonnoir.
+1. Au début de chaque entonnoir, écrivez les rapports qui s’affichent dans le tableau de bord que le chef de produit peut utiliser pour effectuer le suivi des performances. Ces rapports incluent un [ rapport d’abandons ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), un [ mois en cours ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), des [ taux de conversion de tendance ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line) et tout ce qui est plus spécifique à cet entonnoir.
 1. Ajoutez les nouvelles mesures et dimensions que vous avez découvertes au SDR et envoyez-les aux parties prenantes pour une deuxième révision.
 
 ### Tableaux de bord d’aperçu
 
 1. À l’aide de la carte d’entonnoir comme guide, créez des tableaux de bord de simulation.
-1. Il doit y avoir une vue globale, telle qu’une [Tableau de bord du résumé exécutif](driving-success-with-executive-summary-dashboards.md)et les tableaux de bord pour chacun des entonnoirs.
+1. Il doit y avoir une vue globale, telle qu’un [tableau de bord du résumé de l’exécution](driving-success-with-executive-summary-dashboards.md) et des tableaux de bord pour chacun des entonnoirs.
 1. Il y en aura également d’autres plus spécifiques à votre site ou application, comme les performances du produit ou les performances du contenu.
 1. Distribuez-les aux parties prenantes concernées et obtenez des commentaires sur la conception.
 1. Effectuez les mises à jour demandées et, si de nouvelles mesures ou dimensions sont nécessaires, ajoutez-les à votre SDR.
@@ -85,13 +85,13 @@ _Découvrez la conférence sur les mesures. Utilisez une carte d’entonnoir pou
 
 ## La raison
 
-_Apprenez-en plus sur la collecte des exigences, la création d’une culture des données, la réflexion approfondie sur les données, la création d’un sentiment de propriété sur les données et la simplification des données._
+_Découvrez les exigences en matière de collecte, de création d’une culture des données, d’amorçage de données approfondies, de création d’un sentiment de propriété sur les données et de simplification des données._
 
 ### Collecte des exigences
 
 Rassembler les exigences est une méthode évidente, mais il existe plusieurs façons efficaces de le faire. J&#39;ai utilisé des interviews individuelles, des questionnaires et des révisions de rapports existants. Ces stratégies fonctionnent, mais pas aussi bien que les méthodes que je viens de décrire. cependant, je ne pense pas que la différence entre les méthodes de collecte des exigences soit significative. La méthode que j&#39;ai décrite vous donne 95% du chemin, et ces autres méthodes vous donnent 90% du chemin.
 
-Alors, qu&#39;est-ce que le _pourquoi_?
+Alors, qu&#39;est-ce que le _pourquoi_ ?
 
 ### Créer une culture des données
 
@@ -103,19 +103,19 @@ Dans ce processus, vous :
 
 ### Spark profonde réflexion sur les données
 
-Pour la plupart des personnes de votre entreprise, les données sont quelque chose qu&#39;elles consomment. Ils l&#39;utilisent. Ils l&#39;analysent. Ils n&#39;y réfléchissent pas profondément. Certaines personnes ont hérité des rapports et processus de leurs prédécesseurs, mais ne les ont pas modifiés pour assurer la continuité. Peut-être que ces gens n&#39;ont jamais eu besoin de penser à la _pourquoi_ des données.
+Pour la plupart des personnes de votre entreprise, les données sont quelque chose qu&#39;elles consomment. Ils l&#39;utilisent. Ils l&#39;analysent. Ils n&#39;y réfléchissent pas profondément. Certaines personnes ont hérité des rapports et processus de leurs prédécesseurs, mais ne les ont pas modifiés pour assurer la continuité. Peut-être que ces personnes n&#39;ont jamais eu besoin de penser au _pourquoi_ des données.
 
-Ce processus leur donne l&#39;opportunité de vraiment _comprendre_ data. Poser des questions comme Qu&#39;est-ce que le succès ? Comment sauriez-vous si vous réussissiez ? Comment sauriez-vous quoi changer si vous n&#39;aviez pas réussi ? Il faut répondre à ces questions au début de la création de chaque site, application et produit, mais bien trop souvent, ce n&#39;est pas le cas. En posant ces questions, vous aidez à approfondir la compréhension qu&#39;une personne a non seulement des données, mais aussi de leur produit.
+Ce processus leur donne la possibilité de vraiment _comprendre_ les données. Poser des questions comme Qu&#39;est-ce que le succès ? Comment sauriez-vous si vous réussissiez ? Comment sauriez-vous quoi changer si vous n&#39;aviez pas réussi ? Il faut répondre à ces questions au début de la création de chaque site, application et produit, mais bien trop souvent, ce n&#39;est pas le cas. En posant ces questions, vous aidez à approfondir la compréhension qu&#39;une personne a non seulement des données, mais aussi de leur produit.
 
 ### Créer un sentiment de propriété sur les données
 
 Un sentiment de propriété n&#39;est pas quelque chose qu&#39;une personne acquiert facilement. On ne le trouve pas dans cette réunion de trente minutes à laquelle on a assisté il y a trois mois. Il n’est pas créé par le fait qu’un questionnaire embêtant auquel ils ont répondu trop rapidement soit dû à d’autres problèmes de travail urgents tels que les démonstrations et les dates de publication du sprint.
 
-La propriété est le produit d&#39;une profonde réflexion et de leur travail avec vous et vos collègues. C&#39;est ce qu&#39;ils ont cherché à plusieurs reprises, pour lequel ils ont fourni des commentaires constants, et ce qu&#39;ils ont approuvé après que ces commentaires ont été incorporés. C&#39;est la leur ! Le fait que c&#39;est utile est dû à eux. C&#39;est _leur_ et c&#39;est ce processus qui en a fait la leur.
+La propriété est le produit d&#39;une profonde réflexion et de leur travail avec vous et vos collègues. C&#39;est ce qu&#39;ils ont cherché à plusieurs reprises, pour lequel ils ont fourni des commentaires constants, et ce qu&#39;ils ont approuvé après que ces commentaires ont été incorporés. C&#39;est la leur ! Le fait que c&#39;est utile est dû à eux. Ce sont leurs _données_ et c&#39;est ce processus qui en a fait les leurs.
 
 ### Simplification des données
 
-Vous leur avez également montré comment ils utiliseront le processus et à quoi il ressemblera tout au long de la [aperçu des tableaux de bord](#the-preview-dashboards). Toute nouvelle solution _hard_. Il y a tant à apprendre, et compte tenu de l’énorme personnalisation de [!DNL Adobe Analytics], la courbe d’apprentissage peut être raide. Vous en avez pourtant supprimé 80%. Même avant la rédaction de la première ligne de code, les parties prenantes savent à quoi ressemblera leur tableau de bord. Ils sauront les lire et leur donner du sens. Ils sauront à quoi ressemble littéralement le succès parce qu’ils vous ont dit quelles mesures et dimensions définissent le succès. Et vous leur avez dit comment ce succès sera visualisé pour eux. La diffusion des tableaux de bord réels est une actualisation, et non une nouvelle tâche d’apprentissage effrayante.
+Vous leur avez également expliqué comment ils utiliseront le processus et à quoi il ressemblera dans les [tableaux de bord de prévisualisation](#the-preview-dashboards). Toute nouvelle solution est _hard_. Il y a tant à apprendre, et compte tenu de l’énorme personnalisation de [!DNL Adobe Analytics], la courbe d’apprentissage peut être raide. Vous en avez pourtant supprimé 80%. Même avant la rédaction de la première ligne de code, les parties prenantes savent à quoi ressemblera leur tableau de bord. Ils sauront les lire et leur donner du sens. Ils sauront à quoi ressemble littéralement le succès parce qu’ils vous ont dit quelles mesures et dimensions définissent le succès. Et vous leur avez dit comment ce succès sera visualisé pour eux. La diffusion des tableaux de bord réels est une actualisation, et non une nouvelle tâche d’apprentissage effrayante.
 
 Ce n&#39;est pas nécessairement le moyen le plus rapide de rassembler un DTS. C&#39;est beaucoup de travail et ça nécessite beaucoup de coordination des horaires, surtout qu&#39;il est vital que vous ayez des cadres dans le mélange. En fin de compte, cependant, une solution d’analyse d’entreprise est un énorme investissement de temps et d’argent, et vous voulez vous assurer que l’adoption et la satisfaction sont élevées. Cette méthode fait beaucoup pour que cela arrive.
 
@@ -123,7 +123,7 @@ Ce n&#39;est pas nécessairement le moyen le plus rapide de rassembler un DTS. C
 
 Ce document a été rédigé par :
 
-![capture d’écran de Gitai](assets/gitai-headshot-150.jpg)
+![gitai-headshot](assets/gitai-headshot-150.jpg)
 
 Gitai Ben-Ammi, directeur associé de l&#39;architecture commerciale chez Accenture
 

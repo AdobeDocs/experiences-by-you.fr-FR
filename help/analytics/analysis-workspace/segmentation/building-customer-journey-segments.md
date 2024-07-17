@@ -1,6 +1,6 @@
 ---
-title: Créer des segments de parcours client
-description: Découvrez comment créer des segments de parcours client basés sur le comportement dans [!DNL Adobe Analytics] et améliorer l’expérience de vos clients avec [!DNL Adobe] Experience Cloud en suivant ce guide détaillé.
+title: Création de segments de Parcours client
+description: Découvrez comment créer des segments de parcours client basés sur le comportement dans  [!DNL Adobe Analytics] et améliorer l’expérience de vos clients avec  [!DNL Adobe] Experience Cloud en suivant ce guide détaillé.
 feature-set: Analytics
 feature: Segmentation
 role: User
@@ -12,20 +12,20 @@ thumbnail: KT-13180.jpeg
 exl-id: 34f42d7e-e849-420e-9b3d-f3dcc1882b23
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1217'
-ht-degree: 1%
+source-wordcount: '1224'
+ht-degree: 0%
 
 ---
 
-# Créer des segments de parcours client
+# Création de segments de Parcours client
 
-Découvrez comment créer des segments de parcours client basés sur le comportement dans [!DNL Adobe Analytics] et améliorer l’expérience de vos clients avec [!DNL Adobe] Experience Cloud en suivant ce guide détaillé.
+Découvrez comment créer des segments de parcours client basés sur le comportement dans [!DNL Adobe Analytics] et améliorer l’expérience de vos clients avec l’Experience Cloud [!DNL Adobe] en suivant ce guide détaillé.
 
-Créons de meilleurs segments de parcours client ! Dans cette série, nous utiliserons [!DNL Adobe Analytics] pour définir des segments basés sur le comportement, estimer les tailles d’audience et suivre les mouvements des utilisateurs. D’ici la fin, vous pourrez personnaliser les médias et améliorer l’expérience de vos clients avec [!DNL Adobe] Experience Cloud. Gardez à l’esprit que ces segments sont actifs et doivent être mis à jour au fur et à mesure que vous en apprendrez plus sur vos clients. Bien que le reporting puisse présenter quelques défis, ne vous inquiétez pas, je vous guiderai à travers ! Commençons par créer notre premier ensemble de segments de Parcours client, en commençant par le segment &quot;One Hit Wonders&quot;.
+Créons de meilleurs segments de parcours client ! Dans cette série, nous allons utiliser [!DNL Adobe Analytics] pour définir des segments basés sur le comportement, estimer la taille des audiences et suivre le mouvement des utilisateurs. D’ici la fin, vous pourrez personnaliser les médias et améliorer l’expérience de vos clients avec l’Experience Cloud [!DNL Adobe]. Gardez à l’esprit que ces segments sont actifs et doivent être mis à jour au fur et à mesure que vous en apprendrez plus sur vos clients. Bien que le reporting puisse présenter quelques défis, ne vous inquiétez pas, je vous guiderai à travers ! Commençons par créer notre premier ensemble de segments de Parcours client, en commençant par le segment &quot;One Hit Wonders&quot;.
 
-Aujourd’hui, nous allons créer des espaces réservés pour notre premier ensemble de segments de Parcours client, créer une [!DNL Adobe Analytics] Espace de travail pour nous aider à définir nos segments, et à définir notre tout premier segment, &quot;One Hit Wonders&quot;.
+Aujourd’hui, nous allons créer des espaces réservés pour notre premier ensemble de segments de Parcours client, créer un Workspace [!DNL Adobe Analytics] pour nous aider à définir nos segments, et définir notre tout premier segment, &quot;One Hit Wonders&quot;.
 
-D’ici la fin de cette série, vous pourrez créer des segments de parcours client dans [!DNL Adobe Analytics] en fonction de signaux comportementaux. Vous pourrez estimer la taille de chaque audience à chaque étape du parcours et comprendre le taux de déplacement des utilisateurs entre ces étapes. Et vous pourrez exporter ces audiences de parcours client vers [!DNL Adobe] Experience Cloud à activer la personnalisation et le ciblage multimédia.
+D’ici la fin de cette série, vous pourrez créer des segments de parcours client dans [!DNL Adobe Analytics] en fonction des signaux comportementaux. Vous pourrez estimer la taille de chaque audience à chaque étape du parcours et comprendre le taux de déplacement des utilisateurs entre ces étapes. Et vous pourrez exporter ces audiences de parcours client vers l’Experience Cloud [!DNL Adobe] pour activer la personnalisation et le ciblage multimédia.
 
 Chaque entreprise est différente, ce qui signifie que vos segments de parcours client auront un aspect différent du mien. Donc, plutôt que de prescrire des formules spécifiques pour vos segments, suggérez quelques éléments à examiner et un processus global pour les construire.
 
@@ -49,13 +49,13 @@ Pour faciliter l’utilisation de mes segments d’intention de visite, j’ai a
 
 ![segments d’intention](assets/intent-segments.png)
 
-**Continuez et créez vos segments d’intention de visite à l’aide du conteneur Visites avec une définition d’espace réservé de Pages vues >= 1.**
+**Allez-y et créez vos segments d’intention de visite à l’aide du conteneur Visites avec une définition d’espace réservé de Pages vues >= 1.**
 
 Comme nous le verrons, la création de ces segments est un processus itératif et interconnecté. Je décrirai le processus de création de ces segments dans une prochaine publication.
 
-## Espace de travail de qualité des données de segment d’intention de visite
+## Workspace de qualité des données de segment d’intention de visite
 
-![espace de travail des intentions de visite](assets/visit-intent-workspace.png)
+![espace de travail d’intention de visite](assets/visit-intent-workspace.png)
 
 J’ai utilisé un simple espace de travail pour m’assurer que je définissais bien mes segments d’intention de visite. Souvenez-vous que chaque visite doit appartenir à un seul segment, Intention de visite. L’espace de travail que je configure garantit que toutes les visites sont prises en compte et qu’il n’y a pas de chevauchement entre les segments.
 
@@ -93,18 +93,18 @@ Mon premier segment, &quot;One Hit Wonders&quot;, était facile à définir. Il 
 
 ![Définition de segment](assets/segment-def.png)
 
-Après avoir défini ce segment, vous commencerez à voir l’espace de travail d’intention de visite prendre forme.
+Après avoir défini ce segment, vous commencerez à voir la forme de votre Workspace d’intention de visite.
 
 ![Plus de définitions de segment](assets/more-segment-defs.png)
 
-Création de segments de parcours client à l’aide de [!DNL Adobe Analytics] est un processus stimulant mais gratifiant. En créant des segments basés sur le comportement, en estimant la taille des audiences et en suivant les mouvements des utilisateurs, les entreprises peuvent personnaliser les médias et améliorer l’expérience client. Chaque entreprise est unique et il n’existe pas de formules spécifiques pour créer des segments, mais des instructions et un processus à suivre. Les segments doivent être mis à jour au fur et à mesure que les entreprises découvrent leurs clients, ce qui présente des défis en termes de création de rapports. En suivant le processus de création de segments d’intention de visite, les entreprises peuvent améliorer l’expérience client globale.
+La création de segments de parcours client à l’aide de [!DNL Adobe Analytics] est un processus difficile mais enrichissant. En créant des segments basés sur le comportement, en estimant la taille des audiences et en suivant les mouvements des utilisateurs, les entreprises peuvent personnaliser les médias et améliorer l’expérience client. Chaque entreprise est unique et il n’existe pas de formules spécifiques pour créer des segments, mais des instructions et un processus à suivre. Les segments doivent être mis à jour au fur et à mesure que les entreprises découvrent leurs clients, ce qui présente des défis en termes de création de rapports. En suivant le processus de création de segments d’intention de visite, les entreprises peuvent améliorer l’expérience client globale.
 
 ## Auteur
 
-Ce document a été rédigé par :
+Ce document a été rédigé par :
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, numérique [!DNL Analytics]
+**Aaron Fossum**, Director, Digital [!DNL Analytics]
 
 [!DNL Adobe Analytics] Champion

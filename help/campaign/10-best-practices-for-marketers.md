@@ -1,6 +1,6 @@
 ---
-title: Dix bonnes pratiques pour [!DNL Adobe] [!DNL Campaign] succès pour les marketeurs
-description: Découvrez les dix bonnes pratiques pour vous aider [!DNL Adobe] [!DNL Campaign] les utilisateurs déverrouillent et accélèrent la transformation numérique des consommateurs et une meilleure expérience pour leurs clients.
+title: Dix bonnes pratiques pour le succès de [!DNL Adobe] [!DNL Campaign] pour les marketeurs
+description: Découvrez les dix bonnes pratiques pour aider les utilisateurs de [!DNL Adobe] [!DNL Campaign] à déverrouiller et à accélérer la transformation des consommateurs numériques et une meilleure expérience pour leurs clients.
 doc-type: article
 solution: Campaign
 feature-set: Campaign
@@ -17,16 +17,16 @@ ht-degree: 77%
 
 ---
 
-# Dix bonnes pratiques pour [!DNL] [!DNL Adobe] [!DNL Campaign]] success pour les marketeurs
+# Dix bonnes pratiques pour le succès de [!DNL [!DNL Adobe] [!DNL Campaign]] pour les marketeurs
 
-Christian Klimczyk se décrit ainsi :[!DNL Adobe] Nerd&quot; avec sept ans de [!DNL [!DNL Adobe] expertise des Experience Cloud, principalement axée sur [!DNL] [!DNL Adobe] [!DNL Campaign]]. Comme [!DNL Adobe] Propriétaire de la plateforme pour une grande société CPG, Christian et son équipe utilisent [!DNL] [!DNL Campaign]] pour toutes les communications et interactions des consommateurs. Ils coordonnent et gèrent de manière transparente les exigences de réglementation élevées et les campagnes marketing client multicanaux par publipostage direct, e-mail et SMS/MMS.
+Christian Klimczyk est un &quot;[!DNL Adobe] Nerd&quot; autodécrit avec sept ans d&#39;expertise [!DNL [!DNL Adobe] Experience Cloud], principalement axé sur [!DNL [!DNL Adobe] [!DNL Campaign]]. En tant que propriétaire de plateforme [!DNL Adobe] pour une grande société CPG, Christian et son équipe utilisent [!DNL [!DNL Campaign]] pour toutes les communications et interactions des consommateurs. Ils coordonnent et gèrent de manière transparente les exigences de réglementation élevées et les campagnes marketing client multicanaux par publipostage direct, e-mail et SMS/MMS.
 
-Dans cet article, Christian partage ses bonnes pratiques pour aider. [!DNL Adobe] [!DNL Campaign] les utilisateurs déverrouillent et accélèrent la transformation numérique des consommateurs et une meilleure expérience pour leurs clients.
+Dans cet article, Christian partage ses bonnes pratiques pour aider les utilisateurs de [!DNL Adobe] [!DNL Campaign] à déverrouiller et à accélérer la transformation numérique des consommateurs et à offrir une meilleure expérience à leurs clients.
 
 
 ## 1. Créer un plan de diffusion et de marketing global et cohérent
 
-Première étape pour garantir le succès de [!DNL [!DNL Adobe] [!DNL Campaign]] permet de comprendre vos outils et les attentes des clients, et cela est vrai dans n’importe quel type de marketing. Définissez et comprenez clairement les canaux que vous utilisez pour contacter vos client(e)s, sachez quand utiliser ces canaux et pourquoi.
+La première étape pour garantir votre succès avec [!DNL [!DNL Adobe] [!DNL Campaign]] consiste à comprendre vos outils et les attentes de vos clients, ce qui est vrai dans n’importe quel type de marketing. Définissez et comprenez clairement les canaux que vous utilisez pour contacter vos client(e)s, sachez quand utiliser ces canaux et pourquoi.
 
 [!DNL Adobe] [!DNL Campaign] est un outil flexible qui vous permet d’exécuter et d’orchestrer des communications de différentes manières. [La moitié des client(e)s utilisent trois à cinq canaux lors de chaque parcours d’achat ](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Il est donc essentiel de comprendre et de planifier l’utilisation de ces canaux pour accomplir tout le potentiel de votre plateforme et interagir avec vos client(e)s.
 
@@ -42,7 +42,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 Selon une [étude de Hubspot](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen), les campagnes segmentées auraient un taux d’ouverture supérieur de 14,31 % et enregistreraient 101 % de clics de plus que les campagnes non segmentées. Les spécialistes marketing par e-mail qui ont segmenté leur audience avant de lancer leur campagne ont déclaré que les recettes générées ont augmenté jusqu’à 760 %.
 
-Dans [!DNL Adobe] [!DNL Campaign], vous pouvez orchestrer rapidement et facilement la segmentation. Toutefois, pour rationaliser et faciliter ce processus, les opérateurs et opératrices de campagne et les professionnel(le)s du marketing doivent avoir une compréhension documentée de leurs données sous-jacentes lors de la conception et de la demande de la création et de l’exécution d’une campagne. Il est essentiel que vous compreniez vos données actuelles et que vous compreniez comment anticiper les données dont vous pourriez avoir besoin lors d’un partenariat avec les administrateurs et les développeurs qui prennent en charge votre [!DNL]. [!DNL Campaign]].
+Dans [!DNL Adobe] [!DNL Campaign], vous pouvez orchestrer la segmentation rapidement et facilement. Toutefois, pour rationaliser et faciliter ce processus, les opérateurs et opératrices de campagne et les professionnel(le)s du marketing doivent avoir une compréhension documentée de leurs données sous-jacentes lors de la conception et de la demande de la création et de l’exécution d’une campagne. Il est essentiel que vous compreniez vos données actuelles et que vous déterminiez comment anticiper les données dont vous pourriez avoir besoin lors d’un partenariat avec les administrateurs et les développeurs qui prennent en charge votre instance [!DNL [!DNL Campaign]].
 
 Vos campagnes sont aussi efficaces que les structures de données sous-jacentes qui les constituent. La connaissance et la documentation de cette structure de données aident également en cas de problèmes lors de l’intégration de plateformes ou de l’accès à une plateforme de données clientes.
 
@@ -50,7 +50,7 @@ Vos campagnes sont aussi efficaces que les structures de données sous-jacentes 
 
 Comme vos client(e)s, vous avez une routine quotidienne. L’envoi et l’orchestration de vos campagnes doivent correspondre à ce rythme. Sinon, vous risquez de ne pas atteindre vos client(e)s, étant donné que [85 % des e-mails envoyés ne sont jamais ouverts et 98 % n’obtiennent pas de clic publicitaire](https://www.validity.com/resource-center/state-of-email-2021/).
 
-Si, par exemple, vos client(e)s consultent leur téléphone le matin à la recherche des meilleures offres, envisagez de leur envoyer une promotion par SMS. S’ils ou elles naviguent la nuit en quête de la prochaine tendance, pensez à envoyer un e-mail de relance avec un code promo pour une livraison gratuite. Il est également important d’utiliser l’outil de carte thermique dans [!DNL [!DNL Campaign]] pour tracker l&#39;exécution de vos workflows et envois. La coordination et la facilitation des communications entre plusieurs marques peut s’avérer difficile. [Surveiller et connaître le rythme, la cadence et le timing de vos emails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=fr) sont inestimables pour la stabilité et la force globales de votre message et [!DNL Campaign] instance.
+Si, par exemple, vos client(e)s consultent leur téléphone le matin à la recherche des meilleures offres, envisagez de leur envoyer une promotion par SMS. S’ils ou elles naviguent la nuit en quête de la prochaine tendance, pensez à envoyer un e-mail de relance avec un code promo pour une livraison gratuite. Il est également important d’utiliser l’outil de carte thermique dans [!DNL [!DNL Campaign]] pour suivre le moment où vos workflows et envois s’exécutent. La coordination et la facilitation des communications entre plusieurs marques peut s’avérer difficile. [Garder un oeil sur et connaître le rythme, la cadence et le timing de vos emails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=fr) est inestimable pour la stabilité et la force globales de votre message et de votre instance [!DNL Campaign].
 
 ## 4. Utiliser la personnalisation là où elle est importante
 
@@ -66,7 +66,7 @@ Votre rapidité dépend de la prochaine diffusion que votre équipe peut configu
 
 La gestion et la maintenance des préférences d’abonnement peuvent rapidement s’avérer déroutantes, ce qui entraîne divers niveaux de risque. Neuf consommateurs ou consommatrices sur dix déclarent qu’avoir une expérience négative les rend moins susceptibles d’acheter auprès d’une marque à l’avenir, telle que recevoir un message erroné sur un canal auquel on ne répond pas. À plus grande échelle, vous pourriez vous exposer à des risques et amendes liés à la réglementation et à la conformité.
 
-disposer d’une stratégie de gestion des opt-ins et de culture de cet écosystème en constante évolution grâce à l’utilisation experte de [!DNL] ; [!DNL Adobe] [!DNL Campaign]] et d’autres outils de technologie marketing. Il s’agit généralement de l’un des principaux indicateurs de réussite d’une campagne. Une planification minutieuse génère donc des dividendes inestimables à mesure que votre stratégie de campagne se développe jusqu’à maturité.
+Ayez une stratégie à l&#39;avant-garde pour gérer les opt-ins et cultiver cet écosystème en constante évolution grâce à l&#39;utilisation experte de [!DNL [!DNL Adobe] [!DNL Campaign]] et d&#39;autres outils de technologie marketing. Il s’agit généralement de l’un des principaux indicateurs de réussite d’une campagne. Une planification minutieuse génère donc des dividendes inestimables à mesure que votre stratégie de campagne se développe jusqu’à maturité.
 
 ## 7. Comprendre et planifier la délivrabilité
 
@@ -88,4 +88,4 @@ Quand on essaie de nouvelles choses, on ne réussit pas toujours du premier coup
 
 Le marché change et évolue à un rythme toujours plus effréné. Il est primordial d’encourager vos équipes de campagne à rester aussi flexibles et rapides que possible afin de rester compétitif et de continuer à répondre aux attentes croissantes des client(e)s.
 
-[35 % des responsables du marketing numérique estiment que les plus grands défis viennent de l’intérieur de leur organisation.](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Pour ce faire, suivez une formation sur quelques plateformes et mieux comprendre les flux et la structure des données ou d’autres [!DNL Adobe] et créer des plans d’urgence pour les opérations. Cet état d’esprit peut être atteint de plusieurs façons, mais un engagement global en faveur de la flexibilité et de la planification est essentiel pour obtenir un succès à court et à long terme.
+[35 % des responsables du marketing numérique estiment que les plus grands défis viennent de l’intérieur de leur organisation.](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Pour ce faire, suivez des formations sur quelques plates-formes, approfondissez votre compréhension des flux de données et de la structure ou d’autres solutions [!DNL Adobe] et créez des plans d’urgence pour les campagnes. Cet état d’esprit peut être atteint de plusieurs façons, mais un engagement global en faveur de la flexibilité et de la planification est essentiel pour obtenir un succès à court et à long terme.

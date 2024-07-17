@@ -1,5 +1,5 @@
 ---
-title: Programmes de messagerie
+title: Programmes de messagerie électronique
 description: Découvrez comment créer un programme de messagerie avec un test A/B.
 role: User
 level: Beginner
@@ -13,12 +13,12 @@ feature: Programs
 exl-id: 27c41bdf-b808-4268-9299-9c9944c2ea8d
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 21%
+source-wordcount: '86'
+ht-degree: 24%
 
 ---
 
-# Programmes de messagerie
+# Programmes de messagerie électronique
 
 Suivez ce tutoriel complet dédié à la création d’un programme de messagerie à l’aide d’un test A/B.
 
@@ -31,8 +31,8 @@ Pour plus d’informations, consultez les guides produit connexes :
 * [Présentation de la documentation sur les programmes de messagerie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Visionnez d’autres vidéos pour obtenir de l’aide sur cette fonctionnalité :
-* [Présentation planifiée des emails](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [Présentation des tests AB](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [Présentation planifiée des emails ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [Parcours des tests AB](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 Découvrez comment utiliser les programmes de messagerie à partir de vos pairs :
-* [Article de blog d’un expert : Programmes de messagerie électronique](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+* [ Article de blog d’experts : Programmes de messagerie électronique](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)

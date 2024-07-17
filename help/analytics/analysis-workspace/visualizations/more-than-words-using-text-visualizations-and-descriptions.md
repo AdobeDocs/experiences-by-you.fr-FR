@@ -12,14 +12,14 @@ thumbnail: KT-13267.jpeg
 exl-id: ddcffb53-bcfb-4fc4-858a-ae191285fe66
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 1%
+source-wordcount: '487'
+ht-degree: 0%
 
 ---
 
 # Plus que des mots - Utilisation de visualisations et de descriptions de texte dans Analysis Workspace
 
-Comme [!DNL Adobe Analytics] Utilisateur d’Analysis Workspace, il est naturel que votre attention se porte souvent sur vos visualisations de données et de données - n’importe qui peut saisir un résumé, n’est-ce pas ? Toutefois, l’absence de fonctionnalités telles que la visualisation de texte ou les descriptions de visualisation dans Analysis Workspace peut signifier l’absence d’une opportunité précieuse pour combiner vos informations avec du texte, des images, des images, des tableaux et des liens de valeur. En donnant des références et plus de contexte pour informer vos utilisateurs sur la signification de vos données, vous pouvez les rendre plus efficaces et plus efficaces.
+En tant qu’utilisateur d’Analysis Workspace [!DNL Adobe Analytics], il est naturel que votre attention se porte souvent sur vos visualisations de données et de données - n’importe qui peut saisir un résumé, n’est-ce pas ? Toutefois, l’absence de fonctionnalités telles que la visualisation de texte ou les descriptions de visualisation dans Analysis Workspace peut signifier l’absence d’une opportunité précieuse pour combiner vos informations avec du texte, des images, des images, des tableaux et des liens de valeur. En donnant des références et plus de contexte pour informer vos utilisateurs sur la signification de vos données, vous pouvez les rendre plus efficaces et plus efficaces.
 
 Commençons par vous assurer que vous savez où trouver les fonctionnalités suivantes :
 
@@ -48,22 +48,22 @@ Maintenant, si vous préférez importer directement le contenu dans votre rappor
 
 ![text 06](assets/t06.png)
 
-Vous pouvez ajouter à votre rapport une image accessible à partir d’une URL publique, à condition que l’URL figure dans la variable *https* format et est formaté au format .png, .jpeg, .jpg ou .gif : bien que cela puisse sembler restrictif, tous les outils en ligne utilisés pour partager des images ou des GIFs comme imgur ou GIPHY peuvent fournir une méthode rapide pour charger des fichiers accessibles à l’espace de travail à l’aide d’un lien de partage.
+Vous pouvez ajouter à votre rapport une image accessible à partir de n’importe quelle URL publique, à condition que l’URL soit au format *https* et au format .png, .jpeg, .jpg ou .gif - bien que cela puisse sembler restrictif, tous les outils en ligne utilisés pour partager des images ou des GIFs tels que imgur ou GIPHY peuvent fournir une méthode rapide pour télécharger des fichiers Workspace accessibles à l’aide d’un lien de partage.
 
 Le résultat ? Vous pouvez afficher la page web à laquelle vos données font directement référence dans votre projet :
 
 ![text 07](assets/t07.png)
 
-Vous pouvez également utiliser des GIFs dans vos projets pour inclure des images mobiles telles qu’une visite guidée d’un site, un chemin idéal à travers votre site ou une tâche sur votre application, ou simplement montrer à votre équipe comment ***époustouflant*** vos rapports sont maintenant :
+Vous pouvez également utiliser des GIFs dans vos projets pour inclure des images mobiles comme une présentation de site, un chemin idéal sur votre site ou une tâche sur votre application, ou simplement montrer à votre équipe comment vos rapports sont devenus ***époustouflants*** :
 
 ![text 08](assets/t08.png)
 
 ## Auteur
 
-Ce document a été rédigé par :
+Ce document a été rédigé par :
 
 ![Dan Cummings](assets/text09.png)
 
-**Dan Cummings**, ingénieur de produit [!DNL Analytics] Directeur de McDonald&#39;s Corporation
+**Dan Cummings**, chef d&#39;ingénierie de produit [!DNL Analytics] de McDonald&#39;s Corporation
 
 [!DNL Adobe Analytics] Champion

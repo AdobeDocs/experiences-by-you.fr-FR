@@ -1,6 +1,6 @@
 ---
 title: Développement d’un planning d’intégration et de formation interne
-description: Découvrez comment établir une procédure robuste pour créer et gérer de la documentation et des modifications pour votre [!DNL Marketo Engage] instance. Cela permet non seulement de gagner du temps pour le partage des connaissances de votre équipe, mais également d’améliorer la santé et l’efficacité de votre instance.
+description: Découvrez comment établir une procédure robuste pour créer et gérer la documentation et le fichier de modification pour votre instance  [!DNL Marketo Engage] . Cela permet non seulement de gagner du temps pour le partage des connaissances de votre équipe, mais également d’améliorer la santé et l’efficacité de votre instance.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -9,46 +9,46 @@ duration: 0
 last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
 
 ---
 
-
 # Développement d’un planning d’intégration et de formation interne
 
-En apportant une nouvelle [!DNL Marketo Engage] instance active, il est temps de mettre les équipes concernées à la disposition des utilisateurs afin qu’ils puissent tirer parti de [!DNL Marketo Engage] pour leurs emplois.
+Au fur et à mesure que vous mettez en service une nouvelle instance [!DNL Marketo Engage], il est temps de mettre à disposition les équipes concernées pour tirer parti de [!DNL Marketo Engage] pour leurs tâches.
 
-Ces bonnes pratiques d’intégration et de formation internes ont été fournies par Naomi Liu, une cliente de Adobe Marketo Engage, partage [intégration interne](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} et [bonnes pratiques de formation](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank} son expérience de la mise en oeuvre d’une nouvelle instance pour les équipes globales d’Electronics pour Imaging. Suivez ses conseils pour élaborer un plan de formation efficace pour vos équipes internes.
+Ces bonnes pratiques d’intégration et de formation internes ont été fournies par Naomi Liu, une cliente de Adobe Marketo Engage, partage [ ](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} et les [bonnes pratiques de formation](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank} dérivées de son expérience dans la mise en oeuvre d’une nouvelle instance pour les équipes globales d’Electronics for Imaging. Suivez ses conseils pour élaborer un plan de formation efficace pour vos équipes internes.
 
 ## Pourquoi développer un plan d’intégration interne lorsque vous mettez en oeuvre la nouvelle instance ?
 
-En tant qu&#39;administrateurs de Marketo Engage, vous devez non seulement vous équiper des nouvelles capacités de pile de technologies, mais aussi stimuler l&#39;adoption et la formation de nouvelles technologies. Donner les moyens aux équipes internes de travailler à une plus grande échelle repose sur l&#39;éducation. Pour ce faire, vous devrez apprendre à dispenser une formation sur [!DNL Marketo Engage] fonctionnalités qui seront les plus pertinentes pour les membres de l’équipe.
+En tant qu&#39;administrateurs de Marketo Engage, vous devez non seulement vous munir des nouvelles fonctionnalités de tech stack, mais aussi stimuler l&#39;adoption et la formation de nouvelles technologies. Donner les moyens aux équipes internes de travailler à une plus grande échelle repose sur l&#39;éducation. Pour ce faire, vous devrez apprendre à dispenser une formation sur les fonctionnalités [!DNL Marketo Engage] qui seront les plus pertinentes pour les membres de l’équipe.
 
 ## Comment élaborer un plan d’intégration interne
 
-### Étape 1 : devenir une [!DNL Marketo Engage] Expérience
+### Étape 1 : devenir vous-même un expert [!DNL Marketo Engage]
 
-En tant qu’administrateur, vous devez commencer par vous plonger dans [!DNL Marketo Engage] ressources, telles que la communauté Marketing Nation et la documentation. Pendant les phases d&#39;évaluation et de mise en oeuvre, lisez et explorez régulièrement ces documents pour développer votre expertise.
+En tant qu’administrateur, vous devez commencer par vous immerger dans les ressources [!DNL Marketo Engage], telles que la communauté et la documentation de Marketing Nation. Pendant les phases d&#39;évaluation et de mise en oeuvre, lisez et explorez régulièrement ces documents pour développer votre expertise.
 
 ### Etape 2 : développer des stratégies de formation d&#39;équipe
 
 * Lorsque vous formez votre équipe d’opérations marketing, envisagez d’étaler leur participation aux cours sur les concepts de base 1 et 2. Assurez-vous que les membres de l’équipe assistent à différentes classes avec différents instructeurs pour obtenir des perspectives et des informations variées à partager avec le groupe.
-* Profitez des tutoriels Adobe Experience League, qui proposent des leçons courtes et faciles à assimiler pour que votre équipe puisse commencer ses [!DNL Marketo Engage] l&#39;éducation à leur propre rythme.
+* Profitez des tutoriels Adobe Experience League, qui offrent des cours courts et faciles à assimiler pour que votre équipe puisse commencer ses [!DNL Marketo Engage] études à son propre rythme.
 * Encourager les membres de l’équipe à partager les connaissances nouvellement acquises lors des appels hebdomadaires de l’équipe. Cela garantit que des informations précieuses sont diffusées à l’ensemble de votre équipe qui administre efficacement l’instance.
 
 ### Etape 3 : développement de salons de formation internes
 
 * *Développement de modules de formation :* Une fois que vous avez acquis des compétences, concentrez-vous sur la création de modules de formation personnalisés pour vos partenaires commerciaux marketing. Créez des modules spécifiques adaptés aux différents aspects du Marketo Engage, à l’aide de l’exemple ci-dessous pour commencer à organiser votre programme de formation.
-* *Fiches d’entraînement internes :* Envisagez d’organiser une visite guidée en forme de &quot;feuille de route&quot; pour offrir une formation directement aux partenaires commerciaux du marketing.
+* *Formations sur les routes internes :* envisagez d’organiser une tournée de type &quot;présentation&quot; pour offrir une formation directement aux partenaires commerciaux marketing.
 * Commencez par répertorier tous vos partenaires commerciaux marketing et leurs responsabilités et positionnez les équipes dans le tableau &quot;Rôles de formation internes&quot; ci-dessous pour leur module d’apprentissage respectif.
 * En collaboration avec des équipes internationales, Naomi a choisi d&#39;organiser des sessions de formation en personne, des modules adaptés aux besoins de différentes unités opérationnelles et des tables préparées pour chaque module afin de faciliter toutes les sessions d&#39;apprentissage.
 
 ## Exemple de programme : Rôles de formation internes
 
-Voici un exemple de programme de formation que Naomi Liu vous propose de personnaliser pour vos partenaires commerciaux marketing. Téléchargez la [exemple de programme de formation](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} pour votre personnalisation hors ligne.
+Voici un exemple de programme de formation que Naomi Liu vous propose de personnaliser pour vos partenaires commerciaux marketing. Téléchargez l’ [ exemple de programme d’entraînement](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} pour votre personnalisation hors ligne.
 
 | Titre de la session | Objectifs | Méthodes de formation | Attribution des heures |
 |--- |--- |--- |--- |
@@ -64,7 +64,7 @@ Voici un exemple de programme de formation que Naomi Liu vous propose de personn
 
 ## Et après ?
 
-* Téléchargez la [exemple de programme de formation](assets/adobe-marketo-engage-internal-training-roadshows.xlsx)Feuille de calcul {_target=&quot;blank&quot;} pour développer vos modules de formation internes.
+* Téléchargez la feuille de calcul [exemple de programme de formation](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} pour développer vos modules de formation internes.
 * Renseignez les équipes qui conviennent au sujet de la session.
 * Sélectionnez la ou les méthodes que vous souhaitez utiliser pour créer du matériel de formation.
 

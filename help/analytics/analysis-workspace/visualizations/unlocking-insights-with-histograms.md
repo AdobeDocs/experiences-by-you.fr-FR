@@ -1,6 +1,6 @@
 ---
-title: Déverrouillage des insights à l’aide d’histogrammes ; au-delà des moyennes dans [!DNL Analytics]
-description: Découvrez l’impact des histogrammes dans Analytics pour obtenir des informations au-delà des moyennes.
+title: Déverrouillage des insights à l’aide d’histogrammes ; au-delà des moyennes dans  [!DNL Analytics]
+description: Découvrez l’impact des histogrammes dans les analyses pour obtenir des informations au-delà des moyennes.
 feature-set: Analytics
 feature: Visualizations
 role: User
@@ -12,16 +12,16 @@ thumbnail: KT-13833.jpeg
 exl-id: 46a9dab2-17f8-435e-949c-45d4a60343f0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 4%
+source-wordcount: '1091'
+ht-degree: 0%
 
 ---
 
-# Déverrouiller des informations à l’aide d’histogrammes : au-delà des moyennes dans [!DNL Analytics]
+# Déverrouillage des insights avec les histogrammes : au-delà des moyennes dans [!DNL Analytics]
 
-_Découvrez l’impact des histogrammes dans Analytics pour obtenir des informations au-delà des moyennes. Les histogrammes révèlent des schémas de données dans le comportement des clients, l’engagement des visiteurs, les performances techniques et les erreurs de formulaire, ce qui permet d’obtenir des informations plus approfondies et de prendre des décisions éclairées dans [!DNL Adobe] Espace de travail._
+_Découvrez l’impact des histogrammes dans les analyses pour obtenir des informations au-delà des moyennes. Les histogrammes révèlent des schémas de données dans le comportement des clients, l&#39;engagement des visiteurs, les performances techniques et les erreurs de formulaire, ce qui permet d&#39;obtenir des informations plus approfondies et de prendre des décisions éclairées dans [!DNL Adobe] Workspace._
 
-Sautons tout de suite. Vous devez utiliser [histogrammes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=fr). Je vais expliquer pourquoi, mais je veux répondre à votre première question : Qu&#39;est-ce qu&#39;il y a dans le monde un histogramme ? Je comprends. La plupart du temps, quand vous voyez un tas de barres monter, vous pourriez penser que c&#39;est un graphique à barres. Oui, les histogrammes ont l&#39;air semblables, mais je vous assure, ils sont différents. Un graphique à barres compare des éléments, tandis qu’un histogramme indique la fréquence à laquelle une variable s’est produite. Jette un oeil ! Voici un graphique à barres :
+Sautons tout de suite. Vous devriez utiliser [histogrammes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html). Je vais expliquer pourquoi, mais je veux répondre à votre première question : Qu&#39;est-ce qu&#39;il y a dans le monde un histogramme ? Je comprends. La plupart du temps, quand vous voyez un tas de barres monter, vous pourriez penser que c&#39;est un graphique à barres. Oui, les histogrammes ont l&#39;air semblables, mais je vous assure, ils sont différents. Un graphique à barres compare des éléments, tandis qu’un histogramme indique la fréquence à laquelle une variable s’est produite. Jette un oeil ! Voici un graphique à barres :
 
 ![Graphique à barres 1](assets/bar-chart-1.png)
 
@@ -69,14 +69,14 @@ Vous pouvez vous demander en quoi cela diffère-t-il du simple fait d’avoir un
 
   ![Histogramme 4](assets/histogram-4.png)
 
-Comme vous pouvez le voir, les histogrammes n&#39;ont pas seulement leur propre utilité, ils approfondissent aussi l&#39;idée que vous gagnez d&#39;une moyenne. Ce sont des visualisations prêtes à l’emploi dans [!DNL Adobe Analytics] et facile à créer. Heureusement, ces cas d&#39;utilisation vous sont utiles ou vous inspirent quelque chose. Bonne visualisation !
+Comme vous pouvez le voir, les histogrammes n&#39;ont pas seulement leur propre utilité, ils approfondissent aussi l&#39;idée que vous gagnez d&#39;une moyenne. Il s’agit d’une visualisation prête à l’emploi dans [!DNL Adobe Analytics] et facile à créer. Heureusement, ces cas d&#39;utilisation vous sont utiles ou vous inspirent quelque chose. Bonne visualisation !
 
 ## Auteur
 
-Ce document a été rédigé par :
+Ce document a été rédigé par :
 
 ![Gitai Ben-Ammi](assets/gitai-headshot.png)
 
-**Gitai Ben-Ammi**, consultant principal chez Concentrix Catalyst
+**Gitai Ben-Ammi**, consultant principal chez Concentrix Catalyst
 
 [!DNL Adobe Analytics] Champion

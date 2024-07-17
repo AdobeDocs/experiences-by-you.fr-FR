@@ -1,6 +1,6 @@
 ---
-title: AEM champion des bonnes pratiques et des conseils - post-migration
-description: Découvrez les stratégies et astuces post-migration essentielles pour optimiser votre transition vers AEM as a Cloud Service.
+title: Meilleures pratiques et conseils pour AEM champion - Migration Post
+description: Découvrez les stratégies et conseils essentiels pour optimiser votre transition vers AEM as a Cloud Service après la migration.
 version: Cloud Service
 topic: Migration
 role: Admin, Developer
@@ -9,16 +9,16 @@ doc-type: Value Video
 duration: 224
 last-substantial-update: 2024-04-11T00:00:00Z
 jira: KT-15324
-source-git-commit: 4c59b1ed049e541cc1f6d9585be531958cf218af
+exl-id: 89530e01-c769-4553-bbe8-e543f84de827
+source-git-commit: 806a4847a8756e711ec78811e9678cdb593f2d76
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 54%
 
 ---
 
+# Meilleures pratiques et conseils pour AEM champion - Migration Post
 
-# AEM champion des bonnes pratiques et des conseils - post-migration
-
-Découvrez des informations inestimables de l&#39;AEM expert Wilson Faure. Dans cette vidéo, il se plonge dans des stratégies post-migration essentielles et des conseils pour optimiser votre transition. Découvrez sur quoi vous concentrer dans les jours et semaines qui suivent votre migration.
+Découvrez des informations inestimables de Wilson Faure, expert AEM. Dans cette vidéo, il présente des stratégies et des conseils essentiels pour optimiser la transition après la migration. Vous saurez clairement sur quoi vous concentrer dans les jours et les semaines qui suivent votre migration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428309/?learn=on)

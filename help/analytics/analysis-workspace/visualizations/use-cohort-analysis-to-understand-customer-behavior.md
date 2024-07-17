@@ -1,5 +1,5 @@
 ---
-title: Comprendre le comportement de la clientèle à l’aide de l’Analyse des cohortes
+title: Utilisation de l’analyse des cohortes pour comprendre le comportement des clients
 description: Pour améliorer l’expérience client et les recettes, les entreprises doivent comprendre le comportement des clients. L’analyse des cohortes peut vous aider à comprendre l’engagement et la rétention, ce qui entraîne des actions telles que l’amélioration de la création de compte et la création de campagnes pour les mois à volume élevé.
 feature-set: Analytics
 feature: Cohort Analysis
@@ -12,12 +12,12 @@ thumbnail: KT-13213.jpeg
 exl-id: 79392eea-a8b6-4ae2-98ef-6ebbd11d88a0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1106'
-ht-degree: 16%
+source-wordcount: '1142'
+ht-degree: 0%
 
 ---
 
-# Comprendre le comportement de la clientèle à l’aide de l’Analyse des cohortes
+# Utilisation de l’analyse des cohortes pour comprendre le comportement des clients
 
 Pour améliorer l’expérience client et les recettes, les entreprises doivent comprendre le comportement des clients. L’analyse des cohortes peut vous aider à comprendre l’engagement et la rétention, ce qui entraîne des actions telles que l’amélioration de la création de compte et la création de campagnes pour les mois à volume élevé.
 
@@ -35,7 +35,7 @@ Performances numériques actuelles
 1. Le taux de conversion des nouvelles visites est légèrement plus élevé que celui des visites récurrentes pour les deux visites (11,6 % contre 11,4 %).
 1. Par rapport à 2021, les taux de conversion ont diminué dans les deux segments.
 
-![Tableau Visites](assets/cohort1.png)
+![Table des visites](assets/cohort1.png)
 
 ## Partie 2 : Analyse des cohortes - Visites Renseignées Produit Global
 
@@ -53,17 +53,18 @@ L’analyse des cohortes est un outil utile pour comprendre comment les cohortes
 Configuration du tableau de cohortes
 
 1. Définir la période sur janvier à décembre 2022
-1. **Critères d’inclusion :** Visites
-1. **Critères de retour :** Visites
-1. **Granularité :** Mois
-1. **Paramètres :** Calcul variable \*\*Permet de calculer la rétention en fonction de la colonne précédente, et non de la colonne incluse. Ainsi, cela signifie qu’un utilisateur est inclus dans chaque mois\*\*
+1. **Critères d’inclusion :** visites
+1. **Critères de retour :** visites
+1. **Granularité :** mois
+1. **Paramètres :** Calcul variable
+\*\*Permet de calculer la rétention en fonction de la colonne précédente, et non de la colonne incluse. Ainsi, cela signifie qu’un utilisateur est inclus dans chaque mois\*\*
 1. **Segments :** vous pouvez sélectionner des segments spécifiques pour approfondir cette analyse.
    1. Pages d’entrée spécifiques
    1. Type d’appareil
    1. Canaux marketing
-   1. Etc.
+   1. etc.
 
-### Interpréter les résultats
+### Interprétation des résultats
 
 **En 2022 :**
 
@@ -71,14 +72,14 @@ Configuration du tableau de cohortes
 1) Les mois avec le plus grand volume comprennent février et mai
 1) ~1 000 visiteurs reviennent sur le site tous les mois
 
-![Table de rétention 2022](assets/cohort2.png)
+![2022 table de rétention](assets/cohort2.png)
 
 **En 2021 :**
 
 1) Les mois ayant les taux de rétention les plus élevés +1 mois comprennent avril, janvier et mars
 1) Les mois avec le plus grand volume comprennent février et mai
 
-![Tableau de rétention 2021](assets/cohort3.png)
+![Table de rétention 2021](assets/cohort3.png)
 
 **Éléments d’action :**
 
@@ -103,7 +104,7 @@ Analyse répétée des commandes pour comprendre les acheteurs réguliers
 
 Puisque ce client cherche à comprendre la valeur d’un programme de fidélité, l’étape suivante de l’analyse consiste à ajouter dans l’événement de succès de connexion en tant que mesure d’inclusion à la cohorte.
 
-Avertissement : l’analyse des cohortes ne peut pas être utilisée pour les mesures calculées (telles que le taux de conversion) ou les mesures non entières (telles que les recettes). Seules les mesures pouvant être utilisées dans les segments peuvent être utilisées dans une Analyse des cohortes. En outre, elles ne peuvent être incrémentées que de >1 à la fois.
+Avertissement : l’analyse des cohortes ne peut pas être utilisée pour les mesures calculées (telles que le taux de conversion) ou les mesures non entières (telles que les recettes). Seules les mesures pouvant être utilisées dans les segments peuvent être utilisées dans l’analyse des cohortes. Elles ne peuvent être incrémentées que de plus de 1 à la fois.
 
 Le site est-il plus susceptible de retenir les utilisateurs qui se connectent ?
 
@@ -111,11 +112,12 @@ Quel serait l’impact si nous pouvions amener plus d’utilisateurs à se conne
 
 ### Configuration du tableau de cohortes
 
-1. **Définir la période :** de janvier à décembre 2022
+1. **Définir la plage de dates :** de janvier à décembre 2022
 1. **Critères d’inclusion :** Visites + événement de succès de connexion
-1. **Critères de retour :** Visites
-1. **Granularité :** Mois
-1. **Paramètres :** Calcul variable \*\*Permet de calculer la rétention en fonction de la colonne précédente, et non de la colonne incluse. Ainsi, cela signifie qu’un utilisateur est inclus dans chaque mois\*\*
+1. **Critères de retour :** visites
+1. **Granularité :** mois
+1. **Paramètres :** Calcul variable
+\*\*Permet de calculer la rétention en fonction de la colonne précédente, et non de la colonne incluse. Ainsi, cela signifie qu’un utilisateur est inclus dans chaque mois\*\*
 
 ### Interprétation des résultats
 
@@ -133,31 +135,31 @@ Exploration de l’expérience utilisateur du site pour demander aux utilisateur
 
 ## Partie 4 : cohorte de Dimension personnalisée
 
-Cohorte de dimension personnalisée : créez des cohortes en fonction de la dimension sélectionnée, plutôt qu’en fonction du temps (par défaut). Nombre de clients veulent analyser leurs cohortes en fonction d’autres aspects que le temps. La nouvelle fonctionnalité Cohorte de dimension personnalisée vous fournit la flexibilité de créer des cohortes en fonction des dimensions de votre choix. Utilisez des dimensions telles que le canal marketing, la campagne, le produit, la page, la région ou toute autre dimension dans [!DNL Adobe Analytics] pour montrer comment la rétention change en fonction des différentes valeurs de ces dimensions. La variable
+Cohorte de Dimension personnalisée : créez des cohortes en fonction de la dimension sélectionnée, plutôt que des cohortes en fonction du temps (par défaut). De nombreux clients souhaitent analyser leurs cohortes en fonction d’autres éléments que le temps. La nouvelle fonctionnalité Cohorte de Dimension personnalisée vous offre la possibilité de créer des cohortes en fonction des dimensions de leur choix. Utilisez des dimensions telles que le canal marketing, la campagne, le produit, la page, la région ou toute autre dimension dans [!DNL Adobe Analytics] pour afficher l’évolution de la rétention en fonction des différentes valeurs de ces dimensions. La variable
 
 La définition de segment de cohorte de Dimension personnalisée applique l’élément de dimension uniquement dans le cadre de la période d’inclusion, et non dans le cadre de la définition du renvoi.
 
-Après avoir choisi l’option Cohorte de dimension personnalisée, vous pouvez faire glisser et déposer n’importe quelle dimension dans la zone de dépôt. Cela vous permet de comparer des éléments de dimension similaires sur la même période. Par exemple, vous pouvez comparer les performances des villes côte à côte.
+Après avoir choisi l’option Cohorte de Dimension personnalisée , vous pouvez faire glisser et déposer n’importe quelle dimension dans la zone de dépôt. Vous pouvez ainsi comparer des éléments de dimension similaires sur la même période. Par exemple, vous pouvez comparer les performances des villes côte à côte.
 
-côté, produits, campagnes, etc. Elle renverra vos 14 principaux éléments de dimension. Cependant, vous pouvez utiliser un filtre (accessible en survolant la partie droite de la dimension déposée) pour afficher uniquement les éléments de dimension désirés. Une cohorte de dimension personnalisée ne peut pas être utilisée avec la fonctionnalité de tableau de latence.
+côté, produits, campagnes, etc. Elle renverra vos 14 principaux éléments de dimension. Vous pouvez toutefois utiliser un filtre (accessible en pointant sur la droite de la dimension qui a été glissée dessus) pour afficher uniquement les éléments de dimension de votre choix. Une cohorte de Dimension personnalisée ne peut pas être utilisée avec la fonction Tableau de latence .
 
 ### Quels produits sont les moteurs de l’attractivité du site ?
 
 Le tableau Cohorte de Dimension personnalisée met en évidence les produits qui génèrent des taux de rétention supérieurs à la moyenne.  Ce tableau permet d’identifier vos principaux produits afin de piloter des campagnes marketing internes et externes à l’aide de produits dignes d’attention.
 
-**En février :** 3 produits standard avec des taux de rétention plus élevés
+**En février :** 3 produits se démarquent avec des taux de rétention plus élevés
 
-1) Product 1
+1) Produit 1
 1) Product 2
 1) Product 3
 
 **En mars :**
 
-1) Product 1
+1) Produit 1
 1) Product 2
-1) Product 3 — surpasse fréquemment avec un taux de rétention plus élevé par rapport à une rétention moyenne.
+1) Produit 3 : souvent plus performant avec un taux de rétention plus élevé que la rétention moyenne.
 
-![Tableau de cohortes 5](assets/cohort5.png)
+![ Table de cohortes 5](assets/cohort5.png)
 
 ## Conclusion
 
@@ -165,10 +167,10 @@ L’analyse des cohortes et la cohorte de Dimension personnalisée sont de puiss
 
 ## Auteur
 
-Ce document a été rédigé par :
+Ce document a été rédigé par :
 
 ![Jennifer Yacenda](assets/jennifer-yacenda.png)
 
-**Jennifer Yacenda**, Senior Director at Marriott
+**Jennifer Yacenda{1, Senior Director at Marriott**
 
 [!DNL Adobe Analytics] Champion

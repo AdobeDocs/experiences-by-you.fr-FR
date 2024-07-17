@@ -15,7 +15,7 @@ ht-degree: 16%
 
 # Marketo par vous : ressources par utilisateurs, pour les utilisateurs.
 
-La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. Les utilisateurs qui prennent les produits, les exploitent, et les appliquent de manière incroyable et innovante pour créer des expériences et des résultats significatifs. Expériences par vous présente le contenu créé par les utilisateurs de tous les jours qui ont atteint un niveau d’expertise et d’influence sur leurs [!DNL Adobe] solutions Experience Cloud. Ce savoir peer-to-peer encourage la collaboration et la découverte - ce qui vous permet, ainsi qu’à tout autre utilisateur, de trouver l’inspiration nécessaire pour améliorer votre expertise produit.
+La chose la plus puissante à propos des solutions Experience Cloud [!DNL Adobe] ? Vous. Les utilisateurs qui prennent les produits, les exploitent, et les appliquent de manière incroyable et innovante pour créer des expériences et des résultats significatifs. Experience by You présente le contenu créé par les utilisateurs de tous les jours qui ont atteint un niveau d’expertise et d’influence avec leurs solutions Experience Cloud [!DNL Adobe]. Ce savoir peer-to-peer encourage la collaboration et la découverte - ce qui vous permet, ainsi qu’à tout autre utilisateur, de trouver l’inspiration nécessaire pour améliorer votre expertise produit.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,15 +32,15 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="Accédez au [!DNL Marketo Engage] interface utilisateur" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="Naviguer dans l’interface utilisateur de [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
-    <strong>Accédez au [!DNL Marketo Engage] interface utilisateur</strong>
+    <strong> Parcourez l’ [!DNL Marketo Engage] interface utilisateur</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment naviguer dans l’interface utilisateur et vous familiariser avec votre façon de contourner le [!DNL Marketo Engage] plateforme.</em>
+    <em>Découvrez comment naviguer dans l’interface utilisateur et vous familiariser avec votre façon de contourner la plateforme [!DNL Marketo Engage].</em>
     <p>
   </td>
   <td>
@@ -49,11 +49,11 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
-    <strong>Rapports et analyses</strong>
+    <strong>Reporting and analytics</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment parcourir la section Analytics et base de données pour extraire différents rapports d’usine dans [!DNL Marketo Engage].</em>
+    <em>Découvrez comment parcourir la section Analytics et base de données pour extraire différents rapports d'usine dans [!DNL Marketo Engage].</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
     </a>
     </div>
     <p>
-    <em>Regardez ce tutoriel détaillé pour savoir comment créer un programme de messagerie avec un test A/B.</em>
+    <em>Regardez ce tutoriel détaillé pour apprendre à créer un programme de messagerie avec un test A/B.</em>
     <p>
   </td>
 </tr>
@@ -76,7 +76,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
 
 ## Ressources supplémentaires
 
-* [Marketo Nation (communautés)](https://nation.marketo.com/)
+* [Nation Marketo (communautés)](https://nation.marketo.com/)
 * [Documentation Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html)
 * [Tutorials Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
-* [Informations sur les produits Adobe Marketo Engage](https://business.adobe.com/products/marketo/adobe-marketo.html)
+* [Informations sur le produit Adobe Marketo Engage](https://business.adobe.com/products/marketo/adobe-marketo.html)

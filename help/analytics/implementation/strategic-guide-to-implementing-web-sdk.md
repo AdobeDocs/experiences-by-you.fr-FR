@@ -10,13 +10,13 @@ duration: 72000
 last-substantial-update: 2024-05-14T00:00:00Z
 jira: KT-15488
 thumbnail: KT-15488.jpeg
-source-git-commit: 04367fcc60fae501422c8e9b1c70838c404d598b
+exl-id: b0719779-f260-45b7-bdd6-1a3145bcb251
+source-git-commit: 4340bd82fd13397762c5b1ebd17d5d03d8180c3e
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
-
 
 # Guide stratégique pour la mise en oeuvre du SDK Web
 
@@ -26,16 +26,15 @@ Dans le paysage numérique actuel, l’optimisation des performances web et l’
 
 Malgré ces avantages, l’idée d’implémenter le SDK Web peut être décourageante, voire totalement irrésistible. C’est pourquoi j’ai créé ce guide stratégique pour vous aider à vous lancer dans ce parcours de mise en oeuvre du SDK Web.
 
-Téléchargez la [Guide stratégique pour la mise en oeuvre du SDK Web](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"}.
+Téléchargez le [guide stratégique de mise en oeuvre du SDK Web](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"}.
 
 
 ## Auteur
 
-Ce document a été rédigé par :
+Ce document a été rédigé par :
 
-![plan-tête-meghan](assets/meghan-head-shot.png)
+![meghan-head-shot](assets/meghan-head-shot.png)
 
-**Les puissances du Meghan**
+**Meghan Powers**
 
 Responsable principal de la gouvernance des données, de la stratégie et des analyses chez CarMax et champion Adobe Analytics
-

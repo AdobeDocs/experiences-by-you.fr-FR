@@ -1,6 +1,6 @@
 ---
-title: Champion AEM - Planification de la migration vers AEM as a Cloud Service
-description: Obtenez des conseils d’experts sur la préparation et la planification d’une migration vers AEM as a Cloud Service du champion AEM, Wilson Faure.
+title: AEM champion - Planification de la migration vers AEM as a Cloud Service
+description: Obtenez des conseils d’experts sur la préparation et la planification de la migration vers AEM as a Cloud Service depuis le champion AEM, Wilson Faure.
 version: Cloud Service
 topic: Migration
 role: Admin, Developer

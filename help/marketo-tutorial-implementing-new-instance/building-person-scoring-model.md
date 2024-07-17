@@ -9,7 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 73976144-f02b-4423-9b4b-410330117ba9
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '2111'
 ht-degree: 2%
@@ -32,14 +33,14 @@ En évaluant les personnes dans votre base de données de Marketo Engage, vous p
 
 La notation comportementale donne une valeur numérique aux actions pouvant faire l’objet d’un suivi qu’un prospect entreprendre indiquant son intérêt pour vos produits et services et son intention d’acheter. Par exemple, la visite du site web présente un intérêt et la consultation de la page de tarification peut indiquer des intentions. En revanche, la consultation de la page des carrières peut indiquer que la personne n’achètera pas.
 
-**Étape 1** - Faites la liste des activités de prospect qui ont de l’importance pour votre processus de vente ou qui sont importantes pour votre organisation. Il peut s’avérer utile de collaborer avec votre équipe de vente pour déterminer les activités qui indiquent qu’un prospect a l’intention d’acheter, ce qui vous aide à aligner les critères sur les ventes et à établir des priorités en fonction de leurs observations sur les contrats à durée limitée. Voici quelques questions que vous pouvez poser à votre équipe commerciale :
+**Étape 1** - Effectuez une liste des activités de prospects qui comptent pour votre processus de vente ou qui sont utiles à votre organisation. Il peut s’avérer utile de collaborer avec votre équipe de vente pour déterminer les activités qui indiquent qu’un prospect a l’intention d’acheter, ce qui vous aide à aligner les critères sur les ventes et à établir des priorités en fonction de leurs observations sur les contrats à durée limitée. Voici quelques questions que vous pouvez poser à votre équipe commerciale :
 
 * Quelles activités indiquent une bonne ou une mauvaise piste pour vous ?
 * Quel type de contenu consommé par un prospect a une intention d’achat plus forte ?
 
 **Étape 2** - Liste des actions qui indiquent qu’un prospect n’est pas intéressé par votre produit. Veillez à répertorier les activités pouvant faire l’objet d’un suivi via Marketo Engage.
 
-**Exemple 1a - Activités indiquant une intention d’achat**
+**Exemple 1a - Activités indiquant l’intention d’acheter**
 
 | **Activités indiquant l’intention d’acheter** | **Activités indiquant AUCUNE intention d’acheter** |
 | --- | --- |
@@ -61,7 +62,7 @@ La notation comportementale donne une valeur numérique aux actions pouvant fair
 | --- | --- |
 | Seuil de remise des ventes | 50 |
 
-**Étape 4** - Attribuez un score à chaque activité répertoriée dans &quot;Exemple 1a - Activités indiquant une intention d’achat&quot;.
+**Étape 4** - Attribuez un score à chaque activité répertoriée dans &quot;Exemple 1a - Activités indiquant l’intention d’acheter&quot;.
 
 * Utilisez un score de comportement positif pour les activités qui indiquent un intérêt pour augmenter le score de prospect global d’un prospect et un score négatif pour indiquer un désintérêt.
 * En utilisant votre seuil de &quot;Exemple 1b - Seuil de remise des ventes&quot; comme référence, déterminez vos scores de comportement par rapport à l’importance de leurs actions. Par exemple, les prospects qui demandent une démonstration doivent passer directement aux ventes. Il est logique d’attribuer à cette action une valeur de point égale à votre seuil de remise des prospects. En attendant, télécharger un livre blanc n&#39;est pas un indicateur aussi solide de l&#39;achat d&#39;intérêt et devrait donc valoir moins de points.
@@ -76,13 +77,13 @@ La notation comportementale donne une valeur numérique aux actions pouvant fair
 | Téléchargement d’un livre blanc | +5 |
 | Visitez-nous à un salon | +15 |
 
-**Étape 5** - Rappelez-vous, la notation est un processus itératif ! Examinez et ajustez continuellement les scores et les seuils lorsque vous collectez plus de données pour l’analyse.
+**Étape 5** - N’oubliez pas que la notation est un processus itératif ! Examinez et ajustez continuellement les scores et les seuils lorsque vous collectez plus de données pour l’analyse.
 
 ## Exercice 2 - Identification de la bonne adéquation avec les scores démographiques
 
 Maintenant que vous avez défini les activités indiquant l’intention d’achat, vous devez compléter le modèle de notation avec vos profils de prospects idéaux. Pour déterminer si un prospect est adapté à d’autres conversations de vente, il est important d’attribuer des scores démographiques en plus des scores comportementaux afin que le modèle détermine les meilleures pistes en termes d’ajustement et d’intention.
 
-**Étape 1** - Faites la liste des caractéristiques de vos prospects idéaux.
+**Étape 1** - Effectuez une liste des caractéristiques pour vos prospects idéaux.
 
 * Envisagez de répertorier les attributs tels que leur secteur d’activité, leur société, leur département et leur rôle. Assurez-vous que ces caractéristiques correspondent aux champs démographiques disponibles dans votre instance de Marketo Engage.
 * Collaborez avec votre équipe de vente afin de déterminer les prospects qui répondent le plus aux questions de vente et qui sont des contacts clés lors des opportunités de vente.
@@ -104,7 +105,7 @@ Maintenant que vous avez défini les activités indiquant l’intention d’acha
 
 **Étape 2** - Attribuez un score à chaque caractéristique en fonction de sa pertinence dans votre profil de prospect idéal. Utilisez des scores positifs pour les caractéristiques souhaitables et des scores négatifs pour les caractéristiques qui rendent le prospect moins adapté à votre produit.
 
-**Exemple 2b - Attribution de scores aux caractéristiques de perspective idéales et indésirables**
+**Exemple 2b : attribution de scores aux caractéristiques de perspective idéales et indésirables**
 
 | **Caractéristique** | **Score** |
 | --- | --- |
@@ -145,10 +146,10 @@ Préférez-vous une présentation vidéo pour cet exercice ? Tune in as Marketo 
 | **Matrice démographique** | **Priorité 1** | **Priorité 2** | **Priorité 3** |
 | --- | --- | --- | --- |
 | Valeurs élevées | 20 points | 10 points | 7 points |
-| Valeurs moyennes | 10 points | 7 points | 3 points |
+| Valeurs Medium | 10 points | 7 points | 3 points |
 | Faibles valeurs | 5 points | 3 points | 1 point |
 
-**Étape 3** - Collectez les commentaires de vos équipes commerciales locales ou régionales pour développer une vision globale. Vous remarquerez qu’aucun score individuel n’est inclus dans l’exemple 3c. Cela permet à l’équipe commerciale de se concentrer sur la valeur relative des différentes rubriques au cours du processus de révision. Cependant, votre modèle complet doit être documenté en tant que documents d’arrière-plan pour d’autres administrateurs de Marketo Engage.
+**Étape 3** - Collectez les données de vos équipes commerciales locales ou régionales pour développer une vision globale. Vous remarquerez qu’aucun score individuel n’est inclus dans l’exemple 3c. Cela permet à l’équipe commerciale de se concentrer sur la valeur relative des différentes rubriques au cours du processus de révision. Cependant, votre modèle complet doit être documenté en tant que documents d’arrière-plan pour d’autres administrateurs de Marketo Engage.
 
 * Verrouillez les éléments qui ne peuvent pas être ajustés pour la cohérence globale (ici dans la colonne &quot;Mise en oeuvre de la rubrique&quot;).
 * Marquez (ici dans les colonnes &quot;Priorité&quot; et &quot;Score&quot;) ce qui peut être ajusté aux influences locales.
@@ -233,7 +234,7 @@ Préférez-vous une présentation vidéo pour cet exercice ? Tune in as Marketo 
 ## Et après ?
 
 * Téléchargez la [feuille d’exercice de notation des personnes](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} pour développer votre modèle de notation hors ligne.
-* Créez la notation de votre personne en Marketo Engage. Vérifier [tutoriel](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} et [demo](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} pour commencer. Vous pouvez importer un programme de notation prospect/personne [modèle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} à partir de la bibliothèque de référence du Marketo Engage pour accélérer la création du programme.
+* Créez la notation de votre personne en Marketo Engage. Consultez ce [tutoriel](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} et [démonstration](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} pour commencer. Vous pouvez importer un programme de notation prospect/personne [template](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} de la bibliothèque de référence du Marketo Engage pour accélérer la création du programme.
 * Créez deux versions du programme de notation :
    * Un programme central qui exécute toute notation qui ne peut pas être mise à jour localement.
    * Une copie locale avec les éléments de notation configurables.
@@ -243,8 +244,8 @@ Préférez-vous une présentation vidéo pour cet exercice ? Tune in as Marketo 
    * Déterminez les données démographiques et les activités comportementales qui ne doivent noter qu’une seule fois (c’est-à-dire l’industrie) et qui doivent noter chaque fois qu’un prospect est admissible (c’est-à-dire qu’il a participé à un webinaire). Cela garantit que les contacts potentiels déclenchés par le changement de valeur de données sont pertinents pour les ventes.
    * Vérifiez que vos choix s’excluent mutuellement.
    * Effectuez vos mises à jour dans les deux étapes de flux afin que le score de personne soit mis à jour de la même manière que le score démographique. Ainsi, le score de personne reste en ligne avec la combinaison du score de comportement et du score démographique.
-* Testez la campagne dynamique une fois la création de votre programme terminée. Par exemple, accédez à votre formulaire de démonstration, renseignez-le avec un e-mail de test et vérifiez le score de votre personne de test dans [Base de données Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
-* Après avoir créé votre modèle, envisagez de configurer une alerte pour augmenter les ventes une fois que le score de la personne a atteint le seuil de remise des ventes. En savoir plus sur la configuration d’une alerte avec cette [tutoriel](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}.
+* Testez la campagne dynamique une fois la création de votre programme terminée. Par exemple, accédez à votre formulaire de démonstration, renseignez-le avec un e-mail de test et vérifiez le score de votre personne de test dans la [base de données de Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
+* Après avoir créé votre modèle, envisagez de configurer une alerte pour augmenter les ventes une fois que le score de la personne a atteint le seuil de remise des ventes. En savoir plus sur la configuration d’une alerte avec ce [tutoriel](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}.
 
 ### Auteurs
 

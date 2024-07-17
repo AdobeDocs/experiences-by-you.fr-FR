@@ -10,16 +10,16 @@ doc-type: Feature Video
 duration: 432
 last-substantial-update: 2024-04-05T00:00:00Z
 jira: KT-15212
-source-git-commit: 4c58231e3663ae6e1c1ab62116cc56ced294dcd7
+exl-id: bdac2b6f-b8d9-4fbd-9b31-434033d8d27f
+source-git-commit: 58bd4b8299787a1d48eacaf6cf7fa249660526cc
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 63%
 
 ---
 
-
 # Utilisation de l’analyseur des bonnes pratiques (BPA)
 
-Découvrez des stratégies de pointe et des informations d’experts pour optimiser l’utilisation de l’analyse des bonnes pratiques (BPA) en vue de votre transition vers AEM as a Cloud Service. Rejoignez Rami El Gamal, AEM Champion, dans cette vidéo, en vous guidant à travers les principales considérations, l&#39;utilisation adéquate de la BPA, et présente diverses perspectives pour améliorer votre apprentissage.
+Découvrez des stratégies de premier plan et des informations de spécialistes pour optimiser l’utilisation de BPA en vue de votre transition vers AEM as a Cloud Service. Dans cette vidéo, rejoignez Rami El Gamal, champion d’AEM, qui vous guide à travers les principales considérations, l’utilisation adéquate de BPA, et présente diverses perspectives pour améliorer votre apprentissage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428022/?learn=on)

@@ -9,13 +9,13 @@ duration: 0
 last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 5%
 
 ---
-
 
 # Planification d’une nouvelle implémentation de Marketo Engage
 
@@ -38,8 +38,8 @@ Dans ce tutoriel, nous allons passer en revue les jalons, les engagements de l�
 
 ### Phase 3 - Création de bibliothèque de programmes et configuration de campagne
 
-- Développement de modèles d’email et de landing pages. Prise en main de [importation de programmes de démarrage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) de la [Bibliothèque d’importation de programme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
-- Configuration des règles de segmentation et de personnalisation
+- Développement de modèles d’email et de landing pages. Commencez par [ importer des programmes de démarrage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) à partir de la [bibliothèque d’importation de programme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Configuration de la segmentation et des règles Personalization
 - Création de campagnes initiales pour la génération et la prise en charge de pistes
 
 ### Phase 4 - Formation et adoption des utilisateurs
@@ -88,7 +88,7 @@ La mise en oeuvre d’une nouvelle instance nécessite une planification et une 
         <li>SPF/DKIM </li> 
         <li>Configuration des domaines web</li> 
         <li>CNAME</li> 
-        <li>Délivrabilité des emails</li>
+        <li>Email Deliverability</li>
         </td>
     </tr>
     <tr>
@@ -134,7 +134,7 @@ Entendez Kyle McCormick, championne Marketo Engage (2019), parler de son expéri
 
 Créez un plan de projet de mise en oeuvre et une chronologie. Vous trouverez ci-dessous un exemple de chronologie de projet, y compris des sections pour des exemples de jalons, de tâches, d’équipes responsables, d’échéances et de dépendances. Utilisez-le pour rationaliser votre parcours de mise en oeuvre de Marketo Engage et assurer un déploiement réussi à l’échelle de l’entreprise.
 
-Vous pouvez également télécharger l’exemple pour modifier et suivre les tâches de jalon spécifiques. [ICI](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
+Vous pouvez également télécharger l’exemple pour la modification et le suivi de tâches de jalon spécifiques [HERE](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
 
 <table>
  <thead>
@@ -158,14 +158,14 @@ Vous pouvez également télécharger l’exemple pour modifier et suivre les tâ
     </tr>
     <tr>
         <td rowspan="2">Configuration technique</td>
-        <td><em>EXEMPLE -</em> Installez MunchkinID sur le site web de la société</td>
+        <td><em>EXEMPLE -</em> Installez MunchkinID sur le site web de l’entreprise</td>
         <td bgcolor="c6f0cf">Terminée</td>
         <td>9/5/24</td>
         <td>9/12/24</td>
         <td>Équipe de développement web</td>
     </tr>
     <tr>
-        <td><em>EXEMPLE -</em> Configurez les clés de domaine Identified Mail (DKIM) et 2 CNAME distincts pour les liens de délivrabilité et de tracking email.</td>
+        <td><em>EXEMPLE -</em> Configurez les clés de domaine Identified Mail (DKIM) et 2 CNAME distincts pour les liens de délivrabilité et de suivi des emails.</td>
         <td bgcolor="c6f0cf">Terminée</td>
         <td>9/15/24</td>
         <td>9/18/24</td>
@@ -173,7 +173,7 @@ Vous pouvez également télécharger l’exemple pour modifier et suivre les tâ
     </tr>
     <tr>
         <td rowspan="4">Configuration de Adobe Admin Console et d’administration</td>
-        <td><em>EXEMPLE -</em> Création d’utilisateurs et de rôles Marketo Engage</td>
+        <td><em>EXEMPLE -</em> Créer des utilisateurs et des rôles de Marketo Engage</td>
         <td bgcolor="c6f0cf">Terminée</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
@@ -209,7 +209,7 @@ Vous pouvez également télécharger l’exemple pour modifier et suivre les tâ
         <td>Prise en charge de l’administrateur CRM pour comprendre les champs disponibles.</td>
     </tr>
     <tr>
-        <td><em>EXEMPLE -</em> Exécution d’un audit des données</td>
+        <td><em>EXEMPLE -</em> Effectuer un audit des données</td>
         <td bgcolor="ffeb9c">En cours</td>
         <td>10/26/24</td>
         <td>S/O</td>
@@ -217,28 +217,28 @@ Vous pouvez également télécharger l’exemple pour modifier et suivre les tâ
     </tr>
     <tr>
         <td rowspan="2">Build du programme opérationnel</td>
-        <td><em>EXEMPLE -</em> Créer un programme pour normaliser les données entrantes</td>
+        <td><em>EXEMPLE -</em> Créez un programme pour normaliser les données entrantes</td>
         <td bgcolor="ffc7cf">Non démarré</td>
         <td>11/9/24</td>
         <td>S/O</td>
         <td>Prise en charge par les équipes des opérations de vente et de gestion de la relation client pour déterminer une stratégie de gestion des données.</td>
     </tr>
     <tr>
-        <td><em>EXEMPLE -</em> Créer un centre d’abonnement aux emails</td>
+        <td><em>EXEMPLE -</em> Créez un centre d’abonnement aux emails</td>
         <td bgcolor="ffc7cf">Non démarré</td>
         <td>11/19/24</td>
         <td>S/O</td>
         <td>Entrée des équipes marketing sur les types de contenu et la segmentation des listes de diffusion.</td>
     <tr>
         <td rowspan="2">Premier build de programme marketing</td>
-        <td><em>EXEMPLE -</em> Configuration du programme de messagerie de base</td>
+        <td><em>EXEMPLE -</em> Configuration d’un programme de messagerie de base</td>
         <td bgcolor="ffeb9c">En cours</td>
         <td>11/12/24</td>
         <td>S/O</td>
         <td>Ressources créatives de l’équipe numérique pour les emails et les landing pages.</td>
     </tr>
     <tr>    
-        <td><em>EXEMPLE -</em> Créer un programme pour la newsletter trimestrielle</td>
+        <td><em>EXEMPLE -</em> Créez un programme pour la newsletter trimestrielle</td>
         <td bgcolor="ffc7cf">Non démarré</td>
         <td>11/30/24</td>
         <td>S/O</td>
@@ -246,14 +246,14 @@ Vous pouvez également télécharger l’exemple pour modifier et suivre les tâ
     </tr>
     <tr>
         <td rowspan="2">Configuration de l’intégration LaunchPoint</td>
-        <td><em>EXEMPLE -</em> Création d’un utilisateur et d’un rôle d’API uniquement</td>
+        <td><em>EXEMPLE -</em> Créer une API uniquement utilisateur et rôle</td>
         <td bgcolor="ffc7cf">Non démarré</td>
         <td>11/23/24</td>
         <td>   </td>
         <td>Déterminez les services requis pour la nouvelle instance avec les équipes marketing.</td>
     </tr>
     <tr>
-        <td><em>EXEMPLE -</em> Création d’un service personnalisé pour Google Ads</td>
+        <td><em>EXEMPLE -</em> Créez un service personnalisé pour Google Ads</td>
         <td bgcolor="ffc7cf">Non démarré</td>
         <td>12/7/24</td>
         <td>   </td>
@@ -262,13 +262,13 @@ Vous pouvez également télécharger l’exemple pour modifier et suivre les tâ
     </tr>
     <tr>
         <td rowspan="2">Formation et documentation des utilisateurs</td>
-        <td><em>EXEMPLE -</em> Créer un guide de gouvernance pour les utilisateurs internes</td>
+        <td><em>EXEMPLE -</em> Créez un guide de gouvernance pour les utilisateurs internes</td>
         <td bgcolor="ffc7cf">Non démarré</td>
         <td>12/2/24</td>
         <td>S/O</td>
         <td>Créez une équipe de gouvernance Marketo Engage afin de créer de la documentation ou du budget sur la gouvernance afin de conclure un contrat avec le projet de gouvernance.</td>
     <tr>
-        <td><em>EXEMPLE -</em> Formation de 4 utilisateurs et accès utilisateur standard à Marketo</td>
+        <td><em>EXEMPLE -</em> Former 4 utilisateurs et leur fournir un accès utilisateur Marketo standard</td>
         <td bgcolor="ffc7cf">Non démarré</td>
         <td>12/13/24</td>
         <td>S/O</td>
@@ -282,7 +282,7 @@ Vous pouvez également télécharger l’exemple pour modifier et suivre les tâ
         <td>L’équipe des opérations marketing est chargée de l’assurance qualité, de la planification et de l’envoi.</td>
     </tr>
     <tr>
-        <td><em>EXEMPLE -</em> Extrayez le premier rapport Performance des emails .</td>
+        <td><em>EXEMPLE -</em> Extrayez le premier rapport Performance des emails.</td>
         <td bgcolor="ffc7cf">Non démarré</td>
         <td>12/16/24</td>
         <td>S/O</td>
@@ -294,7 +294,7 @@ Vous pouvez également télécharger l’exemple pour modifier et suivre les tâ
 >[!NOTE]
 >Les exemples fournis ne reposent pas sur un calendrier de mise en oeuvre réel. Ne vous fiez pas à celles-ci comme une chronologie standard pour votre intégration avec Marketo Engage, car chaque mise en oeuvre est unique, avec des jalons et des exigences différents en fonction des besoins de votre entreprise.
 
-Pour obtenir de l’aide main dans la mise en oeuvre et la personnalisation de votre Marketo Engage pour votre instance, contactez l’équipe Compte d’Adobe ou contactez l’ [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide pratique sur l’implémentation et la personnalisation de votre Marketo Engage pour votre instance, contactez l’équipe du compte d’Adobe ou contactez [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ### Auteur
 

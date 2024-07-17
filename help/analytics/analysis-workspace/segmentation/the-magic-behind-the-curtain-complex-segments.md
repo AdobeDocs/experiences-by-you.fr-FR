@@ -13,13 +13,13 @@ exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
 source-git-commit: 69fa16c1bf38604e4dabc553baee71598be83db3
 workflow-type: tm+mt
 source-wordcount: '4102'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # La magie derrière le rideau : segments complexes : exclusions, conteneurs et attribution
 
-_Découvrez les complexités de la segmentation de données complexe, en explorant les exclusions, les conteneurs et les modèles d’attribution. Comme le tour de passe-passe d&#39;un magicien, la maîtrise de ces techniques permet aux analystes de faire de la magie des données, transformant ainsi les informations avec précision et finesse._
+_Découvrez les complexités de la segmentation de données complexes, en explorant les exclusions, les conteneurs et les modèles d’attribution. Tout comme la poignée de main d&#39;un magicien, la maîtrise de ces techniques permet aux analystes de faire de la magie des données, transformant ainsi les informations avec précision et finesse._
 
 Les rideaux sont ouverts, la scène est en place...ce n&#39;est peut-être pas un acte magique de Las Vegas, mais nous pouvons faire des figures assez étonnantes lors de la construction de nos segments.
 
@@ -33,60 +33,60 @@ Dans ce module, nous allons couvrir :
 
 ## Inclure ou exclure
 
-Par défaut, tous les conteneurs commencent par **include** type, ce qui signifie simplement qu’ils renvoient les données qui correspondent au critère. Cependant, vous pouvez également modifier le segment ou les conteneurs dans les segments pour qu’ils soient **exclude** , ce qui vous permet de rejeter certains critères.
+Par défaut, tous les conteneurs commencent par le type **include** , ce qui signifie qu’ils renvoient les données qui correspondent aux critères. Cependant, vous pouvez également modifier le segment ou les conteneurs au sein des segments pour qu’ils soient de type **exclude** , ce qui vous permet de rejeter certains critères.
 
 Alors qu&#39;un magicien peut trouver votre carte dans le jeu, c&#39;est incroyable quand ce magicien peut faire que le reste du jeu n&#39;existe pas. De même, en excluant des segments, nous voulons que les données indésirables disparaissent simplement de notre jeu de données.
 
-![cartes blanches](assets/blankcards.png)
+![génériques](assets/blankcards.png)
 
-Vous vous dites peut-être : &quot;Ok, mais j&#39;ai déjà les options &quot;N&#39;est pas égal à&quot; et &quot;Ne contient pas&quot;, alors ne devrait-ce pas me couvrir ?&quot; Malheureusement, la réponse est non... et il ne s&#39;agit pas seulement de pouvoir exclure des groupes logiques, sur un seul élément. Même lorsque vous traitez d’un seul composant, vous devrez souvent utiliser *exclut* pour atteindre votre objectif.
+Vous vous dites peut-être : &quot;Ok, mais j&#39;ai déjà les options &quot;N&#39;est pas égal à&quot; et &quot;Ne contient pas&quot;, alors ne devrait-ce pas me couvrir ?&quot; Malheureusement, la réponse est non... et il ne s&#39;agit pas seulement de pouvoir exclure des groupes logiques, sur un seul élément. Même lorsque vous traitez avec un seul composant, vous devrez souvent utiliser *excludes* pour atteindre votre objectif.
 
-- **Ne contient pas / N’est pas égal à** - Est-ce exactement ce à quoi il ressemble, en faisant correspondre des éléments qui ne contiennent pas de chaîne spécifique ?
-- **Exclure : la valeur contient / est égal à** - Cela sera le cas *exclude* éléments correspondant à la chaîne
+- **Ne contient pas / N’est pas égal à** - Ressemble exactement à cela, correspond à des éléments qui ne contiennent pas de chaîne spécifique.
+- **Exclure : la valeur contient / equals** - Cela *exclut* les éléments qui correspondent à la chaîne
 
-A première vue, ces deux-là ont le même son... et ainsi de suite. **accès** niveau des segments/conteneurs, vous avez raison, car ils effectuent la même action. Toutefois, lors de l’utilisation de **visite** ou **visiteur** vous obtiendrez des résultats très différents.
+À première vue, ces deux segments sonnent de la même manière... et sur les segments/conteneurs de niveau **accès**, vous avez raison, car ils effectuent la même action. Cependant, lorsque vous utilisez la portée **visit** ou **visitor**, vous obtenez des résultats très différents.
 
 **Figure 1 : Ne contient pas / n’est pas égal à - Étendue de l’accès**
 
-![Figure1-DanceVsExclude-Hit](assets/figure1-dnce-vs-exclude-hit.png)
+![ Figure1-DanceVsExclude-Hit](assets/figure1-dnce-vs-exclude-hit.png)
 
-*Notez que chaque accès renvoie une valeur true ou false et que ces valeurs sont inversées entre ne et n’excluent pas.*
+*Notez que chaque accès renvoie une valeur true ou false, et que ces valeurs sont inversées entre ne pas exclure et ne pas exclure.*
 
 - La &quot;valeur&quot; ne contient pas &quot;Exemple&quot; (oui), renvoie donc true et inclut cet accès ; de même, &quot;Exemple&quot; ne contient pas &quot;Exemple&quot; (non, il le contient), renvoie false et n’inclut pas cet accès. En gros, renvoyez toutes les données qui renvoient un résultat vrai.
-- La &quot;valeur&quot; contient-elle &quot;Exemple&quot; (non), renvoie donc false et n’exclut pas cet accès ; de même, &quot;Exemple&quot; contient &quot;Exemple&quot; (oui), renvoie donc true et exclut cet accès. En fait, renvoie des données qui **not** ont un résultat vrai ou renvoient des données fausses à vos critères.
-- Vous pouvez le voir à l’adresse **Accès** , les deux ensembles de logiques renverront le même ensemble de données.
+- La &quot;valeur&quot; contient-elle &quot;Exemple&quot; (non), renvoie donc false et n’exclut pas cet accès ; de même, &quot;Exemple&quot; contient &quot;Exemple&quot; (oui), renvoie donc true et exclut cet accès. Fondamentalement, les données renvoyées qui **n’ont pas** un résultat réel ou les données renvoyées qui sont fausses selon vos critères.
+- Vous pouvez constater qu’au niveau **Accès**, les deux ensembles de logiques renvoient le même ensemble de données.
 
-**Figure 2 : Ne contient pas / n’est pas égal à - Portée de la visite**
+**Figure 2 : Ne contient pas / n’est pas égal - Portée de la visite**
 
-![Figure2-DanceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
+![ Figure2-DanceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*Comme ci-dessus, chaque accès dans la variable **visite**est évalué avec le même vrai/faux. Cependant, le jeu de données renvoyé est celui de l’ensemble de la visite.*
+*Comme ci-dessus, chaque accès à l’intérieur de la **visite**est évalué avec le même vrai/faux. Cependant, le jeu de données renvoyé est celui de la visite entière.*
 
 - Sur chaque accès &quot;Valeur&quot; ne contient pas &quot;Exemple&quot; (oui), par conséquent renvoie true ; de même, &quot;Exemple&quot; ne contient pas &quot;Exemple&quot; (non, il le contient), et renvoie false.
-   - If **any** accès dans les retours de visite **true**, puis la variable **visite complète** est renvoyé.*
-   - Si la visite était entièrement composée d’accès contenant un &quot;exemple&quot;, aucun accès ne renvoie la valeur true et, par conséquent, cette visite **non renvoyé** dans votre jeu de données.
+   - Si l’accès **n’importe quel** de la visite renvoie **true**, alors la **visite complète** est renvoyée.*
+   - Si la visite est entièrement composée d’accès qui contiennent &quot;Exemple&quot;, aucun accès ne renvoie true. Par conséquent, cette visite **ne sera pas renvoyée** dans votre jeu de données.
 - Encore une fois, sur chaque accès, &quot;Exemple&quot; contient &quot;Exemple&quot; (oui), et renvoie donc &quot;vrai&quot;
-   - If **tout accès** renvoie **true**, la visite complète sera **excluded**
-   - If **tous les accès** dans le retour de la visite **false**, cette visite sera renvoyée dans votre jeu de données.
+   - Si **accès** renvoie **true**, la visite entière sera **exclue**
+   - Si **tous les accès** de la visite renvoient **false**, cette visite est renvoyée dans votre jeu de données.
 - Vous pouvez voir où cette logique commence à diverger. Dans l’exemple ci-dessus, il existe trois visites distinctes :
-   - Lors de l’utilisation de &quot;Does Not Contain / Equal&quot; (Ne contient pas/est égal) **deux des trois** les visites sont renvoyées.
-   - Lors de l’utilisation de &quot;Exclure contient / Est égal à&quot; **un seul** de ces visites seront renvoyées
+   - Lors de l’utilisation de &quot;Ne contient pas / est égal à&quot; **deux des trois visites** seront renvoyées.
+   - Lors de l&#39;utilisation de &quot;Exclure contient / Equals&quot; **, une seule** de ces visites sera renvoyée.
 
-**Figure 3 : Ne contient pas / n’est pas égal à - Portée de la visite**
+**Figure 3 : Ne contient pas / n’est pas égal - Portée de la visite**
 
-![Figure3-DanceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
+![ Figure3-DanceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*Comme ci-dessus, chaque accès effectué par la fonction **visiteur**est évalué avec la même logique vrai/faux. Mais nous examinons maintenant tous les accès effectués par ce visiteur, au cours de toutes les visites (au cours de la période sélectionnée).*
+*Comme ci-dessus, chaque accès effectué par le **visiteur**sera évalué avec la même logique true/false. Maintenant, nous examinons tous les accès effectués par ce visiteur, pour toutes les visites (au cours de la période sélectionnée).*
 
 - Sur chaque accès &quot;Valeur&quot; ne contient pas &quot;Exemple&quot; (oui), par conséquent renvoie true ; de même, &quot;Exemple&quot; ne contient pas &quot;Exemple&quot; (non, il le contient), et renvoie false.
-   - If **any** accès effectué par le visiteur renvoie **true**, puis la variable **visite complète** est renvoyée.
-   - Si le visiteur n’a jamais effectué d’accès contenant un &quot;exemple&quot;, aucun accès ne renvoie la valeur true, et donc ce visiteur **non renvoyé** dans votre jeu de données.
+   - Si l’accès **n’importe quel** effectué par le visiteur renvoie **true**, alors la **visite complète** est renvoyée.
+   - Si le visiteur n’a jamais effectué d’accès contenant &quot;Exemple&quot;, aucun accès ne renvoie la valeur true et, par conséquent, ce visiteur **ne sera pas renvoyé** dans votre jeu de données.
 - Encore une fois, sur chaque accès, &quot;Exemple&quot; contient &quot;Exemple&quot; (oui), et renvoie donc true.
-   - If **tout accès** renvoie **true**, l’ensemble du visiteur (et par la suite toutes ses visites) sera **exclu.**
-   - If **tous les accès** dans le retour de la visite **false**, ce visiteur est alors renvoyé dans votre jeu de données, renvoyant ainsi avec succès des visiteurs qui n’ont pas fait &quot;X&quot;.
+   - Si **accès** renvoie **true**, l’ensemble du visiteur (et par la suite toutes ses visites) sera **exclu.**
+   - Si **tous les accès** de la visite renvoient **false**, ce visiteur est renvoyé dans votre jeu de données, retournant ainsi avec succès les visiteurs qui n’ont pas fait &quot;X&quot;.
 - Il s’agit d’une extension de la logique de visite, pour laquelle il existe d’autres considérations encore. Dans l’exemple ci-dessus, il existe deux visiteurs distincts, chacun avec 3 visites :
-   - Lors de l’utilisation de &quot;Does Not Contain / Equal&quot; (Ne contient pas/est égal) **both** les visiteurs seront renvoyés, comme le seront tous les **trois** de leurs visites (qui représentent 2 visiteurs et 6 visites totales dans vos rapports) ;
-   - Lors de l’utilisation de &quot;Exclure contient / Est égal à&quot; **un seul** de ces visiteurs seront renvoyés et seules les trois visites associées à ce visiteur seront incluses (ce qui représente 1 visiteur et 3 visites totales dans vos rapports).
+   - Lors de l’utilisation de &quot;Ne contient pas/n’est pas égal à&quot; **, les deux** visiteurs seront renvoyés, tout comme les **trois** de leurs visites (qui représentent 2 visiteurs et 6 visites totales dans vos rapports).
+   - Lors de l’utilisation de l’option &quot;Exclure contient / est égal à&quot; **, un seul** de ces visiteurs sera renvoyé, et seules les trois visites associées à ce visiteur seront incluses (qui représentent 1 visiteur et 3 visites totales dans vos rapports).
 
 >[!TIP]
 >
@@ -94,7 +94,7 @@ A première vue, ces deux-là ont le même son... et ainsi de suite. **accès** 
 
 ### Exemple de segment 1 : exclure les visites qui effectuent un achat
 
-Dans cet exemple, je veux cibler les utilisateurs qui sont venus sur un site et qui ont bien *not* effectuer un achat au cours de leur visite (en gros, je veux exclure les visites qui ont effectué une transaction ; par conséquent, je resterai avec les visites qui n’ont pas effectué de transaction) ;
+Dans cet exemple, je veux cibler les utilisateurs qui sont venus sur un site et qui ont effectué un achat *pas* lors de leur visite (je veux simplement exclure les visites qui ont effectué une transaction ; par conséquent, je serai laissé avec les visites qui n’ont pas effectué de transaction).
 
 ![Segment1A-VisitLevelExclude](assets/segment-example-1/segment1a-visit-level-exclude.png)
 
@@ -108,7 +108,7 @@ Pour illustrer ce propos, comparons les deux segments côte à côte :
 
 ![Segment1C-ComparisonTable](assets/segment-example-1/sement1c-comparison-table.png)
 
-Tout d’abord, vous pouvez voir que malgré la variable *visite* portée de niveau du segment, nous pouvons associer le segment à d’autres mesures (telles que les pages vues ou les visiteurs uniques). Le premier ensemble de colonnes n’est pas segmenté, afin d’indiquer que le segment unique (qui n’existe pas) renvoie presque 100 % des données. Seul le segment d’exclusion fait ce que nous avons besoin de faire.
+Tout d’abord, vous pouvez constater qu’en dépit de la portée de niveau *visite* du segment, nous pouvons associer le segment à d’autres mesures (telles que les pages vues ou les visiteurs uniques). Le premier ensemble de colonnes n’est pas segmenté, afin d’indiquer que le segment unique (qui n’existe pas) renvoie presque 100 % des données. Seul le segment d’exclusion fait ce que nous avons besoin de faire.
 
 La colonne la plus visible est les commandes, qui doivent immédiatement indiquer que le conteneur &quot;N’existe pas&quot; est incorrect, car la plupart des commandes sont toujours en cours de renvoi.
 
@@ -120,7 +120,7 @@ Ce segment ressemblera beaucoup à l’exemple ci-dessus, presque identique, mai
 
 ![Segment2A-VisitorLevelExclude](assets/segment-example-2/segment2a-visitor-level-exclude.png)
 
-Maintenant, si nous comparons le segment de l’étendue du visiteur au segment de l’étendue de la visite ci-dessus, vous constaterez qu’il y a beaucoup plus de données et que beaucoup plus de visites sont exclues, puisque *visiteurs ayant effectué des achats* a également eu des visites pour lesquelles aucun achat n’a été effectué. Par conséquent, ces visites sont également exclues, car elles font partie du cycle de vie du visiteur.
+Maintenant, si nous comparons le segment dont la portée est le visiteur au segment dont la portée est la visite ci-dessus, vous constaterez qu’un plus grand nombre de données sont exclues, et que de nombreuses autres visites sont exclues, puisque les *visiteurs qui ont effectué des achats* ont également eu des visites pour lesquelles aucun achat n’a été effectué. Ces visites sont donc également exclues, car elles font partie du cycle de vie du visiteur.
 
 >[!IMPORTANT]
 >
@@ -131,10 +131,10 @@ Maintenant, si nous comparons le segment de l’étendue du visiteur au segment 
 
 >[!IMPORTANT]
 >
->Bien que les différences entre visite et visiteur puissent être *subtil* (notamment dans ces exemples de données), il s’agit d’une logique unique qui doit être prise en compte. Vos données peuvent être étonnamment différentes en fonction de votre site et des comportements des utilisateurs.
+>Bien que les différences entre visite et visiteur puissent être *subtle* (en particulier dans cet exemple de données), il s’agit d’une logique unique qui doit être prise en compte. Vos données peuvent être étonnamment différentes en fonction de votre site et des comportements des utilisateurs.
 
 
-Il est important de savoir exactement quelles données, ou quoi *histoire*, vous essayez de le dire avec votre rapport. veiller à ce que vos tableaux et visualisations le disent clairement au public ; ***what*** s’affiche et l’utilisation du modèle de segment approprié est essentielle pour effectuer une analyse appropriée. Des décisions éclairées ne peuvent être prises correctement que si chacun comprend ce qu&#39;il regarde.
+Il est important de savoir exactement quelles données, ou quelle *histoire*, vous essayez de raconter avec votre rapport. Il est essentiel de s’assurer que vos tableaux et visualisations indiquent clairement à l’audience ***ce que*** est affiché et d’utiliser le modèle de segment approprié pour effectuer une analyse appropriée. Des décisions éclairées ne peuvent être prises correctement que si chacun comprend ce qu&#39;il regarde.
 
 ## Utilisation de conteneurs
 
@@ -146,33 +146,33 @@ La meilleure façon de penser aux conteneurs est d&#39;imaginer chaque conteneur
 
 ### Portée des conteneurs
 
-Commençons par une rapide ventilation des *container* portée. Comme *segment s* fais face, tu as tes bases **accès**, **visite** et **visiteur** options d’étendue, mais parfois, vous verrez également quelque chose appelé **groupe logique** à la place du visiteur (cela se produira uniquement dans les segments séquentiels, et nous aborderons ceux-ci dans l’article suivant).
+Commençons par une ventilation rapide de la portée *container*. Tout comme le segment *s* cope, vous disposez des options de base **hit**, **visit** et **visitor**, mais parfois vous verrez également quelque chose appelé **logic group** à la place du visiteur (cela se produit uniquement dans les segments séquentiels, et nous allons les aborder dans l’article suivant).
 
-Vous pouvez ajouter des conteneurs à l’intérieur de votre segment (ou dans d’autres conteneurs) en accédant à la variable **options*** menu (lors de l’imbrication de plusieurs éléments, veillez à ajouter au bon bloc, bien que vous puissiez heureusement faire glisser des conteneurs dans l’interface si vous ne les ajoutez pas au bon emplacement).
+L’ajout de conteneurs à l’intérieur de votre segment (ou dans d’autres conteneurs) peut être réalisé en accédant au menu **options*** (lors de l’imbrication de plusieurs éléments, veillez à ajouter au bloc correct - bien que vous puissiez heureusement faire glisser des conteneurs dans l’interface si vous les ajoutez au mauvais emplacement).
 
 **Figure 1 : Ajout d’un conteneur**
 
-![Figure1-Ajout deContainer](assets/figure1-adding-container.png)
+![Figure1-AddingContainer](assets/figure1-adding-container.png)
 
-La portée d&#39;un conteneur est indépendante du parent, comme je l&#39;ai mentionné plus haut, ces *ne pas* doit correspondre, et selon ce que vous voulez renvoyer, vous devrez peut-être dessiner le plan pour visualiser complètement ce dont vous avez besoin, au moins jusqu&#39;à ce que vous soyez à l&#39;aise pour le visualiser dans votre tête.
+La portée d’un conteneur est indépendante du parent, comme je l’ai mentionné plus haut, ces *ne doivent pas* correspondre, et selon ce que vous souhaitez renvoyer, vous devrez peut-être dessiner le plan pour visualiser complètement ce dont vous avez besoin, au moins jusqu’à ce que vous soyez à l’aise avec la visualisation dans votre tête.
 
 **Figure 2 : Étendue du segment et portée du conteneur**
 
-![Figure2-SegmentScopeVsContainerScope](assets/figure2-segment-scope-vs-container-scope.png)
+![ Figure2-SegmentScopeVsContainerScope](assets/figure2-segment-scope-vs-container-scope.png)
 
 >[!NOTE]
 >
->Adobe a une logique pour comprendre les segments valides et non valides. Il ne vous offre pas d’options pouvant *never* travail... donc, si vous voyez l’option d’utilisation d’un conteneur de portée du visiteur dans un segment de portée d’accès, cela signifie que c’est une option valide.
+>Adobe a une logique pour comprendre les segments valides et non valides. Il ne vous fournit pas d’options qui peuvent *ne jamais* fonctionner.. Ainsi, si vous voyez l’option d’utilisation d’un conteneur de portée du visiteur dans un segment de portée d’accès, cela signifie que c’est une option valide.
 
-Tout comme pour les segments de base, lorsque vous commencez à créer un segment complexe avec des conteneurs imbriqués, vous devez avoir une idée claire sur ***what*** type de données à renvoyer. ***Comment*** prévoyez-vous d&#39;utiliser ces données ? ***Quel*** que prévoyez-vous d’effectuer une association avec le segment ?
+Tout comme pour les segments de base, lorsque vous commencez à créer un segment complexe avec des conteneurs imbriqués, vous devez avoir une idée claire de ***quel*** type de données vous souhaitez renvoyer. ***Comment*** prévoyez-vous d&#39;utiliser ces données ? ***Quelles sont les mesures*** que vous prévoyez d’associer au segment ?
 
 Ces questions vous aideront à déterminer la portée du segment dans son ensemble. Il s’agit du point de départ de n’importe quel segment.
 
-Ce n’est pas parce que vous prévoyez d’associer un segment à votre mesure de visiteurs uniques que le segment lui-même doit être au niveau du visiteur... loin de là. Un segment au niveau du visiteur renvoie toutes les données d’un visiteur... ce qui signifie toutes ses visites, toutes ses pages vues, etc........................................................................................................................................................................ *previous* pour ce visiteur (tant qu’il se trouve dans la période de votre espace de travail).
+Ce n’est pas parce que vous prévoyez d’associer un segment à votre mesure de visiteurs uniques que le segment lui-même doit être au niveau du visiteur... loin de là. Un segment au niveau du visiteur renvoie toutes les données d’un visiteur...ce qui signifie toutes ses visites, toutes ses pages vues, etc... une fois qu’un visiteur correspond à vos critères de segment, votre segment peut commencer à renvoyer les données du *passé* de ce visiteur (tant qu’il se trouve dans la plage de dates de votre espace de travail).
 
 >[!IMPORTANT]
 >
->Même si vous prévoyez d’associer un segment à la mesure Visiteurs uniques, cette *ne signifie pas* que le segment doit automatiquement être défini sur la portée du visiteur... Cette idée fausse *may* créer des résultats exagérés et incorrects.
+>Même si vous envisagez d’associer un segment à la mesure Visiteurs uniques, ce *ne signifie pas* que le segment doit automatiquement être défini sur la portée du visiteur... Cette idée fausse *peut* créer des résultats exagérés et incorrects.
 
 Donc, j&#39;ai beaucoup parlé des concepts de la façon de choisir le périmètre approprié, mais pas d&#39;exemples ni de détails qui vous aideront vraiment.. alors, étudions cela maintenant avec quelques exemples de cas d&#39;utilisation réels. On dit qu&#39;un magicien ne révèle jamais ses secrets, mais ce n&#39;est pas tout à fait vrai. Dans le monde magique, les techniques et les rouages &quot;derrière le rideau&quot; sont souvent partagés avec les pairs, leur permettant de construire et d&#39;améliorer l&#39;illusion, et c&#39;est ce que j&#39;ai l&#39;intention de faire... ouvrir la porte aux possibilités qui vous attendent.
 
@@ -184,7 +184,7 @@ Ce type de scénario est utile si des acheteurs consultent des pages spécifique
 
 Mon exemple va examiner les pages des &quot;Offres spéciales&quot; et des &quot;Produits recommandés&quot;. Actuellement, nous allons garder la logique simple et ne pas nous engager dans la segmentation séquentielle (du moins pas encore, mais nous allons nous attaquer à une logique plus complexe comme celle-ci dans un futur article).
 
-Une autre question : **pourquoi** est-ce qu&#39;on recule par les accès ? D’un point de vue technique, je pourrais y accéder en fonction des visites ou des visiteurs, mais je voudrais peut-être également consulter ces pages spécifiques en fonction de **pages vues (pour le jeu de pages spécifique) par visite** ou **pages vues par visiteur (pour l’ensemble spécifique)**, cette portée me donne la flexibilité d’effectuer ce calcul spécifique. Puisque ces accès peuvent facilement être associés à des visites ou à des visiteurs uniques afin de déterminer le nombre de visites ou de visiteurs qui consultent ces pages, je vais choisir le segment le plus flexible que je puisse utiliser pour tous les scénarios.
+**Pourquoi** retirons-nous les accès ? D’un point de vue technique, je pourrais y accéder en fonction des visites ou des visiteurs, mais je voudrais peut-être également consulter ces pages spécifiques en fonction des **pages vues (pour le jeu de pages spécifique) par visite** ou des **pages vues (pour le jeu spécifique) par visiteur**. Cette portée me donne la possibilité d’effectuer ces calculs spécifiques. Puisque ces accès peuvent facilement être associés à des visites ou à des visiteurs uniques afin de déterminer le nombre de visites ou de visiteurs qui consultent ces pages, je vais choisir le segment le plus flexible que je puisse utiliser pour tous les scénarios.
 
 Tout d’abord, à des fins de comparaison, voici un segment basé sur les accès simple pour les pages spécifiques.
 
@@ -212,7 +212,7 @@ Tout d’abord, au lieu d’afficher une ventilation quotidienne, je vous montre
 
 <table style="border: 0;">
     <tr>
-        <td width="352" style="border: 0;">Ensuite, je montre le résultat du segment simple, en regardant uniquement <strong>accès</strong> sur les deux pages spécifiées. Vous remarquerez que les autres pages de la ventilation génèrent toutes 0, comme prévu.</td>
+        <td width="352" style="border: 0;">Ensuite, je montre le résultat du segment simple, en regardant uniquement les <strong>accès</strong> sur les deux pages spécifiées. Vous remarquerez que les autres pages de la ventilation génèrent toutes 0, comme prévu.</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
         </td>
     </tr>
@@ -243,7 +243,7 @@ En utilisant certaines des mêmes pages que celles que nous avions précédemmen
 
 Ce segment mélange les trois portées. Le niveau supérieur du segment est le visiteur. Cela garantit donc que TOUS les accès de toutes les visites sont renvoyés pour le visiteur correspondant. Dans ce cas, nous avons ajouté un conteneur d’étendue de visite. Cela permettra de s’assurer que le visiteur doit avoir effectué au moins une visite correspondant aux critères spécifiques de commande ET d’avoir visité des pages spécifiques. Nous avons ajouté un conteneur de portée des accès pour les pages elles-mêmes, de sorte que nous puissions utiliser la logique OU pour rechercher la page des offres en vedette OU la page des produits recommandés.
 
-L’avantage de ce segment ciblé par les visiteurs est que cela renverra **TOUT** les visites des visiteurs qui correspondent à ce critère. Par conséquent, ce segment sera bénéfique si je souhaite afficher les comportements des visites précédentes menant à cette combinaison et les actions de ces visiteurs après un tel scénario.
+L’avantage de ce segment à portée de visiteur est que cela renverra **TOUTES** visites des visiteurs qui correspondent à ce critère. Ce segment sera donc bénéfique si je veux voir les comportements des visites précédentes menant à cette combinaison et les actions de ces visiteurs après un tel scénario.
 
 ![Segment4B-ComparisonTable](assets/segment-example-4/segment4b-comparison-table.png)
 
@@ -264,26 +264,26 @@ Supposons que nous ayons deux eVars, l’une d’elles étant définie sur l’e
    - **eVar2** n’est pas défini
 - Cliquez sur Bannière promotionnelle avec ?icid=promo-banner dans l’URL.
 - Page B
-   - **eVar1** et **eVar2** sont définis sur &quot;promo-banner&quot;.
-   - **Instance d&#39;eVar1** est déclenché
-   - **Instance d&#39;eVar2** est déclenché
+   - **eVar1** et **eVar2** sont définis sur &quot;promo-banner&quot;
+   - **L’instance d’eVar1** est déclenchée
+   - **L’instance d’eVar2** est déclenchée
 - Page C
-   - Les deux **eVar1** et **eVar2** conserver la valeur &quot;promo-banner&quot; ;
+   - **eVar1** et **eVar2** conservent la valeur &quot;promo-banner&quot;
    - Aucune des mesures d’instance des eVars n’est déclenchée, car les deux eVars utilisent des valeurs persistantes.
 
 **Visite 2**
 
 - Page D
-   - **eVar1** n’est défini sur aucune valeur et aucun **Instance d&#39;eVar1** est déclenché
-   - **eVar2** conserve la valeur &quot;promo-banner&quot; en raison d’un délai d’expiration de 30 jours.
-   - **Instance d&#39;eVar2** n’est pas déclenché, car la valeur est persistante et n’est pas réellement définie.
+   - **eVar1** n’est défini sur aucune valeur et aucune **instance de l’eVar1** n’est déclenchée
+   - **eVar2** conserve la valeur &quot;promo-banner&quot; en raison d’un délai d’expiration de 30 jours
+   - **L’instance d’eVar2** n’est pas déclenchée, car la valeur est persistante et n’est pas réellement définie
 - Cliquez sur Promotion du rail latéral avec ?icid=promo-side-rail dans l’URL.
 - Page E
    - **eVar1** et **eVar2** sont définis sur &quot;promo-side-rail&quot;
-   - **Instance d&#39;eVar1** est déclenché
-   - **Instance d&#39;eVar2** est déclenché
+   - **L’instance d’eVar1** est déclenchée
+   - **L’instance d’eVar2** est déclenchée
 - Page F
-   - Les deux **eVar1** et **eVar2** conserver la valeur &quot;promo-side-rail&quot; ;
+   - **eVar1** et **eVar2** conservent la valeur &quot;promo-side-rail&quot;
    - Aucune des mesures d’instance des eVars n’est déclenchée, car les deux eVars utilisent des valeurs persistantes.
 
 Actuellement, voici le résultat attendu de ces deux visites :
@@ -327,11 +327,11 @@ Maintenant, regardons où vous pouvez définir l’attribution dans votre segmen
 
 ### Exemple de segment 5 : canal marketing &quot;Recherche payante&quot; par rapport aux instances directes de recherche payante
 
-Comme nous le savons tous, les canaux marketing ont un modèle d’attribution long (30 jours par défaut, mais il peut être personnalisé selon vos besoins). Une fois défini, le canal marketing ne sera pas remplacé par les visites &quot;directes&quot; suivantes sur le site, de sorte que vos pilotes spécifiques obtiennent l’attribution de conversion. Cependant, il arrive que vous deviez voir spécifiquement la variable ***entrées*** sur votre site selon un canal marketing spécifique ; et par entrées, je veux dire que vous devez savoir quand le canal marketing est spécifiquement défini en fonction de vos règles de traitement marketing.
+Comme nous le savons tous, les canaux marketing ont un modèle d’attribution long (30 jours par défaut, mais il peut être personnalisé selon vos besoins). Une fois défini, le canal marketing ne sera pas remplacé par les visites &quot;directes&quot; suivantes sur le site, de sorte que vos pilotes spécifiques obtiennent l’attribution de conversion. Cependant, il arrive que vous deviez voir spécifiquement les ***entrées*** sur votre site selon un canal marketing spécifique ; et par entrées, je veux dire que vous devez voir quand le canal marketing est spécifiquement défini en fonction de vos règles de traitement marketing.
 
 Changeons les choses et commençons par regarder les comparaisons, puis nous allons creuser dans les segments.
 
-![Segment5A-TableauComparaison](assets/segment-example-5/segment5a-table-comparison.png)
+![Segment5A-TableComparison](assets/segment-example-5/segment5a-table-comparison.png)
 
 <table style="border: 0;">
     <tr>
@@ -352,14 +352,14 @@ Changeons les choses et commençons par regarder les comparaisons, puis nous all
 
 <table style="border: 0;">
     <tr>
-        <td width="352" style="border: 0;">Maintenant, les deux prochains ensembles de données semblent identiques, et en fait, ils retourneront les mêmes données de deux manières différentes. Mais maintenant, je regarde spécifiquement le <i>instances</i> où était le canal marketing <strong>set</strong> à "Recherche payante".</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
+        <td width="352" style="border: 0;">Maintenant, les deux prochains ensembles de données semblent identiques, et en fait, ils retourneront les mêmes données de deux manières différentes. Mais maintenant, je recherche spécifiquement les <i>instances</i> où le canal marketing était <strong>défini</strong> sur "Recherche payante".</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
         </td>
     </tr>
 </table>
 
 Cela peut se faire de deux façons :
 
-Tout d’abord, il utilise l’attribution de dimension &quot;standard&quot; et l’association de celle-ci à la mesure spécifique &quot;Instance de canal marketing&quot; (sous la forme d’une *existe* ) :
+Tout d’abord, cela utilise l’attribution de dimension &quot;standard&quot; et l’association avec la mesure spécifique &quot;Instance de canal marketing&quot; (comme une logique *exists*) :
 
 ![Segment5A-PaidSearchHitANDInstanceExists](assets/segment-example-5/segment5a-paid-search-hit-and-instance-exists.png)
 
@@ -376,7 +376,7 @@ Comme n&#39;importe quel bon magicien, nous pouvons commencer par chaque tour, c
 
 ### Exemple de segment 6 : visiteurs qui ont passé une commande au cours d’une visite avec une instance sociale payante et excluant les visiteurs qui ont été inscrits à une newsletter
 
-![Segment6A-VisitorsPurchasingFromPaidSocialWithNoNewsletter](assets/segment-example-6/segment6a-visitors-purchasing-from-paid-social-with-no-newsletter.png)
+![ Segment6A-VisitorsPurchasingFromPaidSocialWithNoNewsletter](assets/segment-example-6/segment6a-visitors-purchasing-from-paid-social-with-no-newsletter.png)
 
 Cela me permettra d’identifier les visiteurs qui ont activement effectué un achat au cours d’une visite d’une campagne de médias sociaux, mais qui ne se sont pas inscrits à nos newsletters. Cela permettra à notre équipe marketing d’identifier le groupe d’utilisateurs potentiel à essayer de se convertir pour les newsletters et les emails marketing.
 
@@ -390,11 +390,11 @@ Comme n&#39;importe quel grand magicien, le vrai pouvoir est d&#39;inspirer la g
 
 ## Auteur
 
-Ce document a été rédigé par :
+Ce document a été rédigé par :
 
-![Titre de Jen](assets/jen-headshot.png)
+![Jen Headshot](assets/jen-headshot.png)
 
-Jennifer Dungan, responsable de l’optimisation des analyses chez Torstar
+Jennifer Dungan, responsable de l’optimisation chez Torstar
 
-Adobe Analytics Champion
+Champion Adobe Analytics
 

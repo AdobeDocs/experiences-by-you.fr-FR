@@ -9,13 +9,13 @@ duration: 0
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1712'
 ht-degree: 0%
 
 ---
-
 
 # Gérer les parties prenantes pour mettre en oeuvre le Marketo Engage
 
@@ -30,10 +30,10 @@ Lancez votre mise en oeuvre en vous alignant sur les priorités de vos dirigeant
 | **Questions** | **Exemples** | **Ressources utiles** |
 | --- | --- | --- |
 | Sur quelle partie prenante devriez-vous vous concentrer ? | <ul><li>Responsable des ventes</li><li>CMO</li><li>PDG</li> |  |
-| Quels sont vos principaux objectifs (marketing/ventes/business) ? | <ol><li>Accroître l’engagement de nos clients et prospects</li><li>Améliorez nos opérations.</li> | <ul><li>[En savoir plus sur le développement des objectifs et de la stratégie marketing](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target="_blank}</li><ul> |
-| Comment Marketo Engage vous aidera-t-il à atteindre ces objectifs ? | <ol><li>Nous pouvons créer des programmes personnalisés à l’aide de jetons, de contenu dynamique, etc.</li><li> Nous pouvons produire des programmes de formation qui nous permettront de maintenir un engagement à long terme avec les prospects et les clients.</li><li>Nous pouvons automatiser nos programmes marketing afin d’atteindre plus de personnes avec moins d’heures de travail investies dans chaque programme.</li></ol> | <ul><li>[Pourquoi l’automatisation est essentielle à toute stratégie marketing](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target="_blank}</li><li>[Conseils pour créer une feuille de route d’automatisation marketing](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target="_blank}</li></ul> |
-| Quels obstacles/obstacles potentiels prévoyez-vous au cours de l’intégration et de la mise en oeuvre que l’équipe/l’actionnaire des opérations marketing devrait connaître ? | <ol><li>Beaucoup d&#39;objets personnalisés dans notre CRM</li><li>Aucune stratégie de notation prospect/personne clairement définie</li><li>Données irrécupérables</li><li>Chronologies et/ou attentes irréalistes de la gestion</li><li>Projets en cours mobilisant des ressources</li></ul> | <ul><li>[Nouveaux conseils de mise en oeuvre du Marketo Engage](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target="_blank}</li><li>[Conseils pour la première implémentation et la gestion de Marketo pour les nouveaux utilisateurs](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target="_blank}</li><li>[10 premiers conseils d’pairs pour l’intégration à Adobe Marketo Engage](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target="_blank}</li></ul> |
-| De quelle ressource/assistance aurez-vous besoin et de qui/de quelle partie de l’organisation ? | <ol><li>Coopération avec l&#39;administrateur CRM</li><li>Communications régulières avec les responsables commerciaux afin de déterminer la stratégie de notation prospect/personne</li><li>Assistance et réunions régulières avec votre directeur/cadre</li><li>Conseils sur les priorités et les stratégies de vos cadres</li><li>Prise en charge de l’informatique, des procédures d’exploitation standard, de la finance, etc.</li></ul> | <ul><li>[Clé universelle vers le succès de Marketo : gouvernance et formation continue](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target="_blank}</li></ul> |
+| Quels sont vos principaux objectifs (marketing/ventes/business) ? | <ol><li>Accroître l’engagement de nos clients et prospects</li><li>Améliorez nos opérations.</li> | <ul><li>[En savoir plus sur le développement des objectifs marketing et de la stratégie](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target="_blank}</li><ul> |
+| Comment Marketo Engage vous aidera-t-il à atteindre ces objectifs ? | <ol><li>Nous pouvons créer des programmes personnalisés à l’aide de jetons, de contenu dynamique, etc.</li><li> Nous pouvons produire des programmes de formation qui nous permettront de maintenir un engagement à long terme avec les prospects et les clients.</li><li>Nous pouvons automatiser nos programmes marketing afin d’atteindre plus de personnes avec moins d’heures de travail investies dans chaque programme.</li></ol> | <ul><li>[Pourquoi l’automatisation est essentielle à toute stratégie marketing](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target="_blank}</li><li>[Conseils pour créer une feuille de route d’automatisation du marketing](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target="_blank}</li></ul> |
+| Quels obstacles/obstacles potentiels prévoyez-vous au cours de l’intégration et de la mise en oeuvre que l’équipe/l’actionnaire des opérations marketing devrait connaître ? | <ol><li>Beaucoup d&#39;objets personnalisés dans notre CRM</li><li>Aucune stratégie de notation prospect/personne clairement définie</li><li>Données irrécupérables</li><li>Chronologies et/ou attentes irréalistes de la gestion</li><li>Projets en cours mobilisant des ressources</li></ul> | <ul><li>[Nouveaux conseils de mise en oeuvre du Marketo Engage](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target="_blank}</li><li>[Conseils pour les nouveaux venus qui implémentent et gèrent Marketo pour la première fois](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target="_blank}</li><li>[10 premiers conseils d’utilisateurs pairs pour l’intégration à Adobe Marketo Engage](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target="_blank}</li></ul> |
+| De quelle ressource/assistance aurez-vous besoin et de qui/de quelle partie de l’organisation ? | <ol><li>Coopération avec l&#39;administrateur CRM</li><li>Communications régulières avec les responsables commerciaux afin de déterminer la stratégie de notation prospect/personne</li><li>Assistance et réunions régulières avec votre directeur/cadre</li><li>Conseils sur les priorités et les stratégies de vos cadres</li><li>Prise en charge de l’informatique, des procédures d’exploitation standard, de la finance, etc.</li></ul> | <ul><li>[Clé universelle vers succès Marketo : gouvernance et formation continue](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target="_blank}</li></ul> |
 
 ### Action 2 - Fournir des communications ciblées à votre ou vos actionnaires
 
@@ -49,18 +49,18 @@ Prenez les informations que vous avez présentées dans l’exercice précédent
 <tr>
 <td>Cher <i>[NAME]</i>,
 
-Bonne nouvelle ! Depuis cette semaine, nous avons commencé notre intégration du Marketo Engage. L’intégration de cette technologie d’automatisation du marketing dans notre pile MarTech apportera <i>[NOM DE LA SOCIÉTÉ]</i> à un tout nouveau niveau. En nous concentrant sur <i>[OBJECTIFS MARKETING]</i>, Marketo Engage nous permettra d’orchestrer et d’exécuter des campagnes cross-canal afin d’acquérir, de développer, et de fidéliser des clients.
+Bonne nouvelle ! Depuis cette semaine, nous avons commencé notre intégration du Marketo Engage. L’intégration de cette technologie d’automatisation du marketing dans notre pile MarTech amènera <i>[COMPANY NAME]</i> à un tout nouveau niveau. En nous concentrant sur les <i>[objectifs MARKETING]</i>, Marketo Engage nous permet d’orchestrer et d’exécuter des campagnes cross-canal pour acquérir, nourrir, développer et fidéliser des clients.
 
-Nos priorités durant cette mise en oeuvre seront les suivantes : <i>[PRIORITÉS D’INTÉGRATION]</i>. Bien que nous prévoyons un processus fluide, nous voulons souligner que ,<i>[BLOCS DE DÉBORDEMENT POTENTIELS]</i> peut nécessiter un temps et des investissements supplémentaires. Pour mener à bien ce processus aussi efficacement que possible, mon équipe apprécierait <i>[DEMANDES AUX ACTIONNAIRES]</i>. Merci de votre soutien constant à cet effort et de votre investissement dans <i>[NOM DE LA SOCIÉTÉ]</i>C&#39;est un succès.
+Au cours de cette mise en oeuvre, nos priorités seront de <i>[ONBOARDING PRIORITIES]</i>. Bien que nous prévoyons un processus fluide, nous voulons souligner que , <i>[POTENTIAL ROADBLOCKS]</i> peut nécessiter un temps et un investissement supplémentaires. Pour terminer ce processus aussi efficacement que possible, mon équipe apprécierait <i>[DEMANDES D’ACTIONNAIRES]</i>. Merci pour votre soutien continu à cet effort et votre investissement dans le succès de <i>[COMPANY NAME]</i>.
 
 Best,
 <i>[VOTRE NOM]</i></td>
 
-<td>Cher <i>[responsable des ventes]</i>,
+<td>Cher <i>[responsable commercial]</i>,
 
-Bonne nouvelle ! Depuis cette semaine, nous avons commencé notre intégration à la plateforme d’engagement Marketo. L’intégration de cette technologie d’automatisation du marketing dans notre pile MarTech apportera <i>[notre société]</i> à un tout nouveau niveau. En nous concentrant sur <i>[dimensionnement de nos efforts marketing pour obtenir plus de commerciaux, des prospects de meilleure qualité]</i>, le Marketo Engage nous permettra de <i>[automatiser la plupart de nos processus, créer une structure de notation personnalisée prospect/personne, et alimenter les pistes pour garantir qu’elles sont prêtes à être achetées lorsqu’elles se présentent à l’équipe de vente ;]</i>.
+Bonne nouvelle ! Depuis cette semaine, nous avons commencé notre intégration à la plateforme d’engagement Marketo. L’intégration de cette technologie d’automatisation du marketing dans notre pile MarTech amènera <i>[notre société]</i> à un tout nouveau niveau. En mettant l&#39;accent sur <i>[l&#39;augmentation de nos efforts marketing pour obtenir plus de commerciaux, des prospects de meilleure qualité]</i>, Marketo Engage nous permettra d&#39;<i>[ automatiser la plupart de nos processus, de créer une structure de notation personnalisée prospect/personne et de veiller à ce qu&#39;ils soient prêts à acheter lorsqu&#39;ils se rendront à l&#39;équipe de vente]</i>.
 
-Nos priorités durant cette mise en oeuvre seront les suivantes : <i>[intégrer notre CRM et développer nos programmes de formation client/prospect]</i>. Bien que nous prévoyons un processus fluide, <i>[les défis potentiels, par exemple le renforcement de l’hygiène des données et l’absence d’une stratégie claire de notation des pistes]</i> peut nécessiter un temps et des investissements supplémentaires. Pour mener à bien ce processus aussi efficacement que possible, mon équipe apprécierait <i>[votre assistance pour engager des opérations de vente afin de nous aider à nettoyer les données de votre équipe de direction commerciale afin de créer une stratégie de notation client/personne complète.]</i>. Merci de votre soutien constant à cet effort et de votre investissement dans <i>[notre entreprise]</i>C&#39;est un succès.
+Au cours de cette mise en oeuvre, nos priorités seront <i>[l&#39;intégration de notre gestion de la relation client et la création de nos programmes d&#39;assistance client/prospect]</i>. Bien que nous prévoyons un processus fluide, <i>[défis potentiels, par exemple le renforcement de l’hygiène des données et l’absence de stratégie claire de notation des pistes]</i> peuvent nécessiter un temps et un investissement supplémentaires. Pour mener à bien ce processus aussi efficacement que possible, mon équipe <i>[apprécierait votre aide dans les opérations de vente afin de nous aider à nettoyer les données de votre équipe de direction commerciale pour créer une stratégie de notation client/personne complète]</i>. Merci pour votre soutien continu à cet effort et votre investissement dans le succès de <i>[notre entreprise]</i>.
 
 Best,
 <i>[NOM/Opération marketing]</i>
@@ -95,21 +95,21 @@ Voici les points forts de notre succès :
    * Taux d’ouverture : <i>[Pourcentage]</i>
    * Taux de clics : <i>[Pourcentage]</i>
    * Taux de conversion : <i>[Pourcentage ou résultats spécifiques atteints]</i>
-   * Principaux enseignements : <i>[Partager les informations ou les leçons tirées de la campagne]</i>
+   * Principaux enseignements : <i>[Partagez toutes les informations ou les leçons tirées de la campagne]</i>
 2. Processus de prise en charge des prospects simplifié
    * Nom du programme : <i>[Nom du processus]</i>
-   * Objectif : <i>[Décrivez brièvement l’objectif du workflow, par exemple, nourrir les pistes à travers l’entonnoir de vente, automatiser les suivis, etc.]</i>
+   * Objectif : <i>[Décrivez brièvement l’objectif du workflow, par exemple, la nutrition de pistes via l’entonnoir de vente, l’automatisation des suivis, etc.]</i>
    * Résultats :
-   * Engagement accru des prospects : <i>[Décrivez toutes les améliorations apportées aux mesures d’engagement des prospects, telles que des taux de réponse plus élevés, une progression plus rapide des prospects, etc.]</i>
-   * Économie de temps : <i>[Mentionner les avantages liés à l’automatisation pour gagner du temps]</i>
-   * Principaux enseignements : <i>[Partager toutes les informations obtenues lors de l’optimisation du workflow]</i>
+   * Engagement de piste accru : <i>[décrire toutes les améliorations apportées aux mesures d’engagement de piste, telles que des taux de réponse plus élevés, une progression de piste plus rapide, etc.]</i>
+   * Économie de temps : <i>[ mentionnez les avantages liés à l’automatisation pour gagner du temps ]</i>
+   * Principaux enseignements : <i>[Partagez toutes les informations obtenues grâce à l&#39;optimisation du workflow]</i>
 
 Ces réussites témoignent de l’engagement et des capacités Marketo Engage de notre équipe pour stimuler l’engagement ciblé et l’automatisation efficace. Elles montrent l’impact positif que nos efforts ont déjà sur nos efforts marketing.
 
 Je vous invite à célébrer ces réalisations avec nous et à attendre avec impatience votre soutien continu, alors que nous tirons davantage parti des Marketo Engage pour atteindre nos objectifs stratégiques.
 
 Best,
-<i>[Votre nom]</i> </td>
+<i>[Votre Nom]</i> </td>
 
 <td>Cher <i>[NAME]</i>,
 
@@ -117,9 +117,9 @@ Je suis ravi de partager quelques nouvelles passionnantes sur notre mise en oeuv
 
 Voici les points forts de nos récentes réussites :
 
-1. Succès de la campagne par e-mail ciblée : notre campagne par e-mail récente <i>[promotion d’un nouveau lancement de produit]</i>, déployé avec Marketo Engage, a obtenu des performances remarquables. <i>[avec un taux d’ouverture de 50 % et un taux de conversion de 10 %]</i>. Cette campagne a non seulement fiancé efficacement notre audience, mais a également contribué de manière significative à nos objectifs globaux de génération de pistes.
+1. Réussite de la campagne par e-mail ciblée : notre récente campagne par e-mail <i>[promouvant un nouveau lancement de produit]</i>, déployée avec Marketo Engage, a obtenu des performances remarquables <i>[ avec un taux d’ouverture de 50 % et un taux de conversion de 10 %]</i>. Cette campagne a non seulement fiancé efficacement notre audience, mais a également contribué de manière significative à nos objectifs globaux de génération de pistes.
 
-2. Efficacité automatisée des workflows : en exploitant les fonctionnalités d’automatisation des Marketo Engage, nous avons rationalisé notre workflow de prise en charge des prospects, ce qui a pour effet de <i>[une réduction de 3 jours du temps de réponse et une augmentation de 10 % des taux de conversion des prospects]</i>. Cette amélioration de l’efficacité a eu un impact tangible sur nos résultats et sur notre satisfaction client.
+2. Efficacité automatisée des workflows : en exploitant les fonctionnalités d’automatisation des Marketo Engage, nous avons rationalisé notre workflow de prise en charge des prospects, ce qui a entraîné <i>[ une réduction de 3 jours du temps de réponse et une augmentation de 10 % des taux de conversion des prospects]</i>. Cette amélioration de l’efficacité a eu un impact tangible sur nos résultats et sur notre satisfaction client.
 
 Ces réalisations soulignent la valeur que le Marketo Engage apporte à notre organisation et le potentiel de succès encore plus grand à mesure que nous continuons à explorer ses capacités.
 
@@ -128,7 +128,7 @@ Votre soutien et votre engagement continus sont inestimables à mesure que nous 
 Merci pour votre partenariat continu dans la mise en oeuvre du Marketo Engage.
 
 Best,
-<i>[Votre nom]</i>
+<i>[Votre Nom]</i>
 </td> 
 </tr>
 </table>
@@ -152,25 +152,25 @@ Il y a quelques semaines, mon équipe a commencé la mise en oeuvre de la platef
 
 <i>[Répertorier les jalons de projet pertinents et l’état de la tâche. Mettez à jour la progression selon les besoins.]</i>
 
-Nos sincères remerciements <i>[ÉQUIPE]</i> pour leur aide avec <i>[DÉFI]</i>. Pour accomplir nos prochaines étapes dans les délais, nous devrons <i>[DEMANDES D’ACTIONNEMENT]</i>.
+Nos remerciements sincères à <i>[TEAM]</i> pour leur aide avec <i>[CHALLENGE]</i>. Pour accomplir nos prochaines étapes dans les délais impartis, nous aurons besoin de <i>[DEMANDES D’ACTIONNEMENT]</i>.
 
-Merci de votre soutien constant à cet effort et de votre investissement dans <i>[NOM DE LA SOCIÉTÉ]</i>C&#39;est un succès.
+Merci pour votre soutien continu à cet effort et votre investissement dans le succès de <i>[COMPANY NAME]</i>.
 
 Best,
 <i>[VOTRE NOM]</i> </td>
 
-<td>Cher <i>[responsable des ventes]</i>,
+<td>Cher <i>[responsable commercial]</i>,
 
 Il y a quelques semaines, mon équipe a commencé la mise en oeuvre du Marketo Engage. Je voulais vous fournir des mises à jour sur nos progrès ainsi qu&#39;un rapide coup d&#39;oeil sur ce qu&#39;il y a à venir et ce que cela signifie pour vous et votre équipe.
 
-Définition de la stratégie de notation prospect/personne - <i>[Terminé/En cours/Non démarré]</i>
-Mappage des champs du Marketo Engage CRM - <i>[Terminé/En cours/Non démarré]</i>
-Intégration de Salesforce à Marketo Engage - <i>[Terminé/En cours/Non démarré]</i>
-Créer un programme de premier Marketo Engage - <i>[Terminé/En cours/Non démarré]</i>
+Définissez la stratégie de notation prospect/personne - <i>[Terminé/En cours/Non démarré]</i>
+Mappage des champs CRM-Marketo Engage - <i>[Complet/En cours/Non démarré]</i>
+Intégrer Salesforce avec Marketo Engage - <i>[Complet/En cours/Pas démarré]</i>
+Créer un programme de premier Marketo Engage - <i>[Complet/En cours/Pas démarré]</i>
 
-Nos sincères remerciements [l’équipe des opérations de vente] pour leur aide avec [collaboration, par exemple, notre mappage de champs Salesforce-Marketo Engage]. Nos priorités à l’avenir seront de finaliser notre stratégie de notation et de commencer à élaborer une stratégie de notation de piste dans Marketo, ainsi que d’intégrer le CRM et le Marketo Engage.
+Nos remerciements sincères à [l’équipe des opérations de vente] pour leur aide dans la [collaboration, par exemple notre mappage de champs Salesforce-Marketo Engage]. Nos priorités à l’avenir seront de finaliser notre stratégie de notation et de commencer à élaborer une stratégie de notation de piste dans Marketo, ainsi que d’intégrer le CRM et le Marketo Engage.
 
-Merci de votre soutien constant à cet effort et de votre investissement dans <i>[de notre entreprise]</i> succès.
+Merci de votre soutien continu à cet effort et de votre investissement dans le succès <i>[de notre entreprise]</i>.
 
 Best,
 <i>[NOM/Opération marketing]</i>
@@ -182,7 +182,7 @@ En suivant ces conseils pratiques et en référençant les modèles, vous serez 
 
 ## Et après ?
 
-Téléchargez et utilisez le [Guide et modèle des communications internes d’intégration](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} d’élaborer des mises à jour régulières et de rendre compte des progrès réalisés par les parties prenantes. Incluez les mesures clés, les réalisations et les jalons à venir pour les tenir informés et engagés.
+Téléchargez et utilisez le [guide et modèle de communications internes d’intégration](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} pour créer des mises à jour régulières et rapporter l’avancement des parties prenantes. Incluez les mesures clés, les réalisations et les jalons à venir pour les tenir informés et engagés.
 
 ### Auteur
 

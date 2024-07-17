@@ -1,6 +1,6 @@
 ---
 title: Rapports et analyses
-description: Découvrez la navigation dans  [!DNL Analytics]  et la section Base de données pour obtenir différents rapports prêts à l’emploi dans [!DNL Marketo Engage].
+description: Découvrez comment naviguer dans la section [!DNL Analytics] et Base de données pour extraire différents rapports d'usine dans [!DNL Marketo Engage].
 role: User
 level: Beginner
 solution: Marketo Engage
@@ -13,21 +13,21 @@ feature: Reporting
 exl-id: d45b2757-bc7f-4085-b374-ea8c1caf1774
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 41%
+source-wordcount: '69'
+ht-degree: 5%
 
 ---
 
 # Rapports et analyses
 
-Découvrez la navigation dans [!DNL Analytics] et la section Base de données pour obtenir différents rapports prêts à l’emploi dans [!DNL Marketo Engage].
+Découvrez comment parcourir la section [!DNL Analytics] et Base de données pour extraire différents rapports d&#39;usine dans [!DNL Marketo Engage].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
 
 ## Ressources supplémentaires
 
 * **Documentation du produit**
-Découvrez les différents rapports que vous pouvez extraire - [Présentation des rapports](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+Découvrez les différents rapports que vous pouvez extraire - [Présentation du reporting](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
 
-* **Article de blog d’un expert**
-Apprenez-en plus sur la création de divers rapports de la championne Chelsea Kiko. [Reporting dans divers [!DNL Marketo Engage] Espaces](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* **Post de blog d’experts**
+Apprenez de la championne Chelsea Kiko sur la création de divers rapports - [Reporting dans Divers [!DNL Marketo Engage] espaces](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

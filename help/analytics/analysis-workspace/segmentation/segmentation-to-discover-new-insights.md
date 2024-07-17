@@ -1,6 +1,6 @@
 ---
 title: Maintenant, attendez un segment.. Utilisation de la segmentation pour découvrir de nouvelles informations dans Analysis Workspace.
-description: Découvrez comment les segments  [!DNL Adobe Analytics]  révèlent de nouvelles informations à partir de vos visualisations et tableaux à structure libre Analysis Workspace.
+description: Découvrez comment utiliser les segments dans  [!DNL Adobe Analytics]  pour découvrir de nouvelles informations à partir de vos visualisations Analysis Workspace et de vos tableaux à structure libre.
 feature-set: Analytics
 feature: Segmentation
 role: User
@@ -12,26 +12,26 @@ thumbnail: KT-13268.jpeg
 exl-id: 3496b6ff-f8d6-48a1-92f4-442a792663e7
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 8%
+source-wordcount: '800'
+ht-degree: 0%
 
 ---
 
 # Maintenant, attendez un segment.. Utilisation de segments pour découvrir de nouvelles informations dans Analysis Workspace.
 
-Si vous êtes nouveau [!DNL Adobe Analytics] utilisateur ou professionnel chevronné, vous exploiterez des segments assez importants dans vos projets Analysis Workspace. As [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=fr) décrit : &quot;les segments vous permettent d’identifier des sous-ensembles de visiteurs en fonction de caractéristiques ou d’interactions web.&quot; Bien que le résultat de base de cette fonctionnalité signifie isoler des groupes d’utilisateurs, des visites ou des accès à votre site, un analyste perspicace comme vous peut obtenir des informations créatives avec cet outil et trouver de nouvelles façons d’obtenir des informations sur l’activité de votre site. La liste des options possibles est vaste. N&#39;hésitez donc pas à essayer de créer la vôtre et de la partager avec d&#39;autres membres de votre organisation ou en ligne dans des communautés comme le [[!DNL Adobe Analytics] Communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr) sur l’Experience League ou le [#Measure Slack](https://www.measure.chat/) communauté.
+Que vous soyez un nouvel utilisateur [!DNL Adobe Analytics] ou un professionnel chevronné, vous exploiterez les segments un peu dans vos projets Analysis Workspace. Comme le décrit [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en), &quot;les segments vous permettent d’identifier des sous-ensembles de visiteurs en fonction de caractéristiques ou d’interactions sur le site web.&quot; Bien que le résultat de base de cette fonctionnalité signifie isoler des groupes d’utilisateurs, des visites ou des accès à votre site, un analyste perspicace comme vous peut obtenir des informations créatives avec cet outil et trouver de nouvelles façons d’obtenir des informations sur l’activité de votre site. La liste des options possibles est vaste. N’hésitez donc pas à essayer de créer la vôtre et de la partager avec d’autres personnes de votre organisation ou en ligne dans des communautés comme la [[!DNL Adobe Analytics] communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr) sur Experience League ou la communauté [#Measure Slack](https://www.measure.chat/).
 
-Si vous avez besoin d’une actualisation rapide de la création d’un segment, consultez la documentation de l’Experience League sur l’utilisation de la variable [Créateur de segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) dans Analysis Workspace.
+Si vous avez besoin d’une actualisation rapide sur la création d’un segment, consultez la documentation Experience League sur l’utilisation du [créateur de segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) dans Analysis Workspace.
 
 ## Comparaison et contraste des segments
 
-Dans Analysis Workspace, vous pouvez comparer deux segments à l’aide de &quot;[Comparaison des segments](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=fr)&quot;. La comparaison de segments se trouve dans la section Panneaux de la barre de navigation de gauche :
+Dans Analysis Workspace, vous pouvez comparer deux segments à l’aide de &quot;[Comparaison de segments](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=en)&quot;. La comparaison de segments se trouve dans la section Panneaux de la barre de navigation de gauche :
 
 ![Seg 01](assets/seg01.png)
 
 Cependant, il arrive parfois que vous n’ayez pas besoin d’un panneau de comparaison complet pour fournir des informations clés à vos utilisateurs finaux. Heureusement, certaines fonctionnalités peuvent également être comparées dans un panneau standard.
 
-La variable [Visualisation de diagramme de Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=fr) peut vous aider à créer une comparaison rapide, ce qui vous permet de survoler les sessions, commandes, utilisateurs, etc. qui se chevauchent. entre 2 et 3 segments personnalisés. Vous pouvez également créer rapidement des segments en cliquant avec le bouton droit de la souris sur l’une des sections qui se chevauchent :
+La [visualisation de diagramme de Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en) peut vous aider à créer une comparaison rapide, ce qui vous permet de survoler et de voir les sessions, commandes, utilisateurs, etc. qui se chevauchent. entre 2 et 3 segments personnalisés. Vous pouvez également créer rapidement des segments en cliquant avec le bouton droit de la souris sur l’une des sections qui se chevauchent :
 
 ![Seg 02](assets/s02.png)
 
@@ -79,16 +79,16 @@ Vous pouvez même commencer à examiner la manière dont vos indicateurs de perf
 
 ![Seg 12](assets/s12.png)
 
-Les possibilités d’utilisation des segments pour trouver de nouvelles informations sont infinies. Ce n&#39;est qu&#39;un point de départ. Essayez-en quelques-unes par vous-même et faites savoir à la communauté ce que vous découvrez : [[!DNL Adobe Analytics] Communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr) sur l’Experience League ou le [#Measure Slack](https://www.measure.chat/) communauté.
+Les possibilités d’utilisation des segments pour trouver de nouvelles informations sont infinies. Ce n&#39;est qu&#39;un point de départ. Essayez-en quelques-unes par vous-même et faites savoir à la communauté ce que vous découvrez : [[!DNL Adobe Analytics] Communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr) sur Experience League ou la communauté [#Measure Slack](https://www.measure.chat/).
 
 Bonne segmentation !
 
 ## Auteur
 
-Ce document a été rédigé par :
+Ce document a été rédigé par :
 
 ![Dan Cummings](assets/seg13.png)
 
-**Dan Cummings**, ingénieur de produit [!DNL Analytics] Directeur de McDonald&#39;s Corporation
+**Dan Cummings**, chef d&#39;ingénierie de produit [!DNL Analytics] de McDonald&#39;s Corporation
 
 [!DNL Adobe Analytics] Champion

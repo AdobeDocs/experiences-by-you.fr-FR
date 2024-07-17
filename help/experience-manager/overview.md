@@ -9,13 +9,13 @@ exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 26%
+ht-degree: 20%
 
 ---
 
 # Experience Manager par vous : ressources par utilisateurs, pour les utilisateurs.
 
-La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. Les utilisateurs qui prennent les produits, les exploitent, et les appliquent de manière incroyable et innovante pour créer des expériences et des résultats significatifs. Expériences par vous présente le contenu créé par les utilisateurs de tous les jours qui ont atteint un niveau d’expertise et d’influence sur leurs [!DNL Adobe] solutions Experience Cloud. Ce savoir peer-to-peer encourage la collaboration et la découverte - ce qui vous permet, ainsi qu’à tout autre utilisateur, de trouver l’inspiration nécessaire pour améliorer votre expertise produit.
+La chose la plus puissante à propos des solutions Experience Cloud [!DNL Adobe] ? Vous. Les utilisateurs qui prennent les produits, les exploitent, et les appliquent de manière incroyable et innovante pour créer des expériences et des résultats significatifs. Experience by You présente le contenu créé par les utilisateurs de tous les jours qui ont atteint un niveau d’expertise et d’influence avec leurs solutions Experience Cloud [!DNL Adobe]. Ce savoir peer-to-peer encourage la collaboration et la découverte - ce qui vous permet, ainsi qu’à tout autre utilisateur, de trouver l’inspiration nécessaire pour améliorer votre expertise produit.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -45,7 +45,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
   </td>
   <td>
     <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="Playbook d’intégration de Cloud Manager" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+      <img alt="Manuel d’intégration de Cloud Manager" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
@@ -53,7 +53,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
     </a>
     </div>
     <p>
-    <em>Le manuel d’intégration vous aidera à prendre en charge AEM as a Cloud Service en tant que nouvel administrateur et développeur.</em>
+    <em>Le manuel d’intégration vous aidera à prendre en charge les nouveaux administrateurs et développeurs d’AEM as a Cloud Service.</em>
     <p>
   </td>
   <td>
@@ -76,7 +76,7 @@ La chose la plus puissante sur [!DNL Adobe] solutions Experience Cloud ? Vous. L
 
 ## Ressources supplémentaires
 
-* [Communautés de Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr)
-* [Documentation du Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr)
-* [Tutorials Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=fr)
+* [Communautés Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr)
+* [Documentation Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+* [Tutorials Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
 * [Informations sur les produits Experience Manager](https://business.adobe.com/fr/products/experience-manager/adobe-experience-manager.html)

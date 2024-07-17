@@ -1,6 +1,6 @@
 ---
-title: Téléchargez la [!DNL Adobe Analytics] playbook de mise en oeuvre
-description: Le document des exigences commerciales (communément appelé BRD) revêt un caractère essentiel. Les principaux intervenants, les utilisateurs professionnels et techniques participent d’ordinaire à son élaboration. Il vous permet de documenter tous les KPI souhaités, les exigences en matière de création de rapports et tout point de données que vous souhaitez observer une fois l’implémentation d’Adobe Analytics terminée.
+title: Téléchargez le manuel de mise en oeuvre  [!DNL Adobe Analytics] .
+description: Un document sur les exigences de l’entreprise (communément appelé BRD) est un élément de documentation très important sur lequel les principaux intervenants, les utilisateurs professionnels et les utilisateurs techniques voudront collaborer. Il permet de documenter tous les indicateurs clés de performance souhaités, les exigences de création de rapports et tout point de données que vous souhaitez voir une fois votre mise en oeuvre AA terminée.
 solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
@@ -13,107 +13,107 @@ kt: 10530
 exl-id: 42679c86-e08f-4dda-8e47-f9880409bad6
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1780'
-ht-degree: 90%
+source-wordcount: '1779'
+ht-degree: 0%
 
 ---
 
-# Téléchargez la [!DNL Adobe Analytics] playbook de mise en oeuvre
+# Téléchargez le manuel de mise en oeuvre [!DNL Adobe Analytics]
 
-Avant de commencer, [téléchargez le guide](assets/aa-implementation-playbook.xlsx).
+Avant de commencer, [téléchargez le playbook](assets/aa-implementation-playbook.xlsx).
 
-## Onglet Exigences commerciales
+## Onglet Exigences métier
 
-**QUOI :** le document sur les exigences commerciales (communément appelé BRD) revêt un caractère essentiel. Les principaux intervenants, les utilisateurs professionnels et techniques participent d’ordinaire à son élaboration. Il permet de documenter tous les indicateurs clés de performance souhaités, les exigences de création de rapports et tout point de données que vous souhaitez voir lorsque votre [!DNL Adobe Analytics] (AA) la mise en oeuvre est terminée.
+**QUOI :** Un document sur les exigences de l’entreprise (communément appelé BRD) est un élément de documentation très important sur lequel les principaux intervenants, les utilisateurs professionnels et les utilisateurs techniques voudront collaborer. Il s’agit d’un lieu où documenter tous les indicateurs clés de performance souhaités, les exigences de création de rapports et tout point de données que vous souhaitez voir une fois votre mise en oeuvre de [!DNL Adobe Analytics] (AA) terminée.
 
-**POURQUOI :** ce document sert de point de départ pour la documentation qui suit (SDR, spécification technique, etc.) et constitue une source commune de vérité d’un état final convenu d’Adobe Analytics. Ce document rassemble les réflexions des différentes équipes au sein de l’organisation afin d’établir une ligne directrice en vue de votre implémentation ou de son amélioration.
+**POURQUOI :** Cela sert de point de départ pour la documentation qui suit (SDR, spécification technique, etc.) et est une source commune de vérité pour un état final convenu de AA. Ce document organise les réflexions des équipes au sein de l’organisation afin de former une orientation pour aller de l’avant avec la création ou l’amélioration de votre mise en oeuvre.
 
-**COMMENT :** les utilisateurs professionnels finaux d’Adobe Analytics se chargent généralement de documenter les exigences commerciales. Toutefois, il est important d’obtenir des commentaires de la part des utilisateurs techniques, car des défis techniques peuvent se présenter et certains points de données peuvent demander plus d’efforts que d’autres, ce qui permet d’établir des priorités.
+**COMMENT :** La documentation des besoins de l’entreprise est généralement réalisée par les utilisateurs finaux d’AA, mais il est important d’obtenir des commentaires des utilisateurs techniques, car il peut y avoir des problèmes techniques à noter et certains points de données peuvent nécessiter plus d’efforts que d’autres, ce qui contribue à la définition des priorités.
 
-Demandez-vous ceci : « Quels indicateurs voulons-nous suivre sur notre site ? », « Quels points de données priment pour moi à des fins de création de rapports ? » et, plus important encore, « Comment ces points de données vont-ils me permettre de prendre des décisions éclairées ? ». Il est important de s’assurer que chaque exigences commerciale de votre entreprise possède un point de données correspondant. Ainsi, vous pouvez prendre des décisions commerciales éclairées. Par exemple, il peut être tentant de vouloir suivre chaque clic sur votre site, mais au bout du compte, les informations que vous en tirez sont-elles réellement instructives ?
+Demandez-vous, &quot;quelles sont les choses que nous voulons suivre sur notre site&quot;, &quot;quels points de données seront importants pour moi dans le cadre de la création de rapports&quot; et, plus important encore, &quot;comment ces points de données vont-ils influencer les décisions&quot;. Il est important de s’assurer que chacun de vos besoins commerciaux correspond à un point de données qui peut être utilisé pour informer les décisions commerciales. Par exemple, il peut être tentant de suivre chaque clic sur votre site, mais en fin de compte, quelles sont les informations que vous obtenez de ces rapports ?
 
-Commencez par remplir la colonne C de la copie d’écran ci-dessous (Exigences commerciales). Il devrait s’agir de quelque chose comme « Nombre de recherches internes effectuées sur notre site » ou « Quel spot de campagne interne est le plus efficace en termes d’impressions ». Ensuite, revenez en arrière remplissez la colonne B (Catégorie) et regroupez les besoins dans des catégories telles que « Recherche » ou « Promotion interne ». Celles-ci doivent correspondre parfaitement à vos sections de spécifications techniques.
+Renseignez tout d’abord la colonne C de la capture d’écran ci-dessous (Exigences de l’entreprise). Il doit s’agir par exemple du &quot;Nombre de recherches internes effectuées sur notre site&quot; ou de &quot;Quel emplacement de campagne interne est le plus efficace en termes d’impressions&quot;. Après avoir renseigné ce niveau de détail, vous pouvez revenir en arrière et remplir la colonne B (Catégorie) et regrouper les exigences en catégories telles que &quot;Recherche&quot; ou &quot;Promotion interne&quot; qui devraient correspondre parfaitement avec vos sections de spécification technique.
 
-Vous devez également indiquer si vous pensez que l’utilisation d’une eVar, d’un événement, d’une prop ou d’une combinaison de ceux-ci pour assurer le suivi vous permettra d’obtenir les résultats escomptés.
+Vous indiquez également si vous pensez que l’utilisation d’un eVar, d’un événement, d’une prop ou d’une combinaison permettra d’atteindre ce dont vous souhaitez effectuer le suivi.
 
-Enfin, la colonne Statut de l’implémentation servira à vérifier le statut d’avancement des ajouts à votre site.
+Enfin, la colonne État de l’implémentation servira de vérification d’état lorsque vous commencez à ajouter des éléments à votre site.
 
-![Document des exigences commerciales](assets/brd-template.png)
+![Document sur les besoins de l’entreprise](assets/brd-template.png)
 
-## Onglet Carte des variables (document de balisage/SDR)
+## Onglet Carte des variables (balisage de document/SDR)
 
-**QUOI :** un document de balisage (communément appelé SDR) est un document de prime importance pour les utilisateurs techniques et professionnels d’Adobe Analytics. Il répertorie toutes les variables utilisées par les suites de rapports, ainsi que tous les détails pertinents concernant les paramètres de la variable, sa méthode d’implémentation et sa finalité dans les rapports. À l’instar de votre document sur les propriétés, ce document Excel doit être régulièrement mis à jour et bien ordonné. Une personne dédiée doit se charger de le tenir à jour au fur et à mesure des améliorations apportées au balisage ou des changements d’implémentation.
+**QUOI :** Un document de balisage (communément appelé SDR) est une documentation essentielle qui est utile pour les utilisateurs techniques et professionnels d’AA. Elle répertorie toutes les variables utilisées par les suites de rapports, ainsi que tous les détails pertinents pour les paramètres de variable, la manière dont la variable est implémentée et son objectif dans les rapports. Tout comme votre document de propriétés, il doit s’agir d’un document Excel vivant et bien géré, dont le responsable est de le tenir à jour au fur et à mesure de l’introduction d’améliorations du balisage ou de modifications de mise en oeuvre.
 
-**POURQUOI :** ce document servira à plusieurs fins, mais il se destine principalement à :
+**POURQUOI :** Ce document aura de nombreux usages, mais les plus importants sont les suivants :
 
-* Aider toute personne qui découvre votre implémentation (nouvel employé, propriétaire d’entreprise cherchant à mieux comprendre les rapports disponibles, etc.). Celle-ci disposera d’un panorama complet de toutes les variables implémentées et de leur finalité. Ainsi, chacun peut se familiariser avec votre configuration d’Adobe Analytics à son gré et selon ses besoins.
-* Pour le propriétaire du produit Adobe Analytics ou l’utilisateur technique, ce document sert de rappel de la manière dont les autres variables sont configurées et des variables disponibles pour l’ajout d’une nouvelle dimension.
+* Pour toute personne qui découvre votre implémentation (nouvelle embauche, propriétaire d’entreprise cherchant à mieux comprendre les rapports disponibles, etc.) ce document donne une vue d’ensemble optimale de toutes les variables implémentées et de leur objectif afin que les individus puissent se servir eux-mêmes en termes d’apprentissage de votre configuration AA.
+* Pour le propriétaire/l’utilisateur technologique d’un produit AA, ce document servira de rappel de la configuration d’autres variables et des variables disponibles lors de l’ajout d’une nouvelle dimension.
 
-**COMMENT :**[!DNL Adobe] commencez par répertorier dans un document Excel toutes les variables prêtes à l’emploi (page, produit, zone géographique, etc.), ainsi que les eVars, props, événements et variables de liste. Celui-ci doit comporter un onglet par site/suite de rapports.
-Pour chacune de ces dimensions, j’ajoute les colonnes suivantes :
-* **Nom :** donnez un nom simple et court, qui décrit bien sa finalité. Le nom de la variable doit être suffisamment explicite pour qu’un nouvel utilisateur puisse comprendre directement ce qu’elle cherche à accomplir.
-* **Description :** fournit plus de détails sur la finalité de la variable et les données qu’elle suit. Personnellement, je n’attache guère d’importance à ce champ. Je me contente de le faire correspondre à la description utilisée dans l’interface. J’essaie d’éviter au maximum que mes utilisateurs aient à consulter le document de balisage. À cette fin, lorsqu’une nouvelle dimension est configurée sur le serveur principal de l’administrateur, j’ajoute la même description à cet endroit. De cette façon, l’utilisateur peut cliquer sur l’icône d’information directement dans Workspace pour comprendre ce qu’est une dimension. Nul besoin de lui sortir un document Excel !
+**COMMENT :** commencez par répertorier toutes les [!DNL Adobe] variables d’usine (page, produit, zone géographique, etc.), ainsi que les eVars, props, événements et variables de liste dans un document Excel. Celui-ci doit comporter un onglet par site/suite de rapports.
+Pour chacune de ces dimensions, j’ajoute les colonnes suivantes :
+* **Nom :** Attribuez un nom simple et court qui peut être compris par la plupart des utilisateurs. Cela doit être suffisamment intuitif pour qu’un nouvel utilisateur puisse le sélectionner et comprendre la variable à capturer.
+* **Description :** Plus de détails sur la variable utilisée et les données suivies. Je garde ce court et simple et je le fais correspondre à la description utilisée dans l&#39;interface. Idéalement, je ne veux pas que mes utilisateurs aient besoin de consulter le document de balisage. Ainsi, lorsqu’une nouvelle dimension est configurée sur le serveur principal d’administration, j’y ajoute la même description. De cette manière, l’utilisateur peut cliquer sur l’icône d’information directement dans Workspace pour comprendre ce qu’est une dimension. Il n’est donc pas nécessaire d’extraire un document Excel.
 
 ![URL de page simplifiée](assets/page-url-simplified.png)
 
-* **Code :** code du serveur principal qui définit la valeur. Il peut s’agir du champ de la couche de données de la page ou vous pouvez indiquer que cette opération est effectuée par une règle Launch, une règle de traitement, etc.
-* **Rapports de classification :** signalez tout rapport de classification en cours de réalisation avec l’importateur de classifications ou le créateur de règles de classification.
-* **Portée de la solution :** il peut être utile de répertorier toutes les propriétés (du moins celles qui utilisent plus que des variables standard) en petites colonnes et d’ajouter une coche pour chaque dimension configurée sur cette propriété. Vous pouvez ainsi filtrer facilement une propriété spécifique et visualiser en un clin d’œil où une dimension particulière est configurée.
-* **Configuration :** paramètres de l’interface d’administration pour chaque variable (par exemple, pour les eVars : expiration, attribution, marchandisage, etc.)
+* **Code :** Code du serveur principal qui définit la valeur. Il peut s’agir du champ de la couche de données de la page ou vous pouvez signaler que cette opération s’effectue avec une règle Launch, une règle de traitement, etc.
+* **Rapports de classification :** Appelez tous les rapports de classification effectués avec l’importateur de classifications ou le créateur de règles de classification.
+* **Domaine de la solution :** Il me semble utile de répertorier toutes les propriétés (au moins celles qui utilisent plus que les variables standard) dans de petites colonnes et d’ajouter une coche pour chaque dimension définie sur cette propriété. Cela vous permet de filtrer facilement une propriété spécifique et de voir rapidement où une dimension particulière est définie.
+* **Configuration :** Paramètres de l’interface utilisateur d’administration pour chaque variable (c’est-à-dire pour les eVars - expiration, attribution, marchandisage, etc.)
 
-Copie d’écran d’un exemple de document SDR :
-![Exemple de document SDR](assets/sample-sdr.png)
+Capture d&#39;écran d&#39;un exemple de DTS :
+![Exemple de SDR](assets/sample-sdr.png)
 
-Il est également recommandé d’utiliser ce document de balisage pour garder une trace de toutes les variables libres et de celles qui sont « inutiles ». Lorsqu’une dimension n’est plus utile, le développeur a généralement besoin d’un certain temps pour la supprimer. Même après sa suppression, un caching peut se produire. Vous pouvez également réaliser que la dimension était définie ailleurs. Nettoyer les dimensions n’est pas facile et nécessite souvent de la patience. Voici quelques conseils pour garder tout ce qui est inutile caché afin que vos utilisateurs ne soient pas perdus tout en faisant le suivi.
+Il est également recommandé d’utiliser ce document de balisage pour effectuer le suivi des variables libres et des variables &quot;indésirables&quot;. Lorsqu’une dimension n’est plus utile, le développement a généralement besoin de temps pour la supprimer. Même après cela, la mise en cache peut se produire, ou vous pouvez réaliser que la dimension était également définie ailleurs. Nettoyer les dimensions n&#39;est pas facile, et nécessite souvent de la patience. Voici quelques conseils pour garder votre malbouc caché sous le lit afin que vos utilisateurs ne se perdent pas tout en en suivant les traces.
 
-* Toutes les dimensions/événements non utilisés sont « libres » ou « en cours de suppression ».
-   * Si la dimension contient des valeurs indésirables au cours des 90 derniers jours, elle est « en cours de suppression ».
-   * Si la dimension est libre et quitte de tout problème pendant au moins les 90 derniers jours, elle est « libre ».
-   * Marquez-les comme telles sous « Nom » dans le document de balisage, afin de pouvoir facilement les filtrer. Je ne les coche pas dans le document de balisage (filtre de données Excel) afin que les utilisateurs ne les voient pas.
-   * Marquez-les comme nom d’eVar dans l’interface afin que les utilisateurs ne les trouvent pas dans une recherche (par exemple « (v6) ») et supprimez la description dans l’interface.
-* Ainsi, lorsqu’une nouvelle dimension est nécessaire, vous pouvez facilement utiliser le filtre « libre » dans la colonne « Nom » pour trouver une dimension adaptée.
-* Pour les dimensions et événements « en cours de suppression », je vous recommande de suivre ceux-ci à l’aide de Workspace :
-   * Créez un projet visible par les administrateurs uniquement avec 3 tableaux : eVars, props et événements. J’utilise « instances » pour les eVars spécifiques, et pour les props, je crée des segments d’accès avec « prop5 existe », par exemple.
-   * Définir la date sur Les 90 derniers jours
-   * Utilisez les lignes ci-dessus comme lignes dans les 3 tableaux, ainsi que des occurrences.
-   * Dès que quelque chose atteint « 0 », je le marque comme « libre » dans le document de balisage et je le supprime du projet Workspace.
+* Toutes les dimensions/événements non utilisés sont &quot;libres&quot; ou &quot;en cours de suppression&quot;
+   * Si la dimension contient des valeurs &quot;indésirables&quot; au cours des 90 derniers jours, elle est &quot;en cours de suppression&quot;
+   * Si la dimension est libre et claire pendant au moins les 90 derniers jours, elle est &quot;libre&quot;
+   * Marquez-les comme telles sous &quot;Nom&quot; dans le document de balisage, afin de pouvoir facilement les filtrer. Je ne les coche pas dans le document de balisage (filtre de données Excel) afin que les utilisateurs ne les voient pas.
+   * Marquez-les comme nom d’eVar dans l’interface afin que les utilisateurs ne les trouvent pas dans une recherche (c’est-à-dire &quot;(v6)&quot;) et supprimez la description dans l’interface.
+* Ainsi, lorsqu’une nouvelle dimension est nécessaire, vous pouvez facilement filtrer &quot;gratuit&quot; dans la colonne &quot;Nom&quot; pour trouver une dimension propre à utiliser.
+* Pour les dimensions et événements &quot;en cours de suppression&quot;, je vous recommande de suivre ceux-ci à l’aide de Workspace :
+   * Créez un projet visible par les administrateurs uniquement avec 3 tables : eVars, props et events. J’utilise &quot;instances&quot; pour les eVars spécifiques, et pour les props, je crée des segments d’accès avec &quot;prop5 exists&quot;, par exemple.
+   * Définir la date sur les 90 derniers jours
+   * Utilisez les lignes ci-dessus comme lignes dans les 3 tableaux, ainsi que des occurrences
+   * Dès que quelque chose atteint &quot;0&quot;, je le marque comme &quot;gratuit&quot; dans le document de balisage et je le supprime du projet Workspace.
 
-De cette façon, vos données sont toujours propres et vous avez une idée claire de ce qui est inutilisable.
+De cette façon, vos données sont toujours propres, et vous avez une idée claire de votre pourri.
 
-![Aperçu des variables et événements](assets/variables-and-events-overview.png)
+![ Variables et événements - Aperçu](assets/variables-and-events-overview.png)
 
 ## Onglet Propriétés
 
-**QUOI :**[!DNL Adobe Analytics] un document de propriétés doit répertorier toutes vos propriétés numériques (sites web, applications mobiles, autres outils (chat, commentaires, etc.)), que ces propriétés soient balisées ou non avec Cela doit servir de document dynamique et centralisé pour les utilisateurs professionnels et technologiques.
+**QUOI :** Un document de propriétés doit répertorier toutes vos propriétés numériques - sites web, applications mobiles, autres outils (chat, commentaires, etc.), que ces propriétés soient balisées avec [!DNL Adobe Analytics] ou non. Cela devrait servir de document vivant et centralisé pour les utilisateurs professionnels et technologiques.
 
-**POURQUOI :** Vous obtiendrez ainsi une vue claire de l’parcours de votre utilisateur sur toutes vos propriétés numériques, ainsi que de ce qui [!DNL Adobe Analytics] ne couvre pas et ne couvre pas afin que vous puissiez commencer à donner la priorité à l’ajout de balisage aux propriétés où il est manquant. En exposant ainsi votre écosystème numérique, vous pouvez identifier les opportunités potentielles dans la stratégie de balisage pour obtenir une vue complète du parcours de votre utilisateur. Par exemple : avez-vous besoin d’une suite de rapports globale pour effectuer le suivi sur plusieurs domaines/sites ? Une remise d’identifiant visiteur est-elle nécessaire entre les domaines ou l’application vers une expérience hybride ? Les filtres URL internes doivent-ils être mis à jour pour le suivi inter-domaines ?
+**POURQUOI :** Vous obtiendrez ainsi une vue claire du parcours de votre utilisateur sur toutes vos propriétés numériques, ainsi que de ce que [!DNL Adobe Analytics] fait et ne couvre pas afin que vous puissiez commencer à donner la priorité à l’ajout de balisage aux propriétés où il manque. En exposant ainsi votre écosystème numérique, vous pouvez identifier les opportunités potentielles dans la stratégie de balisage pour obtenir une vue complète du parcours de votre utilisateur. Par exemple : avez-vous besoin d’une suite de rapports globale pour effectuer le suivi sur plusieurs domaines/sites ? Une remise d’identifiant visiteur est-elle nécessaire entre les domaines ou l’application vers une expérience hybride ? Les filtres URL internes doivent-ils être mis à jour pour le suivi inter-domaines ?
 
-**COMMENT :** identifiez le propriétaire du document afin de fournir la gouvernance et une source unique de responsabilité pour la gestion des mises à jour.
-Dans l’onglet Propriétés, répertoriez les éléments suivants :
-* **Nom de la propriété :** il peut s’agir d’un domaine, d’un sous-domaine, d’un nom d’application, etc. Même dans le même domaine, si certaines parties de celui-ci sont gérées séparément (comme par une autre équipe ou une technologie différente), elles doivent être séparées.
-* **Lien (URL)** vers la propriété lorsque disponible.
-* **Propriétaire et contacts :** répertoriez le ou les contacts principaux de la propriété.
-* **Méthode de balise :** nombre d’entre nous avons différentes méthodes de code et implémentations en place (Launch, fichiers JS, AEP, etc.). Si nécessaire, vous pouvez ventiler cette opération davantage (par exemple par version de code ou système de gestion des balises), mais cette opération a pour but de suivre toutes vos méthodes et versions de code, où le code doit être mis à jour et comment il doit être géré. Si vous utilisez [!DNL Adobe] Launch, répertorie le nom de la propriété Launch.
+**COMMENT :** Identifiez un propriétaire du document pour fournir la gouvernance et une source unique de responsabilité pour la gestion des mises à jour.
+Dans l’onglet Propriétés, listez les éléments suivants :
+* **Nom de la propriété :** Il peut s’agir d’un domaine, d’un sous-domaine, d’un nom d’application, etc. Même dans le même domaine, si certaines parties de celui-ci sont gérées séparément (comme par une autre équipe ou une technologie différente), elles doivent être séparées.
+* **Lien (URL)** vers la propriété lorsque disponible
+* **Propriétaire et contacts :** Liste le propriétaire principal ou les contacts de la propriété.
+* **Méthode de balise :** Nombre d’entre nous avons différentes méthodes de code et mises en oeuvre en place (Launch, fichiers JS, AEP, etc.). Si nécessaire, vous pouvez ventiler cette opération davantage (par version de code ou système de gestion des balises, par exemple), mais cette opération a pour but de suivre toutes vos méthodes et versions de code, où le code doit être mis à jour et comment il doit être géré. Si vous utilisez [!DNL Adobe] Launch, indiquez le nom de la propriété Launch.
 
 N’oubliez pas d’inclure toutes les propriétés numériques, même si elles ne sont pas balisées avec [!DNL Adobe Analytics]. Cela vous aidera à comprendre votre paysage numérique et la manière dont vos utilisateurs interagissent avec toutes vos propriétés.
 
-Il est recommandé de garder ce document aussi simple que possible et de ne pas y ajouter trop d’informations afin qu’il reste facile à interpréter par les différentes parties de l’organisation. [!DNL Analytics] Les équipes connaissent souvent mieux le paysage numérique que n’importe quelle autre équipe. Par conséquent, ce document est souvent utilisé par d’autres équipes et cadres afin de fournir un aperçu détaillé.
+Il est recommandé de garder ce document aussi simple que possible et de ne pas le consigner avec trop d’informations afin qu’il reste facile à interpréter par les différentes parties de l’organisation. [!DNL Analytics] équipes connaissent souvent mieux le paysage numérique que n’importe quelle autre équipe. Par conséquent, ce document est souvent utilisé par d’autres équipes et cadres pour fournir un aperçu complet.
 
 >[!TIP]
 >
->Créez une dimension de nom/propriété de site dans [!DNL Adobe Analytics]. Avoir une dimension dédiée (généralement un eVar) dans [!DNL Adobe Analytics] qui identifie le nom du site/de l’application permet de segmenter, de résoudre les problèmes, de créer une suite de rapports virtuelle, etc. Les avantages sont infinis, en particulier lorsque vous combinez plusieurs sites dans une seule suite de rapports (globale). La clé consiste à s’assurer que vos équipes de développement définissent toujours cette valeur dans la dimension des propriétés, y compris tous les chargements de page (s.t calls/trackState) et tous les événements personnalisés (s.tl calls/trackAction). Les règles de traitement peuvent s’avérer un outil précieux pour vous aider à définir correctement et de manière cohérente ces valeurs.
+>Créez une dimension de nom/propriété de site dans [!DNL Adobe Analytics]. Avoir une dimension dédiée (généralement un eVar) dans [!DNL Adobe Analytics] qui identifie le nom du site/de l’application permet de segmenter, de résoudre les problèmes, de créer des suites de rapports virtuelles, etc. Les avantages sont infinis, en particulier lorsque vous combinez plusieurs sites dans une seule suite de rapports (globale). La clé consiste à s’assurer que vos équipes de développement définissent toujours cette valeur dans la dimension des propriétés, y compris tous les chargements de page (s.t calls/trackState) et tous les événements personnalisés (s.tl calls/trackAction). Les règles de traitement peuvent s’avérer un outil précieux pour vous aider à définir correctement et de manière cohérente ces valeurs.
 
-[Regardez cette vidéo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=fr){target="_blank"} pour plus d’informations sur le remplissage du manuel d’implémentation.
+[Regardez cette vidéo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} pour plus d’informations sur le remplissage du manuel de mise en oeuvre.
 
 ## Auteurs
 
-Ce document a été rédigé par :
+Ce document a été co-écrit par :
 
-![Christel Guidon](assets/Christel-Headshot-150.png)
+![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon, Digital [!DNL Analytics] Platform Manager dans NortonLifeLock
-[!DNL Adobe Analytics] Champion
+Christel Guidon, responsable de la plateforme numérique [!DNL Analytics] chez NortonLifeLock
+[!DNL Adobe Analytics] champion
 
-![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
+![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-Rachel Fenwick, conseillère principale chez [!DNL Adobe]
+Rachel Fenwick, conseillère principale à [!DNL Adobe]

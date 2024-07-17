@@ -11,7 +11,7 @@ thumbnail: KT-13476.jpeg
 exl-id: 369c526d-8664-4771-81b6-24c9f50bc37e
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1975'
+source-wordcount: '1991'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dans la deuxième partie, découvrez comment créer des segments d’intention d
 
 Dans notre dernier billet, nous avons décrit le processus de création de segments d’intention de visite et créé notre premier segment d’intention de visite, One Hit Wonders (L’unique accès se pose la question). Aujourd’hui, nous allons créer nos segments Achat et Rétention . Nous avions segmenté environ 23 % de nos visites et créé nos espaces réservés pour les segments d’intention de visite restants.
 
-![Image 1](assets/Image-1.png)
+![Image 1](assets/Image-1.png)
 
 Les segments d’intention de visite que nous sommes en train de créer constituent la base de la création de segments de parcours client basés sur les visiteurs. Nous allons créer ces segments de parcours basés sur les visiteurs une fois que nous aurons créé nos segments d’intention de visite.
 
@@ -60,15 +60,15 @@ On peut voir ça comme une épicerie. Si quelqu&#39;un ramasse un produit sur l&
 
 Je suggère d’utiliser des pages visitées ou d’autres signaux explicites d’intention d’achat et d’éviter d’autres signaux moins directs pour identifier l’intention d’achat. Par exemple, je n’utiliserai pas le nombre de sessions ou le nombre de pages dans une session ou une session similaire. Ces signaux indirects indiquent la Considération et non l’intention d’achat. Souvenez-vous que l’objectif de ce segment est de déduire l’intention du visiteur pour la visite, et non sa propension.
 
-### Utilisation [!DNL Analytics] Workspace pour identifier les signaux d’intention d’achat
+### Utilisation de [!DNL Analytics] Workspace pour identifier les signaux d’intention d’achat
 
 Le rapport sur les abandons est très utile pour identifier un bon signal qui indique l’intention d’achat. Recherchez un endroit qui indique logiquement l’intention. Vous pouvez confirmer que l’étape indique l’intention lorsque vous constatez qu’un abandon notable se dirige vers cette étape, souvent suivi d’un abandon plus petit pour l’étape immédiatement après.
 
-![Image 2](assets/Image-2.png)
+![Image 2](assets/Image-2.png)
 
 Il est également utile de consulter les taux de conversion associés aux différentes pages de votre site. Cela s’avère particulièrement utile pour identifier les pages qui indiquent le mode d’achat, mais qui peuvent ne pas être nécessaires pour effectuer un achat (telles que les pages de financement, les pages de configuration des achats, etc.).
 
-![Image 3](assets/Image-3.png)
+![Image 3](assets/Image-3.png)
 
 Enfin, il est important d’inclure toutes les pages entre le début de l’achat et la confirmation d’achat dans votre segment. Les visiteurs peuvent rebondir et reprendre votre flux d’achat à différents points.
 
@@ -78,7 +78,7 @@ N’oubliez pas, dans notre premier billet, que les segments d’ intention de v
 
 Veillez à ce que votre segment d’intention d’achat exclut les segments Un et Terminé . Il vous suffit d’exclure les segments Une et Terminé , car les signaux que nous utilisons pour l’intention d’achat sont très spécifiques.
 
-Notez que l’exclusion du segment Un et Terminé peut exclure une personne qui accède de nouveau à votre site sur une page de passage en caisse. Ceci est normal. La définition même de &quot;Un et terminé&quot; est une page vue, ce qui signifie que même si un visiteur accède ou actualise une page de passage en caisse, sa visite n’a pas progressé. Par conséquent, il n’y a aucune expression d’intention d’achat.
+Notez que l’exclusion du segment Un et Terminé peut exclure une personne qui accède de nouveau à votre site sur une page de passage en caisse. C&#39;est bon. La définition même de &quot;Un et terminé&quot; est une page vue, ce qui signifie que même si un visiteur accède ou actualise une page de passage en caisse, sa visite n’a pas progressé. Par conséquent, il n’y a aucune expression d’intention d’achat.
 
 ### Segment d’intention d’achat dans le créateur de segments
 
@@ -88,11 +88,11 @@ La définition de segment pour l’intention d’achat est très simple.
 
 Ajoutez un conteneur Exclure au segment joint par la condition &quot;Et&quot;. Ajoutez la définition de segment One Hit Wonders (Pages vues égale à 1) au conteneur Exclure .
 
-![Image 4](assets/Image-4.png)
+![Image 4](assets/Image-4.png)
 
 Il est recommandé d’étiqueter les conteneurs. Vous serez heureux de l’avoir fait, d’autant plus que nos définitions de segment deviennent plus complexes.
 
-Maintenant que nous avons créé le segment Intention d’achat, nous pouvons utiliser l’ Espace de travail de qualité des données d’intention de visite pour nous assurer que notre segment Intention d’achat s’exclut mutuellement de notre segment Un et terminé.
+Maintenant que nous avons créé le segment Intention d’achat, nous pouvons utiliser le Workspace de qualité des données d’intention de visite pour nous assurer que notre segment Intention d’achat s’exclut mutuellement de notre segment Un et Terminé.
 
 ![Image 5](assets/Image-5.png)
 
@@ -106,7 +106,7 @@ Comme pour le segment Intention d’achat , nous recherchons des indications d�
 
 Je dois noter que &quot;Rétention&quot; est un nom un peu gênant pour cette intention de visite, puisque le visiteur ne se trouve pas sur notre site, &quot;afin de pouvoir être conservé en tant que client&quot;. La rétention est notre intention pour cette visite. Souvenez-vous simplement d’être empathique envers nos clients et de rester concentré sur le client avant tout !
 
-### Utilisation [!DNL Analytics] Workspace pour identifier les signaux d’intention de rétention
+### Utilisation de [!DNL Analytics] Workspace pour identifier les signaux d’intention de rétention
 
 Encore une fois, [!DNL Analytics] Workspace nous aide à identifier le mode de rétention. Vous pouvez utiliser les dimensions de page, de section de site ou de segment personnalisé pour classer vos pages par catégorie. Recherchez des pages présentant de faibles taux de conversion d’achats. Dans notre cas, nous constatons que les pages d’archivage et d’extraction en ligne (Shorex) ont des taux de conversion relativement plus faibles que les autres pages qui sont plus logiquement associées aux achats.
 
@@ -132,7 +132,7 @@ Ajoutez ensuite des conteneurs d’exclusion pour vos visites One Hit Wonders et
 
 ![Image 7](assets/Image-7.png)
 
-Une fois de plus, consultez votre Espace de travail de qualité des données d’intention de visite pour vous assurer que vos segments s’excluent mutuellement. Nos segments d’intention de visite prennent parfaitement forme !
+Une fois de plus, consultez votre Workspace de qualité des données d’intention de visite pour vous assurer que vos segments s’excluent mutuellement. Nos segments d’intention de visite prennent parfaitement forme !
 
 ![Image 8](assets/Image-8.png)
 
@@ -140,10 +140,10 @@ Une fois de plus, consultez votre Espace de travail de qualité des données d�
 
 ## Auteur
 
-Ce document a été rédigé par :
+Ce document a été rédigé par :
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, numérique [!DNL Analytics]
+**Aaron Fossum**, Director, Digital [!DNL Analytics]
 
 [!DNL Adobe Analytics] Champion
