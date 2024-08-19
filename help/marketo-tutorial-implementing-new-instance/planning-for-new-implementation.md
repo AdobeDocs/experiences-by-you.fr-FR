@@ -1,5 +1,5 @@
 ---
-title: Planification d’une nouvelle implémentation de Marketo Engage
+title: Plan de mise en oeuvre d’un nouveau Marketo Engage
 description: En savoir plus sur la planification essentielle et la collaboration entre les équipes fonctionnelles pour réussir la mise en oeuvre d’une nouvelle instance de Marketo Engage. Ce tutoriel fournit des exemples de jalons, d’engagements d’équipe et d’allocation de ressources pour une mise en oeuvre transparente des Marketo Engage.
 role: Admin
 level: Beginner
@@ -10,14 +10,14 @@ last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 5%
 
 ---
 
-# Planification d’une nouvelle implémentation de Marketo Engage
+# Planification d’une nouvelle mise en oeuvre de Marketo Engage
 
 La mise en oeuvre d’une nouvelle instance de Marketo Engage implique une planification méticuleuse, une collaboration entre les équipes et une optimisation continue. Bien qu’il n’existe pas de recette parfaite pour mettre en oeuvre une nouvelle instance, la plupart des administrateurs Marketo Engage qui l’ont suivie peuvent convenir que la planification à venir rendra le processus beaucoup plus fluide.
 
@@ -130,7 +130,7 @@ Entendez Kyle McCormick, championne Marketo Engage (2019), parler de son expéri
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
 
-## Et après ?
+## Quelle est la suite ?
 
 Créez un plan de projet de mise en oeuvre et une chronologie. Vous trouverez ci-dessous un exemple de chronologie de projet, y compris des sections pour des exemples de jalons, de tâches, d’équipes responsables, d’échéances et de dépendances. Utilisez-le pour rationaliser votre parcours de mise en oeuvre de Marketo Engage et assurer un déploiement réussi à l’échelle de l’entreprise.
 

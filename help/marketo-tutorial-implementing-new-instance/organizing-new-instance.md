@@ -1,5 +1,5 @@
 ---
-title: Organisation d’une nouvelle instance et établissement de conventions de dénomination
+title: Organisation d’une nouvelle instance et définition de conventions de dénomination
 description: Découvrez comment configurer une bonne organisation dans votre instance de Marketo Engage, ce qui permet aux futurs marketeurs de votre entreprise de parcourir facilement les programmes, de modifier les ressources et d’extraire des rapports.
 role: Admin
 level: Beginner
@@ -10,14 +10,14 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
 
 ---
 
-# Organisation d’une nouvelle instance et établissement de conventions de dénomination
+# Organisation d’une nouvelle instance et établissement de conventions d’affectation de nom
 
 En tant qu’administrateur mettant en oeuvre une nouvelle instance de Marketo Engage, vous définissez les bases permettant aux futurs marketeurs de l’entreprise de naviguer facilement dans l’instance. Familiarisez-vous avec la structure de dossiers de l’arborescence et les conventions d’affectation des noms afin que votre instance reste ordonnée et configurée pour une réussite à long terme. Ce tutoriel comprend des exemples recommandés par Natalie Kremer, championne d’Adobe et de Marketo Engage (2019-2020), pour vous aider à [ organiser les dossiers et nommer les ressources de manière cohérente ](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
 
@@ -176,7 +176,7 @@ En gardant ces informations à l’esprit, nous appliquerons ces conseils aux re
 >
 >Lorsque vous nommez des fichiers dans les exemples ci-dessus, n’utilisez pas d’espaces et évitez d’utiliser des traits de soulignement &quot;\_&quot;.
 
-## Et après ?
+## Quelle est la suite ?
 
 * Téléchargez la feuille de calcul : [Organisation du Marketo Engage et conventions d’affectation de nom](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} pour prendre en charge la création de la structure de dossiers et des conventions d’affectation de nom.
 * Une fois que vous avez déterminé les composants nécessaires dans votre convention d’affectation des noms standard, pensez à créer des formules dans une feuille de calcul Google ou Microsoft Excel. Pour une utilisation ultérieure, il vous suffit de saisir vos valeurs dans la feuille de calcul pour générer vos noms de programme.

@@ -1,6 +1,6 @@
 ---
-title: Création de modèles de notation des personnes pour les programmes de Marketo Engage
-description: Adobe Marketo Engage vous permet de créer vos modèles de notation à partir de zéro. Avant de vous lancer directement dans Marketo Engage pour créer vos programmes de notation, vous devrez configurer les champs de score essentiels tels que Score démographique, Score comportemental et Score total de personne. Découvrez les stratégies utilisées par les champions Marketo Engage pour développer des modèles de notation qui répondent aux besoins de votre entreprise.
+title: Créer des modèles de notation de personne pour les programmes de Marketo Engage
+description: Découvrez comment créer vos modèles de notation à partir de zéro.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -10,9 +10,9 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
 exl-id: 73976144-f02b-4423-9b4b-410330117ba9
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '2111'
+source-wordcount: '2055'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 Le score de personne vous permet d’identifier les personnes qui sont les plus impliquées dans votre entreprise et qui sont votre profil client idéal afin que vous puissiez partager ces pistes avec votre équipe de vente et conclure des offres ! Avec les ventes, vous déterminez les pistes que vous souhaitez leur transmettre à l’aide d’un programme de notation prospect/personne dans Adobe Marketo Engage. Cela peut être déterminé par un minimum de notation comportementale, de notation démographique, ou les deux.
 
-Dans ce tutoriel, nous vous proposons trois exercices suggérés par les champions Marketo Engage Christina Zuniga et Katja Keesom. Procédez comme suit pour déterminer quelles activités et caractéristiques sont des indicateurs importants qu’un prospect est intéressé par les achats (notation comportementale) et qui sont adaptés à vous (notation démographique), et tenez compte des nuances entre les marchés.
+Dans ce tutoriel, nous vous présentons trois exercices suggérés par les champions Marketo Engage Christina Zuniga et Katja Keesom. Procédez comme suit pour déterminer quelles activités et caractéristiques sont des indicateurs importants qu’un prospect est intéressé par les achats (notation comportementale) et qui sont adaptés à vous (notation démographique), et tenez compte des nuances entre les marchés.
 
 ## Pourquoi développer et utiliser un modèle de notation de personne ?
 
@@ -29,7 +29,7 @@ Votre base de données peut contenir de nombreux prospects, mais comment savoir 
 
 En évaluant les personnes dans votre base de données de Marketo Engage, vous pouvez mesurer la qualification de vos pistes générées et définir des critères pour le moment où elles sont prêtes pour les ventes. Cela permet à votre équipe commerciale de se concentrer sur les pistes les plus susceptibles de se fermer, tandis que l’équipe marketing continue à nourrir les autres personnes de la base de données via leurs programmes marketing.
 
-## Exercice 1 - Détermination de l’intérêt des acheteurs avec les scores comportementaux
+## Exercice 1 - Déterminer l&#39;intérêt des acheteurs avec les scores de comportement
 
 La notation comportementale donne une valeur numérique aux actions pouvant faire l’objet d’un suivi qu’un prospect entreprendre indiquant son intérêt pour vos produits et services et son intention d’acheter. Par exemple, la visite du site web présente un intérêt et la consultation de la page de tarification peut indiquer des intentions. En revanche, la consultation de la page des carrières peut indiquer que la personne n’achètera pas.
 
@@ -79,7 +79,7 @@ La notation comportementale donne une valeur numérique aux actions pouvant fair
 
 **Étape 5** - N’oubliez pas que la notation est un processus itératif ! Examinez et ajustez continuellement les scores et les seuils lorsque vous collectez plus de données pour l’analyse.
 
-## Exercice 2 - Identification de la bonne adéquation avec les scores démographiques
+## Exercice 2 - Identifier l&#39;adéquation avec les scores démographiques
 
 Maintenant que vous avez défini les activités indiquant l’intention d’achat, vous devez compléter le modèle de notation avec vos profils de prospects idéaux. Pour déterminer si un prospect est adapté à d’autres conversations de vente, il est important d’attribuer des scores démographiques en plus des scores comportementaux afin que le modèle détermine les meilleures pistes en termes d’ajustement et d’intention.
 
@@ -231,7 +231,7 @@ Préférez-vous une présentation vidéo pour cet exercice ? Tune in as Marketo 
   </tr>
 </table>
 
-## Et après ?
+## Quelle est la suite ?
 
 * Téléchargez la [feuille d’exercice de notation des personnes](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} pour développer votre modèle de notation hors ligne.
 * Créez la notation de votre personne en Marketo Engage. Consultez ce [tutoriel](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} et [démonstration](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} pour commencer. Vous pouvez importer un programme de notation prospect/personne [template](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} de la bibliothèque de référence du Marketo Engage pour accélérer la création du programme.

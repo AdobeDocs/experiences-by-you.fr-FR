@@ -1,5 +1,5 @@
 ---
-title: Conseils et astuces pour le contrôle d’une instance  [!DNL Marketo Engage] héritée
+title: Conseils et astuces pour contrôler une instance héritée  [!DNL Marketo Engage]
 description: Découvrez comment optimiser et mettre à l’échelle une instance Live [!DNL Marketo Engage] que vous avez héritée.
 solution: Marketo Engage
 feature-set: Marketo Engage
@@ -11,14 +11,14 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
-# Conseils et astuces pour contrôler une instance [!DNL Marketo Engage] héritée - Présentation du tutoriel
+# Conseils et astuces pour contrôler une instance [!DNL Marketo Engage] héritée
 
 *Source : Adobe des champions Marketo*
 

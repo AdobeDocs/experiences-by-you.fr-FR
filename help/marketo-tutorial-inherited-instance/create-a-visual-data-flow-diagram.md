@@ -1,5 +1,5 @@
 ---
-title: Créer un diagramme de flux de données visuel pour comprendre votre tech stack marketing
+title: Création d’un diagramme de flux de données pour comprendre votre Tech stack marketing
 description: Découvrez comment créer un diagramme de "plomb et sources de données" pour comprendre l’univers des données, pour contrôler et organiser efficacement l’instance.
 feature-set: Marketo Engage
 feature: Administration
@@ -11,14 +11,14 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
 
-# Créer un diagramme de flux de données visuel pour comprendre votre tech stack marketing
+# Créer un diagramme de flux de données pour comprendre votre tech stack marketing
 
 En tant qu’administrateur qui prend le contrôle d’une instance [!DNL Marketo Engage] active depuis des années, c’est comme une mission impossible à contrôler et à organiser efficacement l’instance. Lorsque [!DNL Adobe] [!DNL Marketo Champion] (2019) Kelly Jo Horton, est entrée dans une instance établie de longue date, elle s&#39;est attaquée à ce défi en [créant un diagramme de &quot;Lead and data sources&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} pour se familiariser avec l&#39;univers des données. Dans ce tutoriel, vous apprendrez à créer votre propre diagramme de flux de données en vous basant sur les exemples partagés par Kelly Jo Horton. Connaissons votre écosystème MarTech !
 
@@ -51,7 +51,7 @@ Créez une version technique qui affiche des détails tels que le nom d’utilis
 ![Version technique](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
-## Et après ?
+## Quelle est la suite ?
 
 **Commencer avec des exemples :**
 Téléchargez l’un des exemples de diagrammes de flux de données pour déterminer l’état actuel de votre tech stack marketing, de votre personne et de votre flux de données, ou créez un diagramme pour votre univers de données à partir de zéro lorsque vous audaciez l’instance :

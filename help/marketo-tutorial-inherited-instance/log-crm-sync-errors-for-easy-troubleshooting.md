@@ -11,14 +11,14 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
 
-# Enregistrer les erreurs de synchronisation CRM pour faciliter le dépannage
+# Enregistrer les erreurs de synchronisation CRM pour le dépannage
 
 En tant qu&#39;administrateur [!DNL Marketo Engage], vérifier si votre instance est synchronisée avec votre CRM doit être un élément clé de votre [routine quotidienne](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. Bien que la [section des notifications](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (la trouve dans le coin supérieur droit de votre interface [!DNL Marketo Engage]) soit l’endroit où vous allez commencer à rechercher et à étudier les problèmes de synchronisation fréquents, il existe une astuce qui peut vous aider à gérer l’intégrité de l’instance de manière organisée. [!DNL Adobe] Champion Marketo (2019-2022), Amy Goldfine recommande aux utilisateurs administrateurs de conserver un journal des erreurs de synchronisation CRM afin de faciliter le dépannage.
 
@@ -46,7 +46,7 @@ Avant de commencer, téléchargez le [modèle Journal des erreurs de synchronisa
 
 **Étape 7 :** Dans la dernière colonne, collez le texte réel de l’erreur.
 
-## Et après ?
+## Quelle est la suite ?
 
 **Identifier les codes d’erreur :** Pour comprendre les codes d’erreur, recherchez les descriptions dans la documentation des développeurs [ ](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} et recherchez les étapes suivantes courantes pour résoudre les erreurs.
 

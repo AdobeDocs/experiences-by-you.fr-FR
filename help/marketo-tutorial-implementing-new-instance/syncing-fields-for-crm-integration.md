@@ -10,14 +10,14 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 195a1211b8b191032f4d37662b5beee9a0a54de4
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1567'
 ht-degree: 0%
 
 ---
 
-# Synchronisation des champs pour les connecteurs CRM natifs
+# Champs de synchronisation pour les connecteurs CRM natifs
 
 Utilisez-vous Salesforce ou Microsoft Dynamics au sein de votre organisation ? Si c’est le cas, avec les connecteurs CRM natifs du Marketo Engage (c’est-à-dire Salesforce, Microsoft Dynamics et Veeva), vous pouvez coordonner les activités de marketing et de vente en partageant facilement des informations pertinentes entre Marketo Engage et CRM. Avant de configurer la synchronisation CRM initiale, veillez à identifier les champs que vous souhaitez synchroniser entre les deux systèmes afin de préserver la propreté de la base de données de votre Marketo Engage.
 
@@ -31,7 +31,7 @@ La synchronisation initiale entre votre Marketo Engage et votre système CRM cr�
 
 L’identification et l’organisation des champs que vous souhaitez synchroniser à partir de votre CRM avant d’effectuer la synchronisation initiale est une étape essentielle du processus de configuration du connecteur natif. Nous appelons cela un exercice de dictionnaire de données, qui vous aide à minimiser le nombre de champs en double qui sont créés et à faire en sorte que toutes les étapes de recodification suivantes se déroulent aussi facilement que possible. Cet exercice implique généralement l’entrée des équipes marketing et de vente et de votre administrateur CRM pour vous assurer que seuls les champs pertinents sont synchronisés avec votre instance de Marketo Engage.
 
-## Création du dictionnaire de données
+## Création de votre dictionnaire de données
 
 En règle générale, la bonne pratique consiste à synchroniser uniquement les champs de gestion de la relation client nécessaires à des fins marketing. Commencez par cet exercice pour organiser les champs de votre CRM qui devront être mappés à Marketo Engage et exécuter correctement la première synchronisation CRM initiale.
 
@@ -118,7 +118,7 @@ En règle générale, la bonne pratique consiste à synchroniser uniquement les 
    * Reportez-vous à cet exemple [HERE](https://nation.marketo.com/t5/knowledgebase/re-mapping-sfdc-marketo-fields/ta-p/299284){target="_blank"}.
 * Une fois le mappage terminé, passez en revue les noms d’API des champs mappés dans Marketo Engage et mettez à jour les valeurs de la colonne &quot;Nom d’API&quot; de votre dictionnaire de données pour vous assurer qu’il contient les informations les plus précises.
 
-## Et après ?
+## Quelle est la suite ?
 
 * Créez votre dictionnaire de données pour organiser vos champs pour l’intégration CRM.
 * Familiarisez-vous avec le processus de synchronisation initial pour votre CRM

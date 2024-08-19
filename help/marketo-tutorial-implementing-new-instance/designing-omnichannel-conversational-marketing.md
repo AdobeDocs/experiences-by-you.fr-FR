@@ -1,5 +1,5 @@
 ---
-title: Concevoir un marketing conversationnel omnicanal avec Dynamic Chat
+title: Conversation marketing omnicanal de conception avec Dynamic Chat
 description: Commencez rapidement à concevoir du marketing conversationnel avec Adobe Dynamic Chat, le canal d’engagement conversationnel natif de Adobe Marketo Engage. Ce tutoriel propose des recettes pratiques pour mettre en oeuvre des cas d’utilisation tels que la réservation de réunions de vente, l’engagement dans le contenu du site web et la promotion d’événements/webinaires.
 role: Admin
 level: Beginner
@@ -9,7 +9,7 @@ duration: 0
 last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-14814
 exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
-source-git-commit: 80553c5127afda315e97183e0d3b160871352183
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1409'
 ht-degree: 0%
@@ -191,7 +191,7 @@ Extension de l&#39;engagement du contenu Campaign - Configuration :
 
 >[!ENDTABS]
 
-## Et après ?
+## Quelle est la suite ?
 
 * Faites correspondre votre flux de conversation dans [Stream Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} ou un diagramme de flux hors ligne.
 * Créez un dialogue fourre-tout par défaut en Dynamic Chat.

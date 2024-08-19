@@ -1,6 +1,6 @@
 ---
-title: Conseils et astuces pour implémenter une nouvelle instance  [!DNL Marketo Engage] - Présentation du tutoriel
-description: Découvrez comment mettre en oeuvre une nouvelle instance  [!DNL Marketo Engage] pour tirer le meilleur parti de sa puissance. Cette série de conseils et astuces sur la mise en oeuvre d’un nouveau Marketo Engage fournit les bonnes pratiques éprouvées par les Adobes [!DNL Marketo Engage] champions. Les sujets abordés comprennent la gestion des parties prenantes, la gestion de projet de mise en oeuvre, la formation interne, la création d’un modèle de notation prospect/personne, la configuration de la synchronisation CRM initiale, etc.
+title: Conseils et astuces pour mettre en oeuvre une nouvelle instance
+description: Découvrez comment mettre en oeuvre une nouvelle instance  [!DNL Marketo Engage] pour tirer le meilleur parti de sa puissance.
 solution: Marketo Engage
 role: Admin
 level: Beginner
@@ -10,20 +10,20 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
 
-# Conseils et astuces pour la mise en oeuvre d’une nouvelle instance [!DNL Marketo Engage] - Présentation du tutoriel
+# Conseils et astuces pour mettre en oeuvre une nouvelle instance [!DNL Marketo Engage]
 
 Bienvenue dans l’Adobe [!DNL Marketo Engage] ! La configuration d’une nouvelle instance est la première étape pour améliorer votre stratégie marketing numérique grâce à l’automatisation du marketing. La clé d&#39;une mise en oeuvre [!DNL Marketo Engage] réussie est la documentation.
 
-Cette série &quot;Implémentation d’une nouvelle instance Tips and Tricks&quot; (Conseils et astuces sur la mise en oeuvre d’une nouvelle instance) est issue des champions [!DNL Marketo Engage] de l’Adobe qui ont déjà conquis la mise en oeuvre. Le tutoriel fournit des conseils détaillés à l’intention des nouveaux administrateurs pour gérer le projet d’implémentation de manière interfonctionnelle et configurer des paramètres techniques indépendamment. Des rubriques sélectives accompagnent également les listes de contrôle et les modèles téléchargeables pour vous permettre de personnaliser selon vos besoins, sans partir de rien. Explorons la sagesse de vos pairs !
+Cette série _Implémentation d’une nouvelle instance Tips and Tricks_ est la source des champions [!DNL Marketo Engage] d’Adobe qui ont conquis l’implémentation auparavant. Le tutoriel fournit des conseils détaillés à l’intention des nouveaux administrateurs pour gérer le projet d’implémentation de manière interfonctionnelle et configurer des paramètres techniques indépendamment. Des rubriques sélectives accompagnent également les listes de contrôle et les modèles téléchargeables pour vous permettre de personnaliser selon vos besoins, sans partir de rien. Explorons la sagesse de vos pairs !
 
-## Rubriques et éléments que vous allez apprendre
+## Rubriques et informations que vous apprenez
 
 * [Gérer les parties prenantes pour mettre en oeuvre le Marketo Engage](/help/marketo-tutorial-implementing-new-instance/managing-stakeholder-communications.md)
   *Découvrez les stratégies de gestion efficace des parties prenantes lors de la mise en oeuvre de votre instance de Marketo Engage. Ce tutoriel fournit des conseils pratiques pour découvrir les besoins de vos parties prenantes, gagner l’adhésion des dirigeants et communiquer de manière interfonctionnelle afin de rechercher une assistance pour la mise en oeuvre.*

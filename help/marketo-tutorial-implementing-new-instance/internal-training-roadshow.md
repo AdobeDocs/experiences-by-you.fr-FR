@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
 exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
@@ -62,7 +62,7 @@ Voici un exemple de programme de formation que Naomi Liu vous propose de personn
 | Rapports et analyses | <ul><li>Présentation des rapports</li><li>Performances des emails, des landing pages et des programmes</li><li>Création de vos propres rapports</li><li>Informations sur les courriers électroniques et les performances</li></ul> | Formation continue, vidéos enregistrées pour les sessions importantes, révisions régulières | 2h |
 | IA dédiée au contenu | <ul><li>Fonctionnalité d’IA dédiée aux contenus</li><li>Examinez les ressources éligibles à Content AI (c’est-à-dire la page d’entrée, le courrier électronique et la boîte de dialogue).</li><li>Mettre en correspondance le processus (quand/où) à utiliser</li></ul> | Session en direct, présentation détaillée et fonctionnement | 1h |
 
-## Et après ?
+## Quelle est la suite ?
 
 * Téléchargez la feuille de calcul [exemple de programme de formation](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} pour développer vos modules de formation internes.
 * Renseignez les équipes qui conviennent au sujet de la session.

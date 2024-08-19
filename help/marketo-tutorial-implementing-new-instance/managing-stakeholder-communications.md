@@ -1,5 +1,5 @@
 ---
-title: Gestion des parties prenantes pour la mise en oeuvre du Marketo Engage
+title: Gérer les parties prenantes pour mettre en oeuvre le Marketo Engage
 description: Découvrez les stratégies de gestion efficace des parties prenantes lors de la mise en oeuvre de votre instance de Marketo Engage. Ce tutoriel fournit des conseils pratiques pour découvrir les besoins de vos parties prenantes, gagner l’adhésion des dirigeants et communiquer de manière interfonctionnelle afin de rechercher une assistance pour la mise en oeuvre.
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1712'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Lancez votre mise en oeuvre en vous alignant sur les priorités de vos dirigeant
 
 Prenez les informations que vous avez présentées dans l’exercice précédent et communiquez spécifiquement sur la manière dont Marketo Engage activera le retour sur investissement (ROI) et appuiera les objectifs stratégiques de vos parties prenantes. Utilisez le modèle de communication initial suivant pour concevoir des messages attrayants mettant en évidence la proposition de valeur du Marketo Engage pour votre entreprise.
 
-#### Modèle - Intermédiaire initial
+#### Modèle - portée initiale
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ Best,
 </table>
 
 
-### Action 3 - Démontrer les victoires anticipées
+### Action 3 - Démonstration des victoires anticipées
 
 Présentation des victoires rapides ou des projets pilotes pour démontrer l’impact de Marketo Engage. Il peut s’agir d’une campagne par e-mail ciblée qui génère un engagement significatif ou d’un workflow automatisé qui simplifie la prise en charge des pistes. Partagez ces réussites avec les parties prenantes pour renforcer leur soutien et leur enthousiasme.
 
@@ -133,7 +133,7 @@ Best,
 </tr>
 </table>
 
-### Action 4 - Stimuler la communication
+### Action 4 - Stimuler la communication en cours
 
 Maintenir des canaux de communication réguliers avec les parties prenantes tout au long du processus de mise en oeuvre. Planifiez des réunions d’archivage ou envoyez des mises à jour de progression à l’aide des modèles d’email fournis afin de les informer et de les impliquer. Cela vous permet également de répondre rapidement à toutes les questions ou préoccupations afin de garantir l’adhésion continue de ces équipes.
 
@@ -180,7 +180,7 @@ Best,
 
 En suivant ces conseils pratiques et en référençant les modèles, vous serez mieux équipé pour implémenter correctement les Marketo Engage et obtenir une assistance forte de vos parties prenantes tout au long du processus d’intégration.
 
-## Et après ?
+## Quelle est la suite ?
 
 Téléchargez et utilisez le [guide et modèle de communications internes d’intégration](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} pour créer des mises à jour régulières et rapporter l’avancement des parties prenantes. Incluez les mesures clés, les réalisations et les jalons à venir pour les tenir informés et engagés.
 
