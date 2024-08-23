@@ -10,18 +10,18 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 0%
+source-wordcount: '522'
+ht-degree: 1%
 
 ---
 
 # Conseils et astuces pour mettre en oeuvre une nouvelle instance [!DNL Marketo Engage]
 
-Bienvenue dans l’Adobe [!DNL Marketo Engage] ! La configuration d’une nouvelle instance est la première étape pour améliorer votre stratégie marketing numérique grâce à l’automatisation du marketing. La clé d&#39;une mise en oeuvre [!DNL Marketo Engage] réussie est la documentation.
+Bienvenue dans l’Adobe [!DNL Marketo Engage] ! La configuration d’une nouvelle instance est la première étape de la mise à niveau de votre stratégie marketing numérique avec l’automatisation du marketing. La clé d&#39;une mise en oeuvre [!DNL Marketo Engage] réussie est la documentation.
 
-Cette série _Implémentation d’une nouvelle instance Tips and Tricks_ est la source des champions [!DNL Marketo Engage] d’Adobe qui ont conquis l’implémentation auparavant. Le tutoriel fournit des conseils détaillés à l’intention des nouveaux administrateurs pour gérer le projet d’implémentation de manière interfonctionnelle et configurer des paramètres techniques indépendamment. Des rubriques sélectives accompagnent également les listes de contrôle et les modèles téléchargeables pour vous permettre de personnaliser selon vos besoins, sans partir de rien. Explorons la sagesse de vos pairs !
+Cette série &quot;Implémentation d’une nouvelle instance Tips and Tricks&quot; provient des champions [!DNL Marketo Engage] Adobes qui ont déjà conquis la mise en oeuvre. Le tutoriel fournit des conseils détaillés à l’intention des nouveaux administrateurs pour gérer le projet d’implémentation de manière interfonctionnelle et configurer des paramètres techniques indépendamment. Des rubriques sélectives accompagnent également les listes de contrôle et les modèles téléchargeables pour vous permettre de personnaliser selon vos besoins, sans partir de rien. Explorons la sagesse de vos pairs !
 
 ## Rubriques et informations que vous apprenez
 
@@ -50,7 +50,7 @@ Cette série _Implémentation d’une nouvelle instance Tips and Tricks_ est la 
   *Découvrez comment configurer une bonne organisation dans votre instance de Marketo Engage, ce qui permet aux futurs spécialistes du marketing de votre entreprise de parcourir facilement les programmes, de modifier les ressources et d’extraire des rapports.*
 <br>
 
-* [Concevoir un marketing conversationnel omnicanal avec Dynamic Chat](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
+* [Concevoir un marketing conversationnel omnicanal avec Dynamic Chat](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
   *Commencez rapidement à concevoir du marketing conversationnel avec Adobe Dynamic Chat, le canal d’engagement conversationnel natif de Adobe Marketo Engage. Ce tutoriel propose des recettes pratiques pour mettre en oeuvre des cas d’utilisation tels que la réservation de réunions de vente, l’engagement dans le contenu du site web et les événements/promotions de webinaires.*
 <br>
 
