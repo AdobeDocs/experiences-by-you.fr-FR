@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
+source-git-commit: 28036f785b1901088a9b5a04e88f43f031257161
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 1%
@@ -61,3 +61,4 @@ Cette série &quot;Implémentation d’une nouvelle instance Tips and Tricks&quo
 
 * [Mise en oeuvre d’une nouvelle instance de Marketo Engage avec des listes de contrôle des bonnes pratiques](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *Chaque liste de contrôle fournit des étapes importantes pour vous permettre de suivre l’avancement de votre configuration. Utilisez les listes de contrôle téléchargeables pour documenter votre travail en cours de route pour les futurs audits d&#39;instances et l&#39;intégration des utilisateurs.*
+
