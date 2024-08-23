@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 28036f785b1901088a9b5a04e88f43f031257161
+source-git-commit: b7e6c53ba2f2345e72f5028472d46596e6c41f58
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Bienvenue dans l’Adobe [!DNL Marketo Engage] ! La configuration d’une nouvelle instance est la première étape de la mise à niveau de votre stratégie marketing numérique avec l’automatisation du marketing. La clé d&#39;une mise en oeuvre [!DNL Marketo Engage] réussie est la documentation.
 
-Cette série &quot;Implémentation d’une nouvelle instance Tips and Tricks&quot; provient des champions [!DNL Marketo Engage] Adobes qui ont déjà conquis la mise en oeuvre. Le tutoriel fournit des conseils détaillés à l’intention des nouveaux administrateurs pour gérer le projet d’implémentation de manière interfonctionnelle et configurer des paramètres techniques indépendamment. Des rubriques sélectives accompagnent également les listes de contrôle et les modèles téléchargeables pour vous permettre de personnaliser selon vos besoins, sans partir de rien. Explorons la sagesse de vos pairs !
+Cette série &quot;Implémentation d’une nouvelle instance - Conseils et astuces&quot; provient des champions [!DNL Marketo Engage] d’Adobe qui ont déjà conquis l’implémentation. Le tutoriel fournit des conseils détaillés à l’intention des nouveaux administrateurs pour gérer le projet d’implémentation de manière interfonctionnelle et configurer des paramètres techniques indépendamment. Des rubriques sélectives accompagnent également les listes de contrôle et les modèles téléchargeables pour vous permettre de personnaliser selon vos besoins, sans partir de rien. Explorons la sagesse de vos pairs !
 
 ## Rubriques et informations que vous apprenez
 
