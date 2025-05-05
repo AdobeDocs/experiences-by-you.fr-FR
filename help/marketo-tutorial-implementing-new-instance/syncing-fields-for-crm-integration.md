@@ -60,6 +60,7 @@ En règle générale, la bonne pratique consiste à synchroniser uniquement les 
    * Deuxième colonne : Noms des API du Marketo Engage
    * Troisième colonne : [Type de champ de Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} (booléen, devise, date, etc.)
    * Dans les colonnes suivantes, répétez l’opération pour les types d’objets CRM (prospect, contact, compte, opportunité) avec une colonne supplémentaire pour le niveau d’accès que vous souhaitez que le Marketo Engage ait (c.-à-d. Lecture, Écriture, Modification).
+
   <br>
 
   Voici un exemple de ce à quoi il ressemblerait :

@@ -65,7 +65,7 @@ Vous pouvez créer une communauté autonome au sein de votre organisation. Voici
 
 ## 3. Utilisez les outils pour commencer à créer votre communauté.
 
-* [Créez une charte de projet](assets/[!DNL Adobe]-[!DNL Analytics]-Empower-Community-Project-Charter-Template.pptx) (téléchargement de modèle) :
+* [Créez une charte de projet] (assets/[!DNL Adobe]-[!DNL Analytics]-Empower-Community-Project-Charter-Template.pptx) (téléchargement de modèle) :
 
   Une charte de projet est souvent un excellent moyen d&#39;aligner votre entreprise sur l&#39;opportunité d&#39;une communauté interne et responsabilisée. En répondant aux questions suivantes, vous avez ce dont vous avez besoin pour rédiger votre charte :
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Au fur et à mesure que vous mettez en service une nouvelle instance [!DNL Marketo Engage], il est temps de mettre à disposition les équipes concernées pour tirer parti de [!DNL Marketo Engage] pour leurs tâches.
 
-Ces bonnes pratiques d’intégration et de formation internes ont été fournies par Naomi Liu, une cliente de Adobe Marketo Engage, partage [ ](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} et les [bonnes pratiques de formation](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank} dérivées de son expérience dans la mise en oeuvre d’une nouvelle instance pour les équipes globales d’Electronics for Imaging. Suivez ses conseils pour élaborer un plan de formation efficace pour vos équipes internes.
+Ces bonnes pratiques d’intégration et de formation internes ont été fournies par Naomi Liu, une cliente de Adobe Marketo Engage, partage [&#128279;](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} et les [bonnes pratiques de formation](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank} dérivées de son expérience dans la mise en oeuvre d’une nouvelle instance pour les équipes globales d’Electronics for Imaging. Suivez ses conseils pour élaborer un plan de formation efficace pour vos équipes internes.
 
 ## Pourquoi développer un plan d’intégration interne lorsque vous mettez en oeuvre la nouvelle instance ?
 

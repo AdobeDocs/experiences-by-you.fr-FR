@@ -60,7 +60,7 @@ Vous vous dites peut-être : &quot;Ok, mais j&#39;ai déjà les options &quot;N&
 
 ![ Figure2-DanceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*Comme ci-dessus, chaque accès à l’intérieur de la **visite**est évalué avec le même vrai/faux. Cependant, le jeu de données renvoyé est celui de la visite entière.*
+*Comme ci-dessus, chaque accès à l’intérieur de la **visite**&#x200B;est évalué avec le même vrai/faux. Cependant, le jeu de données renvoyé est celui de la visite entière.*
 
 - Sur chaque accès &quot;Valeur&quot; ne contient pas &quot;Exemple&quot; (oui), par conséquent renvoie true ; de même, &quot;Exemple&quot; ne contient pas &quot;Exemple&quot; (non, il le contient), et renvoie false.
    - Si l’accès **n’importe quel** de la visite renvoie **true**, alors la **visite complète** est renvoyée.*
@@ -76,7 +76,7 @@ Vous vous dites peut-être : &quot;Ok, mais j&#39;ai déjà les options &quot;N&
 
 ![ Figure3-DanceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*Comme ci-dessus, chaque accès effectué par le **visiteur**sera évalué avec la même logique true/false. Maintenant, nous examinons tous les accès effectués par ce visiteur, pour toutes les visites (au cours de la période sélectionnée).*
+*Comme ci-dessus, chaque accès effectué par le **visiteur**&#x200B;sera évalué avec la même logique true/false. Maintenant, nous examinons tous les accès effectués par ce visiteur, pour toutes les visites (au cours de la période sélectionnée).*
 
 - Sur chaque accès &quot;Valeur&quot; ne contient pas &quot;Exemple&quot; (oui), par conséquent renvoie true ; de même, &quot;Exemple&quot; ne contient pas &quot;Exemple&quot; (non, il le contient), et renvoie false.
    - Si l’accès **n’importe quel** effectué par le visiteur renvoie **true**, alors la **visite complète** est renvoyée.

@@ -28,7 +28,7 @@ Comme beaucoup d&#39;administrateurs, je gère un centre d&#39;informations inte
 
 J&#39;ai remarqué que les utilisateurs ignoraient souvent mes références au site de Confluence, avec des raisons comme &quot;Mon VPN est désactivé&quot;, ou &quot;Je ne peux pas le lire maintenant&quot;, etc. En gros, &quot;Je lirai ce document plus tard&quot; signifie qu&#39;il ne sera jamais lu, et la même question sera posée la semaine prochaine.
 
-***Accès de réalisation :**La polyvalence du Workspace peut changer le jeu. Les utilisateurs préfèrent des réponses rapides et directes dans Workspace, donc restons-les là-bas pour éviter des étapes supplémentaires.*
+***Accès de réalisation :**&#x200B;La polyvalence du Workspace peut changer le jeu. Les utilisateurs préfèrent des réponses rapides et directes dans Workspace, donc restons-les là-bas pour éviter des étapes supplémentaires.*
 
 J&#39;ai continué et j&#39;ai créé des tableaux de bord opérationnels pour partager l&#39;ensemble de l&#39;entreprise. Jusqu&#39;à présent, ils ont tenu les utilisateurs informés, centralisé l&#39;information et réduit les frustrations. Ce processus a été facile et évolutif, ce qui a stimulé l&#39;efficacité au fil du temps.
 
