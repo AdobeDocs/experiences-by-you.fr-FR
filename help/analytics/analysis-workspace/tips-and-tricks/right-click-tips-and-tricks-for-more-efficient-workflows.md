@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Voici 7 conseils contextuels que vous pouvez utiliser dans Analysis Workspace pour optimiser vos workflows. Vous pouvez les lire dans le texte ci-dessous ou regarder la vidéo pour les voir démontrés.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417736/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422278/?quality=12&learn=on&captions=fre_fr)
 
 Voici 7 conseils contextuels que vous pouvez utiliser dans Analysis Workspace pour optimiser vos workflows :
 

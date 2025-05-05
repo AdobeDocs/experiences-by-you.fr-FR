@@ -27,7 +27,7 @@ Le fait de rester organisé dans votre instance vous permet, ainsi qu’à vos c
 
 ## Organisation d’une instance de Marketo Engage
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422762/?quality=12&learn=on&captions=fre_fr)
 
 ### Étape 1 - Configuration d’une structure de dossiers pour mettre vos programmes en ordre
 

@@ -22,7 +22,7 @@ ht-degree: 22%
 
 Suivez ce tutoriel détaillé pour créer votre premier programme d’engagement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452681/?learn=on&captions=fre_fr){transcript=true}
 
 ## Ressources supplémentaires :
 

@@ -22,7 +22,7 @@ ht-degree: 27%
 
 Découvrez la navigation dans l’interface utilisateur et familiarisez-vous avec la plateforme [!DNL Marketo Engage].
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450675/?learn=on&captions=fre_fr){transcript=true}
 
 ## Ressources supplémentaires
 

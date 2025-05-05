@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Découvrez comment parcourir la section [!DNL Analytics] et Base de données pour extraire différents rapports d&#39;usine dans [!DNL Marketo Engage].
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446422/?learn=on&captions=fre_fr){transcript=true}
 
 ## Ressources supplémentaires
 

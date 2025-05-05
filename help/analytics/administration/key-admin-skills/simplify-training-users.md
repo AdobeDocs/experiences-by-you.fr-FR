@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Conseils et astuces pour simplifier et consacrer moins de temps à la formation des utilisateurs
 
->[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341105/?quality=12&learn=on&captions=fre_fr)
 
 Il est essentiel de veiller à ce que les utilisateurs professionnels de votre entreprise soient bien formés sur [!DNL Adobe Analytics] pour contribuer à bâtir une culture de prise de décision orientée sur les données. Les utilisateurs qui peuvent facilement trouver des informations dans [!DNL Adobe Analytics] peuvent répondre seuls à des questions simples, ce qui leur permet de disposer de plus de temps pour répondre à des questions difficiles. Le partage de vos connaissances contribue à la démocratie des données et permet aux utilisateurs professionnels d’être plus indépendants dans la prise de décisions basées sur les performances.
 

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 # AEM Conseils et astuces concernant le champion : Session 2
 
->[!VIDEO](https://video.tv.adobe.com/v/3409427?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439839?quality=12&learn=on&captions=fre_fr)

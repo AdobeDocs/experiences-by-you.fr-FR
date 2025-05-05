@@ -24,4 +24,4 @@ ht-degree: 81%
 
 Les workflows, une puissante fonctionnalité [!DNL Adobe] [!DNL Campaign], vous aident à gérer les campagnes et à atteindre vos clients sans effort. Découvrez et appliquez cinq bonnes pratiques essentielles relatives aux workflows pour les spécialistes marketing par Adam Wilson, directeur adjoint du service marketing, chez LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448122?quality=12&learn=on&captions=fre_fr){transcript=true}

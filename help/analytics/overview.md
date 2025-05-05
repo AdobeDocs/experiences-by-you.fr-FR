@@ -32,7 +32,7 @@ La chose la plus puissante à propos des solutions [!DNL Adobe Experience Cloud]
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe Analytics] Conseils et astuces" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] Conseils et astuces" src="https://video.tv.adobe.com/v/3422278?format=jpeg&captions=fre_fr" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
@@ -45,7 +45,7 @@ La chose la plus puissante à propos des solutions [!DNL Adobe Experience Cloud]
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Traduire le langage technique [!DNL Adobe Analytics] de manière non technique" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
+      <img alt="Traduire le langage technique [!DNL Adobe Analytics] de manière non technique" src="https://video.tv.adobe.com/v/345323?format=jpeg&captions=fre_fr" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">

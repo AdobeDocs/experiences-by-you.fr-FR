@@ -49,7 +49,7 @@ Voyons ces cas pratiques en action, car Sara présente son processus, depuis la 
 
 Ce dialogue fournit cinq options initiales parmi lesquelles les visiteurs du site peuvent choisir, ce qui crée une expérience autonome qui les aide à trouver les informations dont ils ont besoin en fonction de leur personnage. Pour commencer, vous pouvez explorer votre boîte de réception de courrier électronique &quot;Nous contacter&quot; afin d’identifier les thèmes communs et de les classer dans les options de dialogue qui s’appliquent aux visiteurs de votre site. Regardez la démonstration et suivez les étapes ci-dessous pour créer votre dialogue fourre-tout par défaut :
 
->[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454849/?learn=on&captions=fre_fr)
 
 >[!BEGINTABS]
 

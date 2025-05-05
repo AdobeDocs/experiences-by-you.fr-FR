@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Asseoir à la table
 
->[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345313/?quality=12&learn=on&captions=fre_fr)
 
 &quot;Asseyez-vous à la table.&quot; Cette expression populaire est un sujet brûlant dans le monde des affaires depuis des années maintenant. Mais qu&#39;est-ce que cela signifie ? Obtenir un siège à la table signifie que vous êtes inclus dans les conversions décisionnelles de haut niveau. Vous êtes non seulement invité, mais votre contribution est appréciée et appréciée. Je vais vous montrer comment gagner un siège à la table aidera votre entreprise et votre carrière en tant qu&#39;utilisateur expérimenté [!DNL Adobe Analytics], que votre rôle officiel soit celui d&#39;administrateur, d&#39;analyste de données ou autre chose que votre carte de visite indique.
 

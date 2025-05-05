@@ -21,4 +21,4 @@ ht-degree: 54%
 
 Découvrez des informations inestimables de Wilson Faure, expert AEM. Dans cette vidéo, il présente des stratégies et des conseils essentiels pour optimiser la transition après la migration. Vous saurez clairement sur quoi vous concentrer dans les jours et les semaines qui suivent votre migration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428309/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446601/?learn=on&captions=fre_fr)

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Utilisation transversale
 
->[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345452/?quality=12&learn=on&captions=fre_fr)
 
 Le parcours de [!DNL Adobe Analytics] commence avec une bonne mise en oeuvre. Nous connaissons tous le proverbe &quot;poubelles dedans, poubelles dehors&quot;. Pour éliminer toute mise en oeuvre de type &quot;ordures&quot;, les administrateurs doivent surveiller tous les détails des données introduites dans le système. Cela dit, la stratégie de collecte de données est influencée par de nombreux acteurs de l’organisation avec lesquels un administrateur devra travailler jour et jour après jour.
 
