@@ -23,7 +23,7 @@ En tant qu’administrateur mettant en oeuvre une nouvelle instance de Marketo E
 
 ## Pourquoi la structure des dossiers et l’application des conventions d’affectation des noms sont-elles nécessaires ?
 
-Le fait de rester organisé dans votre instance vous permet, ainsi qu’à vos collègues, de suivre facilement les campagnes, les programmes et les ressources et de générer des rapports sur les performances du programme. Pour organiser l’arborescence de navigation dans votre instance et la créer à l’échelle, il est recommandé d’utiliser [dossiers](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [conventions d’affectation de noms standard](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} et des fonctionnalités telles que le [clonage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+Le fait de rester organisé dans votre instance vous permet, ainsi qu’à vos collègues, de suivre facilement les campagnes, les programmes et les ressources et de générer des rapports sur les performances du programme. Pour organiser l’arborescence de navigation dans votre instance et la créer à l’échelle, il est recommandé d’utiliser [dossiers](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [conventions d’affectation de noms standard](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} et des fonctionnalités telles que le [clonage](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
 
 ## Organisation d’une instance de Marketo Engage
 
@@ -31,7 +31,7 @@ Le fait de rester organisé dans votre instance vous permet, ainsi qu’à vos c
 
 ### Étape 1 - Configuration d’une structure de dossiers pour mettre vos programmes en ordre
 
-La première étape pour organiser votre instance consiste à [configurer une structure de dossiers](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) hébergeant votre programme et vos ressources de manière facile à trouver et ordonnée.
+La première étape pour organiser votre instance consiste à [configurer une structure de dossiers](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=fr) hébergeant votre programme et vos ressources de manière facile à trouver et ordonnée.
 
 Voici quelques conseils rapides pour structurer les dossiers dans l’arborescence :
 

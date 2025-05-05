@@ -42,8 +42,8 @@ Cette série &quot;Implémentation d’une nouvelle instance - Conseils et astuc
 
 * [Synchronisation des champs pour les connecteurs CRM natifs](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *Découvrez comment rationaliser votre intégration CRM initiale en sélectionnant stratégiquement les champs CRM essentiels à utiliser par le Marketo Engage. Effectuez l’exercice du dictionnaire de données pour identifier les champs dont vous avez besoin pour une synchronisation CRM fluide qui aide les équipes de vente et de marketing à rester alignées.*
-   * [Prise en main de la synchronisation Salesforce](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
-   * [Prise en main de la synchronisation Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
+   * [Prise en main de la synchronisation Salesforce](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
+   * [Prise en main de la synchronisation Microsoft Dynamics](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
 <br>
 
 * [Organisation d’une nouvelle instance et établissement de conventions d’affectation de nom](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -59,6 +59,6 @@ Cette série &quot;Implémentation d’une nouvelle instance - Conseils et astuc
 
 ## Ressources supplémentaires
 
-* [Mise en oeuvre d’une nouvelle instance de Marketo Engage avec des listes de contrôle des bonnes pratiques](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
+* [Mise en oeuvre d’une nouvelle instance de Marketo Engage avec des listes de contrôle des bonnes pratiques](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *Chaque liste de contrôle fournit des étapes importantes pour vous permettre de suivre l’avancement de votre configuration. Utilisez les listes de contrôle téléchargeables pour documenter votre travail en cours de route pour les futurs audits d&#39;instances et l&#39;intégration des utilisateurs.*
 

@@ -46,7 +46,7 @@ La chose la plus puissante à propos des solutions Experience Cloud [!DNL Adobe]
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="Résolution de problèmes pour les spécialistes du marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Résolution de problèmes pour les spécialistes du marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=fr" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +59,7 @@ La chose la plus puissante à propos des solutions Experience Cloud [!DNL Adobe]
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=fr" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">

@@ -25,4 +25,4 @@ ht-degree: 4%
 + [Mappage visuel de votre tech stack marketing](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [Processus d’assurance qualité préalable au lancement du programme](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
 + [[!DNL Marketo Engage] tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr)
-+ [Retour aux perspectives](https://experienceleague.adobe.com/en/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [Retour aux perspectives](https://experienceleague.adobe.com/fr/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))

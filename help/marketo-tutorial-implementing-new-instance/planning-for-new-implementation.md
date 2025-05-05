@@ -38,7 +38,7 @@ Dans ce tutoriel, nous allons passer en revue les jalons, les engagements de l�
 
 ### Phase 3 - Création de bibliothèque de programmes et configuration de campagne
 
-- Développement de modèles d’email et de landing pages. Commencez par [ importer des programmes de démarrage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) à partir de la [bibliothèque d’importation de programme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Développement de modèles d’email et de landing pages. Commencez par [ importer des programmes de démarrage](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) à partir de la [bibliothèque d’importation de programme](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Configuration de la segmentation et des règles Personalization
 - Création de campagnes initiales pour la génération et la prise en charge de pistes
 

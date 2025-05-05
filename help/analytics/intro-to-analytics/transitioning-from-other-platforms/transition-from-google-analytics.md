@@ -138,7 +138,7 @@ L’autre fonctionnalité puissante des espaces de travail est la possibilité d
 
 >[!IMPORTANT]
 >
->Pour en savoir plus sur l’utilisation des listes déroulantes et des ventilations à structure libre, voir <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>Pour en savoir plus sur l’utilisation des listes déroulantes et des ventilations à structure libre, voir <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=fr>
 
 ##### 2.1.2.2 Google [!DNL Analytics] : tableaux de bord, rapports personnalisés et rapports enregistrés
 
@@ -268,7 +268,7 @@ Cependant, je vous recommande vivement d’utiliser [!DNL Adobe Analytics] et Go
 
 De nombreuses ressources sont disponibles au-delà de ce guide pour vous aider à améliorer votre stratégie :
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home) - Contient des tutoriels, des vidéos, de la documentation et des forums de la communauté
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/fr#home) - Contient des tutoriels, des vidéos, de la documentation et des forums de la communauté
 * [[!DNL Adobe] Groupes d’utilisateurs](https://analytics-augs.adobe.com/) - Un hub d’événements gérés par la communauté pour aider les utilisateurs à se connecter les uns aux autres et améliorer leurs mises en oeuvre.
 * [[!DNL Adobe Analytics] Canal YouTube des groupes d’utilisateurs](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Impossible d’effectuer une session de groupe d’utilisateurs [!DNL Adobe Analytics] ? Regardez les sessions précédentes de groupes d’utilisateurs à travers le monde pour en savoir plus sur l’utilisation de l’outil par vos pairs.
 * [Mesurez le canal du Slack de conversation](https://www.measure.chat/) - Connectez-vous à [!DNL Adobe Analytics] utilisateurs à travers le monde et partagez les leçons du secteur, posez des questions à vos pairs et rejoignez des groupes d’intérêt axés sur les mesures.

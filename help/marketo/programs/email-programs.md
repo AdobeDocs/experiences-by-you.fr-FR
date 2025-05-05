@@ -28,11 +28,11 @@ Suivez ce tutoriel complet dédié à la création d’un programme de messageri
 ## Ressources supplémentaires :
 
 Pour plus d’informations, consultez les guides produit connexes :
-* [Présentation de la documentation sur les programmes de messagerie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Présentation de la documentation sur les programmes de messagerie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=fr)
 
 Visionnez d’autres vidéos pour obtenir de l’aide sur cette fonctionnalité :
-* [Présentation planifiée des emails ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [Parcours des tests AB](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [Présentation planifiée des emails ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=fr)
+* [Parcours des tests AB](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=fr)
 
 Découvrez comment utiliser les programmes de messagerie à partir de vos pairs :
 * [ Article de blog d’experts : Programmes de messagerie électronique](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)

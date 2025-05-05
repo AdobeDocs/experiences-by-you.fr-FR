@@ -28,9 +28,9 @@ L’évaluation de la maturité permet l’évaluation et le respect des normes 
 
 Pour connaître les bonnes pratiques en matière d’administration, de développement ou de création, consultez les ressources suivantes :
 
-* [Meilleures pratiques d&#39;administration](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
-* [Développement de bonnes pratiques](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
-* [Bonnes pratiques de création](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
+* [Meilleures pratiques d&#39;administration](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=fr)
+* [Développement de bonnes pratiques](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=fr)
+* [Bonnes pratiques de création](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=fr)
 
 Chacun de ces domaines de bonnes pratiques ci-dessus inclut également d’autres bonnes pratiques pour la création, le développement et le déploiement d’AEM.
 

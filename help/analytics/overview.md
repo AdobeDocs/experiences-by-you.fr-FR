@@ -58,7 +58,7 @@ La chose la plus puissante à propos des solutions [!DNL Adobe Experience Cloud]
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="Créer des conventions d’affectation de noms normalisées" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
+      <img alt="Créer des conventions d’affectation de noms normalisées" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=fr" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">

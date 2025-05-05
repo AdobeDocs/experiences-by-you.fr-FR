@@ -39,7 +39,7 @@ Vous pouvez créer une communauté autonome au sein de votre organisation. Voici
 
 * Présentation de l’implémentation :
 
-  En règle générale, les utilisateurs doivent posséder une connaissance de base des besoins commerciaux pris en charge par leur mise en oeuvre, qui sont généralement capturés par l’intermédiaire d’un [ document sur les besoins de l’entreprise ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) et d’un [document de référence sur la conception de solution](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR). Ces exigences doivent inclure ce qui a été mis en oeuvre et définir les besoins de l’entreprise, les rapports, les eVars, les événements, etc., par catégorie.
+  En règle générale, les utilisateurs doivent posséder une connaissance de base des besoins commerciaux pris en charge par leur mise en oeuvre, qui sont généralement capturés par l’intermédiaire d’un [ document sur les besoins de l’entreprise ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=fr) (BRD) et d’un [document de référence sur la conception de solution](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=fr) (SDR). Ces exigences doivent inclure ce qui a été mis en oeuvre et définir les besoins de l’entreprise, les rapports, les eVars, les événements, etc., par catégorie.
 
 * Utiliser des modèles de rapport :
 
@@ -115,4 +115,4 @@ La mise en place et le maintien d&#39;une communauté forte est un travail énor
 
 * Développement de carrière : une communauté plus forte place de nombreuses équipes d&#39;analystes de la réactivité et de la tactique à la prescription et à la stratégie. Cela ouvre des possibilités de développement de carrière à l’équipe de projet d’administration de votre communauté.
 
-Si vous disposez d’un groupe d’utilisateurs [!DNL Adobe Analytics] interne ou d’une &quot;communauté&quot; plus formelle, ou que vous travaillez à en former un, nous aimerions entendre votre histoire au sein de l’ [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions) !
+Si vous disposez d’un groupe d’utilisateurs [!DNL Adobe Analytics] interne ou d’une &quot;communauté&quot; plus formelle, ou que vous travaillez à en former un, nous aimerions entendre votre histoire au sein de l’ [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=fr) !

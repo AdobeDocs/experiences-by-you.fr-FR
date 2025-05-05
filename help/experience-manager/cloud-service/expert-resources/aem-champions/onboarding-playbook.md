@@ -33,4 +33,4 @@ Consultez ces conseils de votre collègue responsable technique, Rakesh Pasupule
 
 ## Ressources supplémentaires {#additional-resources}
 
-* [Parcours d’intégration d’AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html) - Guide détaillé destiné à un nouvel administrateur système afin qu’il approvisionne initialement les ressources cloud et affecte les utilisateurs à des rôles en fonction de leurs responsabilités professionnelles, de sorte que chaque membre de l’équipe puisse se connecter et accéder à ses nouvelles ressources AEM as a Cloud Service
+* [Parcours d’intégration d’AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html?lang=fr) - Guide détaillé destiné à un nouvel administrateur système afin qu’il approvisionne initialement les ressources cloud et affecte les utilisateurs à des rôles en fonction de leurs responsabilités professionnelles, de sorte que chaque membre de l’équipe puisse se connecter et accéder à ses nouvelles ressources AEM as a Cloud Service
