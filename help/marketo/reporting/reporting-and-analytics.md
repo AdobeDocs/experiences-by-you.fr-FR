@@ -27,7 +27,7 @@ Découvrez comment parcourir la section [!DNL Analytics] et Base de données pou
 ## Ressources supplémentaires
 
 * **Documentation produit**
-Découvrez les différents rapports que vous pouvez extraire - [Présentation du reporting](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=fr&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+Découvrez les différents rapports que vous pouvez extraire - [Présentation du reporting](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=fr&sdid=M7K4SLTS&mv=email&mv2=instreml)
 
 * **Publication de blog d’experts**
 Apprenez de la championne Chelsea Kiko sur la création de divers rapports - [Reporting dans Divers [!DNL Marketo Engage] espaces](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

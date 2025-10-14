@@ -34,7 +34,7 @@ Avant de commencer, téléchargez le [modèle Journal des erreurs de synchronisa
 
 **Étape 1 :** Accédez à la *[!UICONTROL section Admin]* dans [!DNL Marketo Engage]. Sous *[!UICONTROL Intégration]*, cliquez sur *[!DNL Salesforce]*, *[!DNL Microsoft Dynamics]* ou *[!DNL Veeva]*, en fonction de l’élément [!DNL CRM] que vous utilisez, puis sur l’onglet *[!UICONTROL Erreurs de synchronisation]*.
 
-**Étape 2 :** Vous pouvez choisir [ d&#39;exporter les enregistrements des erreurs sous la forme d&#39;un fichier  [!DNL CSV] par le biais du [!UICONTROL panneau de filtre]](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=fr#filter-sync-errors){target="_blank"}. Si vous ne disposez que de quelques heures, vous pouvez choisir de copier et coller directement à partir de l’onglet *[!UICONTROL Erreurs de synchronisation]*.
+**Étape 2 :** Vous pouvez choisir [&#x200B; d&#39;exporter les enregistrements des erreurs sous la forme d&#39;un fichier  [!DNL CSV] par le biais du [!UICONTROL panneau de filtre]](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=fr#filter-sync-errors){target="_blank"}. Si vous ne disposez que de quelques heures, vous pouvez choisir de copier et coller directement à partir de l’onglet *[!UICONTROL Erreurs de synchronisation]*.
 
 **Étape 3 :** Notez la date à laquelle l’erreur s’est produite.
 

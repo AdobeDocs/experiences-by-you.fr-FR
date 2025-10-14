@@ -48,7 +48,7 @@ En tant qu’administrateur, vous devez commencer par vous immerger dans les res
 
 ## Exemple de programme : Rôles de formation internes
 
-Voici un exemple de programme de formation que Naomi Liu vous propose de personnaliser pour vos partenaires commerciaux marketing. Téléchargez l’ [ exemple de programme d’entraînement](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} pour votre personnalisation hors ligne.
+Voici un exemple de programme de formation que Naomi Liu vous propose de personnaliser pour vos partenaires commerciaux marketing. Téléchargez l’ [&#x200B; exemple de programme d’entraînement](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} pour votre personnalisation hors ligne.
 
 | Titre de la session | Objectifs | Méthodes de formation | Attribution des heures |
 |--- |--- |--- |--- |

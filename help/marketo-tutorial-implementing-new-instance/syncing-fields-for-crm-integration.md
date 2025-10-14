@@ -27,7 +27,7 @@ Découvrez comment réaliser cet exercice avec les bonnes pratiques suggérées 
 
 Lors de l&#39;intégration de votre CRM à Marketo Engage, vous n&#39;aurez probablement pas besoin de synchroniser tous vos champs CRM avec Marketo Engage. En étant stratégique par rapport aux champs dont vous avez besoin, vous pouvez aider votre instance de Marketo Engage à traiter le flux de données plus efficacement.
 
-La synchronisation initiale entre votre Marketo Engage et votre système CRM crée automatiquement des associations pour la plupart des champs standard existants (c’est-à-dire email, prénom/nom, entreprise, etc.). De plus, le connecteur synchronise également [ Champs personnalisés](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} pour vos Leads, contacts, comptes et opportunités en créant dans Marketo Engage de nouveaux champs automatiquement mappés à ces champs à partir de votre CRM.
+La synchronisation initiale entre votre Marketo Engage et votre système CRM crée automatiquement des associations pour la plupart des champs standard existants (c’est-à-dire email, prénom/nom, entreprise, etc.). De plus, le connecteur synchronise également [&#x200B; Champs personnalisés](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} pour vos Leads, contacts, comptes et opportunités en créant dans Marketo Engage de nouveaux champs automatiquement mappés à ces champs à partir de votre CRM.
 
 L’identification et l’organisation des champs que vous souhaitez synchroniser à partir de votre CRM avant d’effectuer la synchronisation initiale est une étape essentielle du processus de configuration du connecteur natif. Nous appelons cela un exercice de dictionnaire de données, qui vous aide à minimiser le nombre de champs en double qui sont créés et à faire en sorte que toutes les étapes de recodification suivantes se déroulent aussi facilement que possible. Cet exercice implique généralement l’entrée des équipes marketing et de vente et de votre administrateur CRM pour vous assurer que seuls les champs pertinents sont synchronisés avec votre instance de Marketo Engage.
 
@@ -64,7 +64,7 @@ En règle générale, la bonne pratique consiste à synchroniser uniquement les 
   <br>
 
   Voici un exemple de ce à quoi il ressemblerait :
-  ![ Table du dictionnaire de données ](/help/marketo-tutorial-implementing-new-instance/assets/data_dictionary.png){width="100%" zoomable="yes"}
+  ![&#x200B; Table du dictionnaire de données &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/data_dictionary.png){width="100%" zoomable="yes"}
 
 
 * Ajoutez tout d&#39;abord les champs par défaut qui seront automatiquement mappés pour votre CRM :
@@ -91,7 +91,7 @@ En règle générale, la bonne pratique consiste à synchroniser uniquement les 
 * Créez des champs dans le CRM pour ceux qui existent déjà dans Marketo Engage et mettez à jour le dictionnaire de données avec les noms Display et API du nouveau champ CRM.
 * Effectuez le mappage des champs entre les objets Lead et Contact dans votre CRM ([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}) | [Microsoft Dynamics](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"}). Lorsqu&#39;une piste est convertie en contact, les champs peuvent être consolidés dans un seul champ de Marketo Engage.
 * Assurez-vous que le profil de synchronisation Marketo dispose des privilèges appropriés sur chaque champ, comme indiqué dans le dictionnaire de données :
-   * [ Définition des autorisations de profil dans Salesforce](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions){target="_blank"}
+   * [&#x200B; Définition des autorisations de profil dans Salesforce](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions){target="_blank"}
    * [Définition des autorisations de profil dans Microsoft Dynamics](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft){target="_blank"}
    * [Définition des autorisations de profil dans Veeva](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage#set-profile-permissions){target="_blank"}
 

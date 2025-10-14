@@ -19,7 +19,7 @@ ht-degree: 2%
 
 # Organisation d’une nouvelle instance et établissement de conventions d’affectation de nom
 
-En tant qu’administrateur mettant en oeuvre une nouvelle instance de Marketo Engage, vous définissez les bases permettant aux futurs marketeurs de l’entreprise de naviguer facilement dans l’instance. Familiarisez-vous avec la structure de dossiers de l’arborescence et les conventions d’affectation des noms afin que votre instance reste ordonnée et configurée pour une réussite à long terme. Ce tutoriel comprend des exemples recommandés par Natalie Kremer, championne d’Adobe et de Marketo Engage (2019-2020), pour vous aider à [ organiser les dossiers et nommer les ressources de manière cohérente ](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
+En tant qu’administrateur mettant en oeuvre une nouvelle instance de Marketo Engage, vous définissez les bases permettant aux futurs marketeurs de l’entreprise de naviguer facilement dans l’instance. Familiarisez-vous avec la structure de dossiers de l’arborescence et les conventions d’affectation des noms afin que votre instance reste ordonnée et configurée pour une réussite à long terme. Ce tutoriel comprend des exemples recommandés par Natalie Kremer, championne d’Adobe et de Marketo Engage (2019-2020), pour vous aider à [&#x200B; organiser les dossiers et nommer les ressources de manière cohérente &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
 
 ## Pourquoi la structure des dossiers et l’application des conventions d’affectation des noms sont-elles nécessaires ?
 
@@ -48,7 +48,7 @@ Vous trouverez ci-dessous des exemples de mise en pratique de ces conseils.
 
 >[!TAB Activités marketing]
 
-![ Activités marketing de dossiers ](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
+![&#x200B; Activités marketing de dossiers &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
 
 >[!TAB Design Studio]
 

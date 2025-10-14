@@ -159,7 +159,7 @@ Le tableau Cohorte de Dimension personnalisée met en évidence les produits qui
 1) Product 2
 1) Produit 3 : souvent plus performant avec un taux de rétention plus élevé que la rétention moyenne.
 
-![ Table de cohortes 5](assets/cohort5.png)
+![&#x200B; Table de cohortes 5](assets/cohort5.png)
 
 ## Conclusion
 

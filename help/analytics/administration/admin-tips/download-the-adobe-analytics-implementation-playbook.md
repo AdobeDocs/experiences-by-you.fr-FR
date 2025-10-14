@@ -80,7 +80,7 @@ Il est également recommandé d’utiliser ce document de balisage pour effectue
 
 De cette façon, vos données sont toujours propres, et vous avez une idée claire de votre pourri.
 
-![ Variables et événements - Aperçu](assets/variables-and-events-overview.png)
+![&#x200B; Variables et événements - Aperçu](assets/variables-and-events-overview.png)
 
 ## Onglet Propriétés
 

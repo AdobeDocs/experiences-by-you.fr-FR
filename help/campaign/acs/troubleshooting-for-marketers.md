@@ -50,14 +50,14 @@ Remplacez le type de données du champ de l&#39;activité &quot;Chargement de fi
 **Cause :**
 Cette erreur s’affiche lorsque vous envoyez un email à une adresse, mais que l’email ou tout autre identifiant n’est pas réconcilié avec un profil. Pour envoyer une communication par email, l&#39;email ou l&#39;identifiant doit toujours être associé à un profil.
 
-![ workflow avec activité de réconciliation](/help/_assets/kt-13256/del-persn-error-wf.png)
+![&#x200B; workflow avec activité de réconciliation](/help/_assets/kt-13256/del-persn-error-wf.png)
 
 **Solution :**
 Un identifiant commun doit exister à partir du fichier chargé avec la table des destinataires. Cette clé commune relie le fichier de chargement à la table des destinataires dans l&#39;activité de réconciliation. Les emails ne peuvent pas être envoyés aux enregistrements qui n&#39;existent pas dans la table des destinataires et qui nécessitent cette étape de réconciliation dans le workflow. Ce faisant, vous réconciliez l’activité de chargement de fichier entrant avec un identifiant comme l’ID d’email du profil. Le schéma `nms:recipient` fait référence à la table des profils et la réconciliation des enregistrements entrants avec le profil le rend disponible lors de la préparation des emails.
 
 Reportez-vous à la capture d&#39;écran de l&#39;activité de réconciliation comme illustré ci-dessous.
 
-![ workflow avec détail de réconciliation](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
+![&#x200B; workflow avec détail de réconciliation](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
 En savoir plus sur [reconciliation](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=fr).
 
@@ -82,7 +82,7 @@ Cette erreur peut être résolue de deux manières différentes :
 
 2. Utilisez la méthode d&#39;exclusion JOINS pour sélectionner le champ sur lequel vous souhaitez exclure les enregistrements.
 
-![Erreur du jeu de données de champ commun - Solution ](/help/_assets/kt-13256/dataset-error-solution.png)
+![Erreur du jeu de données de champ commun - Solution &#x200B;](/help/_assets/kt-13256/dataset-error-solution.png)
 
 ## Nom du champ Erreur de suppression
 
@@ -115,7 +115,7 @@ Vous pouvez résoudre cette erreur de trois façons :
 **Cause :**
 Il s’agit d’une erreur courante dans les workflows complexes impliquant un enrichissement ou une autre activité. Cela signifie probablement que certains workflows d’activité ne sont pas correctement enregistrés lors de plusieurs modifications apportées au workflow.
 
-![Erreur de suppression de table temporaire ](/help/_assets/kt-13256/temp-table-dropped-error.png)
+![Erreur de suppression de table temporaire &#x200B;](/help/_assets/kt-13256/temp-table-dropped-error.png)
 
 **Solution :**
 Cette erreur peut se produire de nombreuses façons, il n’existe donc pas de solution simple. S’il s’agit d’un workflow simple, il serait préférable de reconfigurer l’activité. Dans un workflow complexe, il est préférable de copier les activités du workflow dans un nouveau workflow, de les enregistrer et de les réexécuter.

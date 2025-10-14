@@ -48,7 +48,7 @@ Vous vous dites peut-être : &quot;Ok, mais j&#39;ai déjà les options &quot;N&
 
 **Figure 1 : Ne contient pas / n’est pas égal à - Étendue de l’accès**
 
-![ Figure1-DanceVsExclude-Hit](assets/figure1-dnce-vs-exclude-hit.png)
+![&#x200B; Figure1-DanceVsExclude-Hit](assets/figure1-dnce-vs-exclude-hit.png)
 
 *Notez que chaque accès renvoie une valeur true ou false, et que ces valeurs sont inversées entre ne pas exclure et ne pas exclure.*
 
@@ -58,7 +58,7 @@ Vous vous dites peut-être : &quot;Ok, mais j&#39;ai déjà les options &quot;N&
 
 **Figure 2 : Ne contient pas / n’est pas égal - Portée de la visite**
 
-![ Figure2-DanceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
+![&#x200B; Figure2-DanceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
 *Comme ci-dessus, chaque accès à l’intérieur de la **visite**&#x200B;est évalué avec le même vrai/faux. Cependant, le jeu de données renvoyé est celui de la visite entière.*
 
@@ -74,7 +74,7 @@ Vous vous dites peut-être : &quot;Ok, mais j&#39;ai déjà les options &quot;N&
 
 **Figure 3 : Ne contient pas / n’est pas égal - Portée de la visite**
 
-![ Figure3-DanceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
+![&#x200B; Figure3-DanceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
 *Comme ci-dessus, chaque accès effectué par le **visiteur**&#x200B;sera évalué avec la même logique true/false. Maintenant, nous examinons tous les accès effectués par ce visiteur, pour toutes les visites (au cours de la période sélectionnée).*
 
@@ -158,7 +158,7 @@ La portée d’un conteneur est indépendante du parent, comme je l’ai mention
 
 **Figure 2 : Étendue du segment et portée du conteneur**
 
-![ Figure2-SegmentScopeVsContainerScope](assets/figure2-segment-scope-vs-container-scope.png)
+![&#x200B; Figure2-SegmentScopeVsContainerScope](assets/figure2-segment-scope-vs-container-scope.png)
 
 >[!NOTE]
 >
@@ -376,7 +376,7 @@ Comme n&#39;importe quel bon magicien, nous pouvons commencer par chaque tour, c
 
 ### Exemple de segment 6 : visiteurs qui ont passé une commande au cours d’une visite avec une instance sociale payante et excluant les visiteurs qui ont été inscrits à une newsletter
 
-![ Segment6A-VisitorsPurchasingFromPaidSocialWithNoNewsletter](assets/segment-example-6/segment6a-visitors-purchasing-from-paid-social-with-no-newsletter.png)
+![&#x200B; Segment6A-VisitorsPurchasingFromPaidSocialWithNoNewsletter](assets/segment-example-6/segment6a-visitors-purchasing-from-paid-social-with-no-newsletter.png)
 
 Cela me permettra d’identifier les visiteurs qui ont activement effectué un achat au cours d’une visite d’une campagne de médias sociaux, mais qui ne se sont pas inscrits à nos newsletters. Cela permettra à notre équipe marketing d’identifier le groupe d’utilisateurs potentiel à essayer de se convertir pour les newsletters et les emails marketing.
 
