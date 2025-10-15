@@ -78,5 +78,5 @@ La chose la plus puissante à propos des solutions [!DNL Adobe] d’expérience 
 * [Communautés Experience League](https://experienceleaguecommunities.adobe.com/?profile.language=fr)
 * [Documentation Experience Cloud](https://experienceleague.adobe.com/docs/?lang=fr)
 * [Tutoriels Experience Cloud](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr)
-* [business.adobe.com](https://business.adobe.com)
+* [business.adobe.com](https://business.adobe.com/fr)
 

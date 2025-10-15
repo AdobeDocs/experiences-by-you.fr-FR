@@ -81,4 +81,4 @@ La chose la plus puissante à propos des solutions Experience Cloud [!DNL Adobe]
 * Adobe Campaign v8 - [Documentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=fr) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr)
 * Adobe Campaign Classic v7 - [Documentation](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=fr) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr)
 * Adobe Campaign Standard - [Documentation](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=fr) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr)
-* [Informations sur le produit Adobe Campaign](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* [Informations sur le produit Adobe Campaign](https://business.adobe.com/fr/products/campaign/adobe-campaign.html)

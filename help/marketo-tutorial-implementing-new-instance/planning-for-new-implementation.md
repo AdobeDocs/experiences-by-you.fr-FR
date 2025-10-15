@@ -294,7 +294,7 @@ Vous pouvez également télécharger l’exemple pour la modification et le suiv
 >[!NOTE]
 >Les exemples fournis ne reposent pas sur un calendrier de mise en oeuvre réel. Ne vous fiez pas à celles-ci comme une chronologie standard pour votre intégration avec Marketo Engage, car chaque mise en oeuvre est unique, avec des jalons et des exigences différents en fonction des besoins de votre entreprise.
 
-Pour obtenir de l’aide pratique sur l’implémentation et la personnalisation de votre Marketo Engage pour votre instance, contactez l’équipe du compte d’Adobe ou contactez [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide pratique sur l’implémentation et la personnalisation de votre Marketo Engage pour votre instance, contactez l’équipe du compte d’Adobe ou contactez [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
 
 ### Auteur
 

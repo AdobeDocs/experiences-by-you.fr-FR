@@ -180,7 +180,7 @@ En gardant ces informations à l’esprit, nous appliquerons ces conseils aux re
 
 * Téléchargez la feuille de calcul : [Organisation du Marketo Engage et conventions d’affectation de nom](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} pour prendre en charge la création de la structure de dossiers et des conventions d’affectation de nom.
 * Une fois que vous avez déterminé les composants nécessaires dans votre convention d’affectation des noms standard, pensez à créer des formules dans une feuille de calcul Google ou Microsoft Excel. Pour une utilisation ultérieure, il vous suffit de saisir vos valeurs dans la feuille de calcul pour générer vos noms de programme.
-* Une fois que vous vous êtes aligné sur une structure de dossiers globale, il est temps d’analyser les modèles dont vous avez besoin en fonction des cas d’utilisation les plus fréquents et des demandes les plus courantes que votre équipe reçoit. Commencez ensuite à créer votre premier modèle de programme. Lisez la suite pour commencer à utiliser les [modèles de programme Adobe Marketo Engage](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
+* Une fois que vous vous êtes aligné sur une structure de dossiers globale, il est temps d’analyser les modèles dont vous avez besoin en fonction des cas d’utilisation les plus fréquents et des demandes les plus courantes que votre équipe reçoit. Commencez ensuite à créer votre premier modèle de programme. Lisez la suite pour commencer à utiliser les [modèles de programme Adobe Marketo Engage](https://business.adobe.com/fr/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
 
 ### Auteurs
 
