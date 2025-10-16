@@ -77,6 +77,6 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 ## Ressources supplémentaires
 
 * [Nation de Marketo (communautés)](https://nation.marketo.com/)
-* [Documentation Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html)
-* [Tutoriels Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
-* [Informations sur les produits Adobe Marketo Engage](https://business.adobe.com/products/marketo/adobe-marketo.html)
+* [Documentation Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=fr)
+* [Tutoriels Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr)
+* [Informations sur les produits Adobe Marketo Engage](https://business.adobe.com/fr/products/marketo/adobe-marketo.html)

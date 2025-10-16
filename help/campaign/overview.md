@@ -46,7 +46,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="Résolution de problèmes pour les spécialistes du marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Résolution de problèmes pour les spécialistes du marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=fr" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +59,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=fr" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
@@ -81,4 +81,4 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 * Adobe Campaign v8 - [Documentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=fr) / [Tutoriels](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr)
 * Adobe Campaign Classic v7 - [Documentation](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=fr) / [Tutoriels](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr)
 * Adobe Campaign Standard - [Documentation](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=fr) / [Tutoriels](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr)
-* [Informations sur les produits Adobe Campaign](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* [Informations sur les produits Adobe Campaign](https://business.adobe.com/fr/products/campaign/adobe-campaign.html)

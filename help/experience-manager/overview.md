@@ -77,6 +77,6 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 ## Ressources supplémentaires
 
 * [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr)
-* [Documentation Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-* [Tutoriels Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* [Documentation Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr)
+* [Tutoriels Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=fr)
 * [Informations sur les produits Experience Manager](https://business.adobe.com/fr/products/experience-manager/adobe-experience-manager.html)

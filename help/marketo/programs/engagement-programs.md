@@ -28,7 +28,7 @@ Suivez ce tutoriel détaillé pour créer votre premier programme d’engagement
 
 Pour plus d’informations, consultez les guides des produits associés :
 
-* [Documentation sur la Présentation des programmes d’engagement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+* [Documentation sur la Présentation des programmes d’engagement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=fr)
 
 Apprenez de vos pairs à utiliser les programmes d’engagement :
 
