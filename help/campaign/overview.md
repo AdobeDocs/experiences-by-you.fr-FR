@@ -33,7 +33,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="Bonnes pratiques relatives aux workflows pour les professionnels du marketing" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="Bonnes pratiques relatives aux workflows pour les professionnels du marketing" src="https://video.tv.adobe.com/v/3448122?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">

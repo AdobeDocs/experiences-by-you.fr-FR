@@ -22,7 +22,7 @@ ht-degree: 22%
 
 Suivez ce tutoriel complet dédié à la création d’un programme de messagerie à l’aide d’un test A/B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453369/?captions=fre_fr&learn=on){transcript=true}
 
 
 ## Ressources supplémentaires :

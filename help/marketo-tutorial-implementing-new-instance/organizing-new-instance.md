@@ -27,7 +27,7 @@ Lorsque vous restez organisé dans votre instance, vous et vos collègues pouvez
 
 ## Organisation d’une instance Marketo Engage
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422762/?captions=fre_fr&quality=12&learn=on)
 
 ### Étape 1 - Configurer une structure de dossiers pour mettre vos programmes en ordre
 
