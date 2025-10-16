@@ -38,7 +38,7 @@ Vous indiquerez également si vous pensez que l’utilisation d’un eVar, d’u
 
 Enfin, la colonne État de l’implémentation servira à vérifier l’état d’avancement des ajouts à votre site.
 
-![ Document des exigences commerciales ](assets/brd-template.png)
+![&#x200B; Document des exigences commerciales &#x200B;](assets/brd-template.png)
 
 ## Onglet Carte des variables (document de balisage/SDR)
 
@@ -116,6 +116,6 @@ Ce document a été coécrit par :
 Christel Guidon, responsable de la plateforme Digital [!DNL Analytics] chez NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
+![&#x200B; Rachel Fenwick &#x200B;](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, conseillère principale chez [!DNL Adobe]
