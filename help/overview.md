@@ -78,5 +78,5 @@ Ce qui est le plus puissant dans les solutions d’expérience digitale (DX) [!D
 * [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=fr)
 * [Documentation Experience Cloud](https://experienceleague.adobe.com/docs/?lang=fr)
 * [Tutoriels sur Experience Cloud](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr)
-* [business.adobe.com](https://business.adobe.com)
+* [business.adobe.com](https://business.adobe.com/fr)
 
