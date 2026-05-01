@@ -23,4 +23,4 @@ Hériter d’une instance de [!DNL Marketo Engage] peut être une période stres
 
 Dans ce tutoriel, nous vous guiderons à travers les sections les plus importantes de [!DNL Marketo Engage], y compris Admin, Activités marketing, Design Studio et Base de données, et vous donnerons des conseils sur l’audit et l’optimisation tout au long du processus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453024/?captions=fre_fr&learn=on)
