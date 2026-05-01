@@ -47,7 +47,7 @@ Créez un diagramme « État futur » qui peut être utilisé lors de la présen
 
 Créez une version technique qui affiche des détails tels que le nom d&#39;utilisateur de l&#39;API pour chaque intégration, une brève description du type de données transmises à [!DNL Marketo Engage] ou extraites de [!DNL Marketo Engage], ainsi qu&#39;un diagramme détaillé de tous les flux et déclencheurs de middleware. Voici un exemple :
 
-![Version technique ](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
+![Version technique &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
 ## Quelle est la prochaine étape ?
@@ -127,9 +127,9 @@ Voici quelques outils que vous pouvez utiliser : draw.io (Google Docs), [!DNL Ad
 [!DNL Adobe] Champion Marketo (2019)
 *Partenaire client senior chez Etumos*
 
-![ Kelly Jo Horton ](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
+![&#x200B; Kelly Jo Horton &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
 
 **Amy Chiu**
 *Responsable marketing, adoption et rétention,[!DNL Adobe]*
 
-![ Amy Chiu ](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![&#x200B; Amy Chiu &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
