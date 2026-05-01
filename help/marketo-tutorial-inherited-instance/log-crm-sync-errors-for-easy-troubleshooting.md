@@ -1,6 +1,6 @@
 ---
-title: Enregistrer les erreurs de synchronisation CRM pour faciliter le dépannage
-description: Découvrez comment utiliser un journal des erreurs de synchronisation CRM pour étudier les problèmes de synchronisation CRM et le maintenir en bon état.
+title: Consigner les erreurs de synchronisation CRM pour faciliter le dépannage
+description: Découvrez comment utiliser un journal des erreurs de synchronisation CRM pour examiner les problèmes de synchronisation CRM et assurer son bon fonctionnement.
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
@@ -9,56 +9,55 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
-hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
 
-# Enregistrer les erreurs de synchronisation CRM pour le dépannage
+# Consigner les erreurs de synchronisation CRM pour le dépannage
 
-En tant qu&#39;administrateur [!DNL Marketo Engage], vérifier si votre instance est synchronisée avec votre CRM doit être un élément clé de votre [routine quotidienne](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. Bien que la [section des notifications](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=fr){target="_blank"} (la trouve dans le coin supérieur droit de votre interface [!DNL Marketo Engage]) soit l’endroit où vous allez commencer à rechercher et à étudier les problèmes de synchronisation fréquents, il existe une astuce qui peut vous aider à gérer l’intégrité de l’instance de manière organisée. [!DNL Adobe] Champion Marketo (2019-2022), Amy Goldfine recommande aux utilisateurs administrateurs de conserver un journal des erreurs de synchronisation CRM afin de faciliter le dépannage.
+En tant qu’administrateur [!DNL Marketo Engage], la vérification de la synchronisation de votre instance avec votre CRM doit être un élément clé de votre [routine quotidienne](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. Bien que la [section Notifications](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (localisez-la dans le coin supérieur droit de votre interface [!DNL Marketo Engage]) soit l’endroit où vous commencerez à trouver et à étudier les problèmes de synchronisation fréquents, il existe une astuce pro qui pourrait vous aider à gérer l’intégrité de l’instance de manière organisée. [!DNL Adobe] Championne Marketo (2019-2022), Amy Goldfine recommande aux utilisateurs administrateurs de tenir un journal des erreurs de synchronisation CRM pour faciliter la résolution des problèmes.
 
 ![Capture d’écran de l’onglet Erreurs de synchronisation](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
 ## Pourquoi conserver un enregistrement des erreurs de synchronisation CRM ?
 
-En enregistrant les erreurs de synchronisation CRM, les administrateurs [!DNL Marketo Engage] peuvent examiner les problèmes et tendances avec les administrateurs CRM pour résoudre la cause principale. Suivez les étapes ci-dessous pour documenter les problèmes de synchronisation CRM pour votre instance.
+En consignant les erreurs de synchronisation CRM, les administrateurs [!DNL Marketo Engage] peuvent examiner les problèmes et les tendances avec les administrateurs CRM pour résoudre la cause première. Suivez les étapes ci-dessous pour documenter vos problèmes de synchronisation CRM pour votre instance.
 
 ## Comment conserver un journal des erreurs de synchronisation CRM
 
-Avant de commencer, téléchargez le [modèle Journal des erreurs de synchronisation CRM](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx).
+Avant de commencer, téléchargez le modèle de journal [Erreurs de synchronisation CRM](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx).
 
-**Étape 1 :** Accédez à la *[!UICONTROL section Admin]* dans [!DNL Marketo Engage]. Sous *[!UICONTROL Intégration]*, cliquez sur *[!DNL Salesforce]*, *[!DNL Microsoft Dynamics]* ou *[!DNL Veeva]*, en fonction de l’élément [!DNL CRM] que vous utilisez, puis sur l’onglet *[!UICONTROL Erreurs de synchronisation]*.
+**Étape 1 :** accédez à la section *[!UICONTROL Admin]* dans [!DNL Marketo Engage]. Sous *[!UICONTROL Intégration]*, cliquez sur *[!DNL Salesforce]*, *[!DNL Microsoft Dynamics]* ou *[!DNL Veeva]*, selon le [!DNL CRM] utilisé, puis sur l’onglet *[!UICONTROL Erreurs de synchronisation]*.
 
-**Étape 2 :** Vous pouvez choisir [&#x200B; d&#39;exporter les enregistrements des erreurs sous la forme d&#39;un fichier  [!DNL CSV] par le biais du [!UICONTROL panneau de filtre]](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=fr#filter-sync-errors){target="_blank"}. Si vous ne disposez que de quelques heures, vous pouvez choisir de copier et coller directement à partir de l’onglet *[!UICONTROL Erreurs de synchronisation]*.
+**Étape 2 :** vous pouvez choisir d’[exporter les enregistrements d’erreurs sous forme  [!DNL CSV]  fichier via le panneau [!UICONTROL Filtrer]](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}. Si vous ne disposez que de quelques heures, il est recommandé de copier et coller directement à partir de l’onglet *[!UICONTROL Erreurs de synchronisation]*.
 
 **Étape 3 :** Notez la date à laquelle l’erreur s’est produite.
 
-**Étape 4 :** Saisissez le nombre d’enregistrements de personne concernés par cette erreur. (Parfois, votre CRM ne génère une erreur que pour une seule personne. Parfois, il y aura beaucoup de gens avec la même erreur à la fois.)
+**Étape 4 :** saisissez le nombre d’enregistrements de personne affectés par cette erreur. (Parfois, votre CRM ne renvoie une erreur que pour une seule personne. Parfois, il y aura plusieurs personnes avec la même erreur à la fois.)
 
-**Étape 5 :** Notez l’adresse électronique d’une personne affectée par l’erreur. Cela facilite la référence et la discussion des erreurs avec l&#39;administrateur CRM.
+**Étape 5 :** notez l’adresse e-mail d’une personne affectée par l’erreur. Vous pouvez ainsi facilement référencer les erreurs et en discuter avec l’administrateur CRM.
 
-**Étape 6 :** Le collage des liens vers l’enregistrement de la personne dans [!DNL Marketo Engage] et l’enregistrement [!UICONTROL Lead/contact CRM] de cette personne.
+**Étape 6 :** coller des liens vers l’enregistrement de personne dans [!DNL Marketo Engage] et [!UICONTROL Lead/Contact CRM] l’enregistrement de cette personne.
 
-**Étape 7 :** Dans la dernière colonne, collez le texte réel de l’erreur.
+**Étape 7 :** dans la dernière colonne, collez le texte réel de l’erreur.
 
-## Quelle est la suite ?
+## Quelle est la prochaine étape ?
 
-**Identifier les codes d’erreur :** Pour comprendre les codes d’erreur, recherchez les descriptions dans la documentation des développeurs [&#128279;](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} et recherchez les étapes suivantes courantes pour résoudre les erreurs.
+**Identifier les codes d’erreur :** pour comprendre les codes d’erreur, consultez les descriptions de la documentation destinée aux développeurs [tableau Codes d’erreur au niveau de la réponse](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} et recherchez les étapes suivantes standard pour résoudre les erreurs.
 
 ## Auteurs
 
 **Amy Goldfine**\
-[!DNL Adobe] Champion Marketo (2019-2022)
-*Fondateur, MarketingOpsAdvisory.com*
+[!DNL Adobe] Champion Marketo(2019-2022)
+*fondateur, MarketingOpsAdvice.com*
 
-![Amy Goldfine](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
+![ Amy Goldfine ](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
 **Amy Chiu**
-*Gestionnaire marketing d’adoption et de rétention à l’adresse[!DNL Adobe]*
+*Responsable marketing Adoption &amp; Rétention chez[!DNL Adobe]*
 
-![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}
+![ Amy Chiu ](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}

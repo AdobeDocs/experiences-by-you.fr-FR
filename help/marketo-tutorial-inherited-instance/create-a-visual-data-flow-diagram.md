@@ -9,9 +9,8 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
-hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 1%
@@ -26,7 +25,7 @@ En tant qu’administrateur prenant en charge une instance [!DNL Marketo Engage]
 
 1. **Familiarisez-vous avec le tech stack marketing hérité d’une instance active.** Tous les responsables des opérations marketing/responsables des opérations de plateforme sont encouragés à effectuer cet exercice lors du démarrage dans une nouvelle entreprise. Ce processus de création permet aux utilisateurs administrateurs d’avoir une vue d’ensemble des données et activités envoyées depuis les intégrations externes vers [!DNL Marketo Engage] et de résoudre facilement les erreurs d’API.
 2. **Familiarisez-vous avec les principales parties prenantes qui gèrent les intégrations externes.** Une astuce que Kelly Jo Horton utilise pour identifier rapidement les parties prenantes est de référencer la liste des utilisateurs d’API.
-   1. **Accédez à l’onglet « Intégration > LaunchPoint » dans la section « Administration ».** En savoir plus sur la navigation vers l’onglet « LaunchPoint » : [Créer un service personnalisé à utiliser avec l’API REST](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=fr){target="_blank"}.
+   1. **Accédez à l’onglet « Intégration > LaunchPoint » dans la section « Administration ».** En savoir plus sur la navigation vers l’onglet « LaunchPoint » : [Créer un service personnalisé à utiliser avec l’API REST](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. Recherchez les statistiques d’utilisation de l’API par utilisateur de l’API dans l’onglet Intégration > Services web de la section Informations sur l’appel API . En cliquant sur le numéro d’appel API, vous pouvez afficher les appels individuels spécifiques effectués par chaque utilisateur.
 
 ## Comment effectuer cet exercice de diagramme de flux de données visuelles
@@ -48,12 +47,12 @@ Créez un diagramme « État futur » qui peut être utilisé lors de la présen
 
 Créez une version technique qui affiche des détails tels que le nom d&#39;utilisateur de l&#39;API pour chaque intégration, une brève description du type de données transmises à [!DNL Marketo Engage] ou extraites de [!DNL Marketo Engage], ainsi qu&#39;un diagramme détaillé de tous les flux et déclencheurs de middleware. Voici un exemple :
 
-![Version technique &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
+![Version technique ](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
 ## Quelle est la prochaine étape ?
 
-**Prise en main des exemples :**
+**Prise en main avec des exemples :**
 Téléchargez l’un des exemples de diagrammes de flux de données pour cartographier l’état actuel de votre tech stack marketing, de votre personne et de votre flux de données, ou créez un diagramme pour votre univers de données à partir de zéro lorsque vous auditez l’instance :
 
 
@@ -128,9 +127,9 @@ Voici quelques outils que vous pouvez utiliser : draw.io (Google Docs), [!DNL Ad
 [!DNL Adobe] Champion Marketo (2019)
 *Partenaire client senior chez Etumos*
 
-![&#x200B; Kelly Jo Horton &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
+![ Kelly Jo Horton ](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
 
 **Amy Chiu**
 *Responsable marketing, adoption et rétention,[!DNL Adobe]*
 
-![&#x200B; Amy Chiu &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![ Amy Chiu ](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
