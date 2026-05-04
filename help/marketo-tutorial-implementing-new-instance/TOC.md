@@ -28,5 +28,5 @@ ht-degree: 7%
 + [Organisation d’une nouvelle instance et définition de conventions de nommage](./organizing-new-instance.md)
 + [Concevoir du marketing conversationnel omnicanal avec Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Prise en main de la gouvernance et de la documentation des instances](./documenting-your-instance.md)
-+ [Tutoriels [!DNL Marketo Engage]](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
++ [Tutoriels [!DNL Marketo Engage]](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/overview)
 + [Retour aux perspectives](https://experienceleague.adobe.com/fr/perspectives)
