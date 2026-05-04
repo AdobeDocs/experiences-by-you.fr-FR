@@ -1,22 +1,23 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud, Experience Manager, Experience Manager Cloud Manager, Marketo Engage, Campaign
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8id: c68cd75e-5bca-4bc3-a60e-9e183f816441id: b27e5950-9033-45ac-9f86-eb22e567f615id: dfc56824-e8b9-499e-85d4-21aedb507314
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/adobedocs/experiences-by-you.fr-FR
+git-repo: https://github.com/adobedocs/experiences-by-you.en
 index: true
 feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
-source-git-commit: 23af04457b566a3c7df00df332b270ea5c0b20a3
+source-git-commit: cddb05edf1f607bc1e695dcf593364958f21320b
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: 70
+ht-degree: 74%
 
 ---
 
 
 # Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier du contenu metadata.md pour n’importe quel guide de l’utilisateur, effectuez vos modifications dans n’importe quel fichier TOC.md.
+Le fichier metadata.md inclut des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide utilisateur dans le référentiel. Si vous souhaitez modifier le contenu de metadata.md pour un guide utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-Consultez [Métadonnées](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) pour obtenir une liste de valeurs valides pour **solution**, **produit** et **type**.
+Consultez [ Métadonnées ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) pour une liste des valeurs valides pour **solution**, **produit** et **type**
