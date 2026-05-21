@@ -6,10 +6,10 @@ index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+usetq: true
 auto-video-transcripts: true
-source-git-commit: cddb05edf1f607bc1e695dcf593364958f21320b
+source-git-commit: 972bec0709619acbf8d59d468e20f967a85f8069
 workflow-type: tm+mt
 source-wordcount: 97
 ht-degree: 7%
@@ -28,5 +28,5 @@ ht-degree: 7%
 + [Organisation d’une nouvelle instance et définition de conventions de nommage](./organizing-new-instance.md)
 + [Concevoir du marketing conversationnel omnicanal avec Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Prise en main de la gouvernance et de la documentation des instances](./documenting-your-instance.md)
-+ [Tutoriels [!DNL Marketo Engage]](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/overview)
++ [Tutoriels [!DNL Marketo Engage]](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
 + [Retour aux perspectives](https://experienceleague.adobe.com/fr/perspectives)
