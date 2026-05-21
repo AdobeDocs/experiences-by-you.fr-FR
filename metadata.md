@@ -13,10 +13,10 @@ mini-toc-levels: 2
 git-repo: https://github.com/adobedocs/experiences-by-you.fr-FR
 index: true
 feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
-source-git-commit: cddb05edf1f607bc1e695dcf593364958f21320b
+source-git-commit: 1818db9e2253ebfc085205761331bb53fe884e26
 workflow-type: tm+mt
 source-wordcount: 70
-ht-degree: 74%
+ht-degree: 91%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 74%
 
 Le fichier metadata.md inclut des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide utilisateur dans le référentiel. Si vous souhaitez modifier le contenu de metadata.md pour un guide utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-Consultez [&#x200B; Métadonnées &#x200B;](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) pour une liste des valeurs valides pour **solution**, **produit** et **type**
+Consultez [&#x200B; Métadonnées &#x200B;](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr) pour une liste des valeurs valides pour **solution**, **produit** et **type**
