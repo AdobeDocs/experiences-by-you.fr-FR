@@ -49,7 +49,7 @@ Permettez-moi de vous présenter les trois tableaux de bord opérationnels que j
 
 Fatigué de la boucle sans fin des réponses répétées ? Arrêtez ! Gagnez du temps en créant un tableau de bord de questions fréquentes. Les utilisateurs et utilisatrices peuvent le consulter avant de le demander, ou vous pouvez rapidement y accéder dans vos réponses.
 
-Créez simplement des [visualisations textuelles](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) avec des questions formatées en tant que titres et des réponses/explications en tant que contenu, toutes réduites pour afficher uniquement la question. Regroupez-les par pertinence (par exemple, pages ou produits) ou utilisez des panneaux. Restez simple et donnez la priorité aux requêtes courantes.
+Créez simplement des [visualisations textuelles](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=fr) avec des questions formatées en tant que titres et des réponses/explications en tant que contenu, toutes réduites pour afficher uniquement la question. Regroupez-les par pertinence (par exemple, pages ou produits) ou utilisez des panneaux. Restez simple et donnez la priorité aux requêtes courantes.
 
 Au lieu d&#39;écrire de longs e-mails ou de redécouvrir d&#39;anciennes explications, mettez à jour votre tableau de bord des FAQ. Commencez maintenant et développez avec le temps. Utilisez des liens hypertexte pour faire référence à d’autres tableaux de bord ou questions fréquentes dans les rapports. Fournissez un contexte complexe si nécessaire en liant d’autres tableaux de bord aux questions fréquentes.
 
