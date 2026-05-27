@@ -60,7 +60,7 @@ Vous vous dites peut-être : « D&#39;accord, mais j&#39;ai déjà les options �
 
 ![Figure2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*Comme ci-dessus, chaque accès au cours de la **visite**sera évalué avec le même true/false. Cependant, le jeu de données renvoyé est celui de l’ensemble de la visite.*
+*Comme ci-dessus, chaque accès au cours de la **visite**&#x200B;sera évalué avec le même true/false. Cependant, le jeu de données renvoyé est celui de l’ensemble de la visite.*
 
 - À chaque accès, « Valeur » ne contient pas « Exemple » (oui), donc renvoyez la valeur true ; de même, « Exemple » ne contient pas « Exemple » (non, il en contient), donc renvoyez la valeur false.
    - Si l’accès **any** dans la visite renvoie **true**, la **visite complète** est renvoyée.*
@@ -76,7 +76,7 @@ Vous vous dites peut-être : « D&#39;accord, mais j&#39;ai déjà les options �
 
 ![Figure3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*Comme ci-dessus, chaque accès réalisé par le **visiteur**sera évalué avec la même logique vrai/faux. Cependant, nous examinons maintenant tous les accès que ce visiteur a effectués, au cours de toutes les visites (dans la période sélectionnée).*
+*Comme ci-dessus, chaque accès réalisé par le **visiteur**&#x200B;sera évalué avec la même logique vrai/faux. Cependant, nous examinons maintenant tous les accès que ce visiteur a effectués, au cours de toutes les visites (dans la période sélectionnée).*
 
 - À chaque accès, « Valeur » ne contient pas « Exemple » (oui), donc renvoyez la valeur true ; de même, « Exemple » ne contient pas « Exemple » (non, il en contient), donc renvoyez la valeur false.
    - Si l’accès **any** effectué par le visiteur renvoie **true**, la **visite complète** est renvoyée.
@@ -392,7 +392,7 @@ Comme tout grand magicien, le vrai pouvoir est d&#39;inspirer la génération mo
 
 Ce document a été rédigé par :
 
-![ Jen Headshot ](assets/jen-headshot.png)
+![&#x200B; Jen Headshot &#x200B;](assets/jen-headshot.png)
 
 Jennifer Dungan, responsable de l’optimisation des analyses chez Torstar
 
