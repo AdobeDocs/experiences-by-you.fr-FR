@@ -121,7 +121,7 @@ Avec les modèles de notation comportementale et démographique de base que vous
 
 Préférez-vous une présentation vidéo pour cet exercice ? Katja Keesom, championne de Marketo Engage, démontre l’importance de la flexibilité locale dans le modèle de notation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457441/?captions=fre_fr&learn=on)
 
 **Étape 1** - Prenez les activités et les caractéristiques des exercices 1 et 2 et déterminez pour chaque article si elles varient selon l&#39;emplacement ou la gamme de produits.
 

@@ -32,7 +32,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="Naviguer dans l’interface utilisateur [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="Naviguer dans l’interface utilisateur [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3450675?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -45,7 +45,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="Rapports et analyses" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="Rapports et analyses" src="https://video.tv.adobe.com/v/3446422?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -58,7 +58,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Programmes de messagerie" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="Programmes de messagerie" src="https://video.tv.adobe.com/v/3453369?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">

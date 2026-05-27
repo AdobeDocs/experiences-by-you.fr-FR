@@ -22,7 +22,7 @@ ht-degree: 4%
 
 Découvrez la navigation dans la section [!DNL Analytics] et base de données pour obtenir différents rapports prêts à l’emploi dans [!DNL Marketo Engage].
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446422/?captions=fre_fr&learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

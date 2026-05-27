@@ -49,7 +49,7 @@ Voyons ces cas pratiques en action comme Sara présente son processus, de la car
 
 Cette boîte de dialogue propose cinq options initiales aux visiteurs du site, ce qui crée une expérience autoguidée qui les aide à trouver les informations dont ils ont besoin en fonction de leur personnalité. Pour commencer, vous pouvez explorer votre boîte de réception e-mail « Contactez-nous » pour identifier les thèmes communs et les classer en options de boîte de dialogue qui s’appliquent aux visiteurs de votre site. Regardez la démonstration et suivez les étapes ci-dessous pour créer votre boîte de dialogue fourre-tout par défaut :
 
->[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454849/?captions=fre_fr&learn=on)
 
 >[!BEGINTABS]
 
