@@ -1,5 +1,5 @@
 ---
-title: Créer un site  [!DNL Adobe Analytics] interne (Confluence ou autre)
+title: Créer un site  [!DNL Adobe Analytics]  interne (Confluence ou autre)
 description: Créez un emplacement central où les documents de formation peuvent être partagés et consultés par tous vos utilisateurs.
 solution: Analytics
 feature-set: Analytics
@@ -18,32 +18,32 @@ ht-degree: 0%
 
 ---
 
-# Créer un site interne [!DNL Adobe Analytics] (Confluence ou autre)
+# Créer un site [!DNL Adobe Analytics] interne (Confluence ou autre)
 
-**QUOI :** Si vous avez suivi la recommandation dans [cette astuce](create-basic-videos-and-training.md){target="_blank"} pour créer des documents de formation, vous ne pouvez évidemment pas les conserver sur votre disque dur. Créez un emplacement central où tous vos utilisateurs peuvent les partager et les consulter, un site interne [!DNL Adobe Analytics] (Confluence ou autre) où vous pouvez publier tous ces documents et gérer différentes versions.
+**QUOI :** si vous avez suivi la recommandation dans [cette astuce](create-basic-videos-and-training.md){target="_blank"} pour créer des documents de formation, vous ne pouvez évidemment pas les conserver sur votre disque dur. Créez un emplacement central où tous vos utilisateurs peuvent les partager et les consulter, un site de [!DNL Adobe Analytics] interne (Confluence ou autre) où vous pouvez publier tous ces documents et gérer différentes versions.
 
-**POURQUOI :** La configuration d’un référentiel partagé unique vous donne un emplacement où diriger tous les nouveaux utilisateurs et offrir une source unique de vérité en termes des dernières versions de tous vos documents. Cela permet une gestion et une collaboration optimales des versions.
+**POURQUOI :** la configuration d’un référentiel partagé unique vous donnera un emplacement pour diriger tous les nouveaux utilisateurs et vous offrira une source unique de vérité concernant les dernières versions de tous vos documents. Cela permet une gestion et une collaboration optimales des versions.
 
-**COMMENT :** Voici quelques suggestions de sections pour ce site interne :
+**COMMENT :** voici quelques suggestions pour les sections de ce site interne :
 
-* _Intro_ : comment obtenir un accès, des contacts, comment se connecter, comment créer un ticket JIRA, où obtenir de l’aide, etc.
+* _Introduction_ : comment obtenir un accès, des contacts, comment se connecter, comment créer un ticket JIRA, où obtenir de l’aide, etc.
 * _Documents de balisage_ : document de propriété, document de balisage, modèles de code, etc.
-* _Documentation sur les connaissances_ : Vous pouvez publier des conventions d’affectation des noms ici, mais aussi des documents de connaissance ayant le même objectif que les vidéos de formation. Par exemple : comment tracker les téléchargements, comment tracker les bons, etc.
-* _Documentation de formation_ : sessions de formation de base et avancées, vidéos de 5 à 10 minutes courtes. Vous pouvez également fournir des liens vers des ressources [!DNL Adobe] : Experience League, canaux YouTube, etc.
-* _Documentation d’administration_ : fichiers de SAINT, fichiers JS, documents de connaissances sur les éléments d’administration tels que les flux de données, etc.
+* _Documents sur les connaissances_ : vous pouvez publier des conventions de nommage ici, mais aussi des documents de connaissances qui ont le même objectif que les vidéos de formation. Par exemple : comment effectuer le suivi des téléchargements, comment suivre les coupons, etc.
+* _Documents de formation_ : sessions de formation de base et avancées, courtes vidéos de 5 à 10 minutes. Vous pouvez également fournir des liens vers des ressources [!DNL Adobe] : Experience League, canaux YouTube, etc.
+* _Documents sur l’administration_ : fichiers SAINT, fichiers JS, documents de connaissances sur les éléments d’administration tels que les flux de données, etc.
 
-Je vous recommande également de partager le lien vers ce site (et de mettre en évidence la section de formation) dans votre email &quot;Bienvenue dans [!DNL Adobe Analytics]&quot; lors de la création d’un nouveau compte.
+Je vous recommande également de partager le lien vers ce site (et de mettre en évidence la section Formation) dans votre e-mail « Bienvenue sur [!DNL Adobe Analytics] » lors de la création d’un nouveau compte.
 
 
 ## Auteurs
 
-Ce document a été co-écrit par :
+Ce document a été coécrit par :
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon, responsable de la plateforme numérique [!DNL Analytics] chez NortonLifeLock
-[!DNL Adobe Analytics] champion
+Christel Guidon, responsable de la plateforme Digital [!DNL Analytics] chez NortonLifeLock
+[!DNL Adobe Analytics] Champion
 
-![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
+![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
 
-Rachel Fenwick, conseillère principale à [!DNL Adobe]
+Rachel Fenwick, conseillère principale chez [!DNL Adobe]

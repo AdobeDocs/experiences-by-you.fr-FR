@@ -13,8 +13,8 @@ feature: Programs
 exl-id: 27c41bdf-b808-4268-9299-9c9944c2ea8d
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 22%
+source-wordcount: '141'
+ht-degree: 14%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 22%
 
 Suivez ce tutoriel complet dédié à la création d’un programme de messagerie à l’aide d’un test A/B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453369/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
 
 
 ## Ressources supplémentaires :
 
 Pour plus d’informations, consultez les guides des produits associés :
 
-* [Documentation sur les programmes de messagerie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=fr)
+* [Documentation sur les programmes de messagerie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Regardez d’autres vidéos pour obtenir de l’aide sur cette fonctionnalité :
 
-* [Présentation programmée des e-mails](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=fr)
-* [Présentation du test AB](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=fr)
+* [Présentation des e-mails planifiés](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [Présentation du test AB](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 Apprenez de vos pairs à utiliser les programmes de messagerie :
 
-* [Article de blog client expert : programmes d’e-mail](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+* [Article de blog d’un client expert : programmes de messagerie](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)

@@ -29,7 +29,7 @@ Une documentation détaillée et un [!UICONTROL Journal des modifications] sont 
 
 1. Formez plus facilement les utilisateurs internes de manière évolutive.
 2. Construire plus efficacement en [!DNL Marketo Engage] à long terme.
-3. Maintenez l’intégrité et l’hygiène de votre instance à l’avenir afin d’éviter de passer des heures à creuser dans les e-mails, [journal d’audit](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=fr) et [journal d’activité](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=fr) pour obtenir du contexte.
+3. Maintenez l’intégrité et l’hygiène de votre instance à l’avenir afin d’éviter de passer des heures à creuser dans les e-mails, [journal d’audit](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) et [journal d’activité](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) pour obtenir du contexte.
 4. Gagnez du temps lors du transfert de [!DNL Marketo Engage] connaissances à un nouvel administrateur [!DNL Marketo Engage] si votre équipe fait l’objet d’un roulement.
 
 ## Guide de gouvernance [!DNL Marketo Engage] 101
@@ -113,9 +113,9 @@ Maintenir une documentation complète et à jour pour votre instance [!DNL Marke
 [!DNL [!DNL Adobe] Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
-![&#x200B; Nick Hajdin &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
+![ Nick Hajdin ](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
 
 **Amy Chiu**
 *Responsable marketing, adoption et rétention,[!DNL Adobe]*
 
-![&#x200B; Amy Chiu &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![ Amy Chiu ](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

@@ -8,7 +8,7 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '228'
 ht-degree: 16%
 
 ---
@@ -32,7 +32,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="Naviguer dans l’interface utilisateur [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3450675?captions=fre_fr&format=jpeg" />
+      <img alt="Naviguer dans l’interface utilisateur [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -45,7 +45,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="Rapports et analyses" src="https://video.tv.adobe.com/v/3446422?captions=fre_fr&format=jpeg" />
+      <img alt="Rapports et analyses" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -58,7 +58,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Programmes de messagerie" src="https://video.tv.adobe.com/v/3453369?captions=fre_fr&format=jpeg" />
+      <img alt="Programmes de messagerie" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
@@ -74,9 +74,9 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 
 </div>
 
-## Ressources supplémentaires
+## Autres ressources
 
-* [Nation de Marketo (communautés)](https://nation.marketo.com/)
-* [Documentation Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=fr)
-* [Tutoriels Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr)
-* [Informations sur les produits Adobe Marketo Engage](https://business.adobe.com/fr/products/marketo/adobe-marketo.html)
+* [Nation Marketo (communautés)](https://nation.marketo.com/)
+* [Documentation d’Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html)
+* [Tutoriels Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
+* [Informations sur les produits Adobe Marketo Engage](https://business.adobe.com/products/marketo/adobe-marketo.html)

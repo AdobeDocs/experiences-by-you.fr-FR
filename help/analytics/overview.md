@@ -8,8 +8,8 @@ solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 19%
+source-wordcount: '223'
+ht-degree: 28%
 
 ---
 
@@ -32,7 +32,7 @@ La chose la plus puissante à propos des solutions [!DNL Adobe Experience Cloud]
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe Analytics] Conseils et astuces" src="https://video.tv.adobe.com/v/3422278?captions=fre_fr&format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] Conseils et astuces" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
@@ -45,7 +45,7 @@ La chose la plus puissante à propos des solutions [!DNL Adobe Experience Cloud]
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Traduire [!DNL Adobe Analytics] langage technique en langage adapté à tous" src="https://video.tv.adobe.com/v/345323?captions=fre_fr&format=jpeg" />
+      <img alt="Traduire [!DNL Adobe Analytics] langage technique en langage adapté à tous" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">
@@ -58,7 +58,7 @@ La chose la plus puissante à propos des solutions [!DNL Adobe Experience Cloud]
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="Créer des conventions de nommage normalisées" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=fr" />
+      <img alt="Créer des conventions de nommage normalisées" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -74,9 +74,9 @@ La chose la plus puissante à propos des solutions [!DNL Adobe Experience Cloud]
 
 </div>
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Communauté Experience League Adobe Analytics](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr)
-* [Documentation Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=fr)
-* [Tutoriels Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr)
-* [Informations sur les produits Adobe Analytics](https://business.adobe.com/fr/products/analytics/adobe-analytics.html)
+* [Documentation Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=fr)
+* [Tutoriels Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr)
+* [Informations sur les produits Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html)
