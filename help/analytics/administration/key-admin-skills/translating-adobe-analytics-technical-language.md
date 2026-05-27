@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Traduire [!DNL Adobe Analytics] langage technique en langage adapté à tous
 
->[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345323/?captions=fre_fr&quality=12&learn=on)
 
 ## Parler différentes langues
 
