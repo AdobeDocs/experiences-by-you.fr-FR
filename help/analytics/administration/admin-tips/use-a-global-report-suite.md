@@ -56,6 +56,6 @@ Ce document a été coécrit par :
 Christel Guidon, responsable de la plateforme Digital [!DNL Analytics] chez NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
+![&#x200B; Rachel Fenwick &#x200B;](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, conseillère principale chez [!DNL Adobe]
