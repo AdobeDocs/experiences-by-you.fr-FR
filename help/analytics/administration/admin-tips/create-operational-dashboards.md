@@ -28,7 +28,7 @@ Comme beaucoup d’administrateurs, je gère un hub d’informations interne (Co
 
 J&#39;ai remarqué que les utilisateurs ignoraient souvent mes références au site Confluence, avec des raisons comme « Mon VPN est éteint, » ou « Je ne peux pas le lire maintenant, » etc. En gros, « Je lirai ce document plus tard » signifie qu&#39;il ne sera jamais lu, et la même question sera posée à nouveau la semaine prochaine.
 
-***Le succès de la réalisation :**la polyvalence de Workspace pourrait changer la donne. Les utilisateurs et utilisatrices préfèrent des réponses rapides et directes dans Workspace, donc restons-en là pour éviter des étapes supplémentaires.*
+***Le succès de la réalisation :**&#x200B;la polyvalence de Workspace pourrait changer la donne. Les utilisateurs et utilisatrices préfèrent des réponses rapides et directes dans Workspace, donc restons-en là pour éviter des étapes supplémentaires.*
 
 J&#39;ai créé des tableaux de bord opérationnels pour partager l&#39;ensemble de l&#39;entreprise. Jusqu&#39;à présent, ils ont tenu les utilisateurs informés, centralisé l&#39;information et réduit la frustration. Il s’agit d’un processus facile et évolutif qui accroît l’efficacité au fil du temps.
 

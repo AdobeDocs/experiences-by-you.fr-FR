@@ -80,7 +80,7 @@ Les dirigeants savent comment utiliser le tableau de bord. Ils peuvent prendre d
 
 Ce document a été rédigé par :
 
-![ Gitai Ben-Ammi ](assets/gitai-headshot-150.jpg)
+![&#x200B; Gitai Ben-Ammi &#x200B;](assets/gitai-headshot-150.jpg)
 
 **Gitai Ben-Ammi**, Consultant principal chez Concentrix Catalyst
 

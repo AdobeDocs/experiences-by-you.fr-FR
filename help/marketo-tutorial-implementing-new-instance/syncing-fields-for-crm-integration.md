@@ -58,7 +58,7 @@ En règle générale, la bonne pratique consiste à synchroniser uniquement les 
 
    * Première colonne : noms des champs Marketo Engage
    * Deuxième colonne : noms des API Marketo Engage
-   * Troisième colonne : [Type de champ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} (à savoir booléen, devise, date, etc.)
+   * Troisième colonne : [Type de champ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} (à savoir booléen, devise, date, etc.)
    * Dans les colonnes suivantes, répétez l’opération pour les types d’objets CRM (Lead, Contact, Compte, Opportunité) avec une colonne supplémentaire pour le niveau d’accès que vous souhaitez accorder à Marketo Engage (c’est-à-dire Lecture, Écriture, Modification)
   <br>
 
@@ -83,12 +83,12 @@ En règle générale, la bonne pratique consiste à synchroniser uniquement les 
 * Si des champs équivalents existent dans les deux systèmes, incluez-les sur la même ligne et indiquez qu’ils doivent être remis en correspondance dans la section « Notes » à l’extrémité droite de votre feuille de dictionnaire de données.
 
 >[!NOTE]
->Si vous envisagez de créer un champ de filtre de synchronisation ([](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter){target="_blank"}), veillez à l’inclure dans cette étape, mais laissez les noms d’API vides jusqu’à ce que le champ soit créé dans votre CRM.
+>Si vous envisagez de créer un champ de filtre de synchronisation ([&#128279;](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter){target="_blank"}), veillez à l’inclure dans cette étape, mais laissez les noms d’API vides jusqu’à ce que le champ soit créé dans votre CRM.
 
 **Étape 5 :** consulter le dictionnaire de données avec votre administrateur CRM
 
 * Créez des champs dans CRM pour ceux qui existent déjà dans Marketo Engage et mettez à jour le dictionnaire de données avec les noms d’affichage et d’API pour le nouveau champ CRM.
-* Effectuer le mappage des champs entre les objets Lead et Contact dans votre CRM ([](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"}). Lorsqu’un prospect est converti en contact, cela permet de s’assurer que les champs peuvent être consolidés en un seul champ dans Marketo Engage.
+* Effectuer le mappage des champs entre les objets Lead et Contact dans votre CRM ([&#128279;](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"}). Lorsqu’un prospect est converti en contact, cela permet de s’assurer que les champs peuvent être consolidés en un seul champ dans Marketo Engage.
 * Assurez-vous que le profil de synchronisation Marketo dispose des privilèges appropriés pour chaque champ, comme indiqué dans le dictionnaire de données :
    * [Définition des autorisations de profil dans Salesforce](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions){target="_blank"}
    * [Définition des autorisations de profil dans Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft){target="_blank"}
@@ -125,7 +125,7 @@ En règle générale, la bonne pratique consiste à synchroniser uniquement les 
 
 >[!BEGINTABS]
 
->[!TAB ]
+>[!TAB Tab]
 
 Découvrez comment Marketo Engage et Salesforce vont de pair pour synchroniser vos données de vente et de marketing.
 
@@ -151,7 +151,7 @@ Découvrez comment Marketo Engage et Salesforce vont de pair pour synchroniser v
 
 +++
 
->[!TAB ]
+>[!TAB Tab&#x200B;]
 
 Découvrez comment fonctionne la synchronisation Microsoft Dynamics 365 et configurez correctement la configuration pour permettre aux deux systèmes de communiquer entre eux.
 

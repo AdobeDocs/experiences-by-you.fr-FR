@@ -113,9 +113,9 @@ Maintenir une documentation complète et à jour pour votre instance [!DNL Marke
 [!DNL [!DNL Adobe] Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
-![ Nick Hajdin ](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
+![&#x200B; Nick Hajdin &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
 
 **Amy Chiu**
 *Responsable marketing, adoption et rétention,[!DNL Adobe]*
 
-![ Amy Chiu ](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![&#x200B; Amy Chiu &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
