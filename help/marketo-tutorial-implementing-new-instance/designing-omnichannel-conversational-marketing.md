@@ -1,6 +1,6 @@
 ---
-title: Conversation marketing omnicanal de conception avec Dynamic Chat
-description: Commencez rapidement à concevoir du marketing conversationnel avec Adobe Dynamic Chat, le canal d’engagement conversationnel natif de Adobe Marketo Engage. Ce tutoriel propose des recettes pratiques pour mettre en oeuvre des cas d’utilisation tels que la réservation de réunions de vente, l’engagement dans le contenu du site web et la promotion d’événements/webinaires.
+title: Concevoir du marketing conversationnel omnicanal avec Dynamic Chat
+description: Découvrez rapidement comment concevoir le marketing conversationnel avec Adobe Dynamic Chat, le canal d’engagement conversationnel natif de Adobe Marketo Engage. Ce tutoriel propose des recettes exploitables pour implémenter des cas d’utilisation tels que la réservation de réunions de vente, l’engagement de contenu de site web et la promotion d’événements/de webinaires.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -11,191 +11,191 @@ jira: KT-14814
 exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1409'
+source-wordcount: '1458'
 ht-degree: 0%
 
 ---
 
-# Concevoir un marketing conversationnel omnicanal avec Dynamic Chat
+# Conception de marketing conversationnel omnicanal avec Dynamic Chat
 
-Pour les marketeurs, votre site web est essentiel pour générer des pistes, stimuler les conversions et accélérer les cycles de vente. L’interaction avec les visiteurs en temps réel sur votre site web permet à votre équipe de vente de qualifier les acheteurs plus efficacement. Adobe Dynamic Chat, le canal de conversation natif de votre abonnement Adobe Marketo Engage, vous permet d’automatiser les conversations afin d’étendre les fonctionnalités des Marketo Engage.
+Pour les spécialistes du marketing, votre site web est essentiel pour générer des prospects, stimuler les conversions et accélérer les cycles de vente. Interagir avec les visiteurs en temps réel sur votre site web permet à votre équipe de vente de qualifier les acheteurs plus efficacement. Adobe Dynamic Chat, le canal de conversation natif de votre abonnement Adobe Marketo Engage, vous permet d’automatiser les conversations afin d’étendre les fonctionnalités de Marketo Engage.
 
-Ce tutoriel décrit le processus de réflexion et les principaux cas d’utilisation partagés par Sara Barriuso, responsable des opérations marketing chez Cornerstone OnDemand, lors de la conférence &quot;Apprenez de vos pairs&quot;. Elle a expliqué comment son entreprise utilisait le Dynamic Chat pour optimiser les capacités des Marketo Engage.
+Ce tutoriel décrit le processus de réflexion et les principaux cas d’utilisation partagés par Sara Barriuso, responsable des opérations marketing chez Cornerstone OnDemand, lors de la session « Apprenez de vos pairs ». Elle a expliqué comment son organisation utilisait Dynamic Chat pour optimiser les fonctionnalités de Marketo Engage.
 
-## Intégrer l’engagement conversationnel dans votre stratégie de génération de demande
+## Intégrer l&#39;engagement conversationnel dans votre stratégie de génération de demande
 
-Les visiteurs parcourent votre site web pour une raison quelconque. Il peut s’agir de recherche de contenu sur vos produits ou services ou de recherche d’informations de contact pour parler à vos représentants commerciaux. Il peut également s’agir de vos clients qui recherchent des informations supplémentaires sur les produits. Chat permet aux visiteurs de votre site web de se qualifier en libre-service s’ils sont prêts à parler à votre équipe commerciale.
+Les visiteurs et visiteuses parcourent votre site web pour une raison. Il est possible qu’il recherche du contenu sur vos produits ou services, ou des coordonnées pour s’adresser à vos représentants commerciaux. Il peut également s’agir de vos clients qui recherchent des informations supplémentaires sur les produits. Le chat permet aux visiteurs de votre site Web de se mettre en libre-service et de s&#39;autoqualifier s&#39;ils sont prêts à parler à votre équipe de vente.
 
-Quand Sara Barriuso a mis en oeuvre Dynamic Chat, elle a été attirée par son intégration transparente avec Marketo Engage et les [déclencheurs d&#39;activité prédéfinis](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} qui activent les programmes de Marketo Engage et vice versa. Elle a développé ses stratégies d&#39;engagement conversationnel en ayant à l&#39;esprit trois segments d&#39;audience :
+Lorsque Sara Barriuso a implémenté Dynamic Chat, elle a été séduite par son intégration transparente à Marketo Engage et par les [déclencheurs d’activité préconfigurés](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} qui activent les programmes Marketo Engage et vice versa. Elle a élaboré ses stratégies d’engagement conversationnel en tenant compte de trois segments d’audience :
 
-1. Perspectives inconnues : proposez de manière proactive des appels de démonstration pour générer de nouvelles pistes.
-2. Pistes/clients connus : rallongez le temps passé par les visiteurs à parcourir le contenu et à offrir des appels de démonstration pour générer des opportunités d’achat et de vente croisée.
-3. Prospects/clients : proposez des expériences personnalisées en étendant les efforts des campagnes marketing.
+1. Prospects inconnus : proposer de manière proactive des appels de démonstration pour générer de nouveaux prospects.
+2. Leads/clients connus : allongez le temps passé par les visiteurs à parcourir le contenu et proposez des appels de démonstration pour générer des opportunités de vente incitative et de vente croisée.
+3. Prospects/clients : proposent des expériences personnalisées en étendant les efforts des campagnes marketing.
 
 
-## Cas pratiques clés pour commencer à créer vos boîtes de dialogue
+## Cas d’utilisation clés pour commencer à créer vos boîtes de dialogue
 
-Pour mettre en oeuvre ces stratégies, Sara a construit ses Dialogues Dynamic Chat autour des cas pratiques suivants :
+Pour mettre en œuvre ces stratégies, Sara a créé ses dialogues Dynamic Chat autour des cas d’utilisation suivants :
 
-1. Dialogue tout attraper par défaut : offre une option initiale à tous les visiteurs, leur permettant d’accomplir leurs tâches plus efficacement.
+1. Boîte de dialogue fourre-tout par défaut : donnez une option initiale à tous les visiteurs et visiteuses, en les guidant pour accomplir leurs tâches plus efficacement.
 
-2. Promotion de l’enregistrement des événements et des webinaires : incitez les visiteurs du site web à s’inscrire aux événements et aux webinaires afin de les orienter plus rapidement vers l’étape d’achat.
+2. Promotion de l’inscription aux événements et webinaires : incitez les visiteurs et visiteuses du site à s’inscrire aux événements et webinaires pour les faire passer plus rapidement par la phase d’achat.
 
-3. Extension de l&#39;engagement du contenu des campagnes : proposez un contexte supplémentaire ou répondez à des questions potentielles lorsque les visiteurs parcourent le contenu du site web.
+3. Étendre l’engagement du contenu de la campagne : offrez un contexte supplémentaire ou répondez à des questions potentielles lorsque les visiteurs parcourent le contenu du site web.
 
-Voyons ces cas pratiques en action, car Sara présente son processus, depuis la cartographie du flux conversationnel jusqu&#39;à la configuration des Dialogues et du ciblage en Dynamic Chat et en Marketo Engage.
+Voyons ces cas pratiques en action comme Sara présente son processus, de la cartographie du flux conversationnel à la configuration des boîtes de dialogue et du ciblage dans Dynamic Chat et Marketo Engage.
 
-### Cas d’utilisation 1 : dialogue fourre-tout par défaut pour tous les visiteurs du site
+### Cas d’utilisation 1 : boîte de dialogue fourre-tout par défaut pour tous les visiteurs du site
 
-Ce dialogue fournit cinq options initiales parmi lesquelles les visiteurs du site peuvent choisir, ce qui crée une expérience autonome qui les aide à trouver les informations dont ils ont besoin en fonction de leur personnage. Pour commencer, vous pouvez explorer votre boîte de réception de courrier électronique &quot;Nous contacter&quot; afin d’identifier les thèmes communs et de les classer dans les options de dialogue qui s’appliquent aux visiteurs de votre site. Regardez la démonstration et suivez les étapes ci-dessous pour créer votre dialogue fourre-tout par défaut :
+Cette boîte de dialogue propose cinq options initiales aux visiteurs du site, ce qui crée une expérience autoguidée qui les aide à trouver les informations dont ils ont besoin en fonction de leur personnalité. Pour commencer, vous pouvez explorer votre boîte de réception e-mail « Contactez-nous » pour identifier les thèmes communs et les classer en options de boîte de dialogue qui s’appliquent aux visiteurs de votre site. Regardez la démonstration et suivez les étapes ci-dessous pour créer votre boîte de dialogue fourre-tout par défaut :
 
->[!VIDEO](https://video.tv.adobe.com/v/3454849/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3454849/?captions=fre_fr&learn=on)
 
 >[!BEGINTABS]
 
->[!TAB Dynamic Chat]
+>[!TAB Tab]
 
 #### Phase 1
 
-1. Créez le dialogue et créez un lien de test.
-2. Ajoutez un objectif pour effectuer le suivi des conversions (envoi de requête de démonstration, par exemple).
-3. Demandez à 2 ou 3 personnes de le tester et de recueillir des commentaires.
+1. Créez la boîte de dialogue et un lien de test.
+2. Ajoutez un objectif pour effectuer le suivi des conversions (par exemple, envoi de la demande de démonstration).
+3. Demandez à 2 ou 3 personnes de le tester et de recueillir leurs commentaires.
 
 #### Phase 2
 
-1. Dans &quot;Audience&quot;, ajoutez une URL de page web dans &quot;Cible&quot; pour indiquer où le dialogue s’affichera.
-2. Dans &quot;Paramètres&quot;, ajoutez le nom, la description, la priorité et la langue de la campagne.
-3. Cliquez sur &quot;Publish&quot;
+1. Dans « Audience », ajoutez une URL de page web dans « Target » pour indiquer où la boîte de dialogue s’affichera.
+2. Dans « Paramètres », ajoutez le nom, la description, la priorité et la langue de la campagne.
+3. Cliquez sur Publier.
 
->[!TAB Marketo Engage]
+>[!TAB Tab&#x200B;]
 
 #### Phase 1
 
-1. Créez votre campagne de suivi dynamique.
-2. Dans &quot;Liste dynamique&quot;, utilisez un déclencheur &quot;Atteindre l’objectif de dialogue&quot;. Utilisez le même objectif (par exemple, Demo Request) que celui utilisé pour Dialogue.
-3. Dans &quot;Flux&quot;, incluez une étape &quot;Modifier l’état du programme&quot; pour effectuer le suivi de la conversion.
-4. La source s’affichera comme &quot;dynamicChat&quot;. Vous pouvez créer une campagne dynamique pour mettre à jour la source vers un nom qui vous semble logique.
+1. Créez votre campagne intelligente de suivi.
+2. Dans Liste dynamique, utilisez un déclencheur « Atteint l’objectif de la boîte de dialogue ». Utilisez le même objectif (par exemple, Demande de démonstration) que celui de la boîte de dialogue
+3. Dans « Flux », incluez une étape « Modifier le statut du programme » pour suivre la conversion.
+4. La source s’affichera en tant que « dynamicChat ». Vous pouvez créer une campagne intelligente pour mettre à jour la source vers un nom qui vous semble logique.
 
 #### Phase 2
 
-1. Testez à nouveau votre suivi de campagne dynamique lorsqu’il est actif.
+1. Testez à nouveau votre campagne intelligente de suivi lorsqu’elle sera en ligne.
 
 >[!ENDTABS]
 
 #### Niveau supérieur : marketing basé sur les comptes
 
-Vous pouvez améliorer davantage le dialogue fourre-tout par défaut en incorporant du contenu ciblé par le secteur, ce qui rend les conversations encore plus utiles aux visiteurs. Par exemple, proposez des livres blancs ou des études de cas spécifiques au secteur à télécharger pour vos visiteurs. Regardez la démonstration et suivez les étapes ci-dessous pour créer un dialogue fourre-tout par défaut pour le marketing basé sur les comptes :
+Vous pouvez améliorer la Boîte de dialogue fourre-tout par défaut en incorporant du contenu ciblé par le secteur, ce qui rend les conversations encore plus utiles pour les visiteurs et les visiteuses. Par exemple, proposez des livres blancs ou des études de cas spécifiques à un secteur que vos visiteurs peuvent télécharger. Regardez la démonstration et suivez les étapes ci-dessous pour créer une boîte de dialogue fourre-tout par défaut pour le marketing basé sur les comptes :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429195/?learn=on)
 
 >[!BEGINTABS]
 
->[!TAB Dynamic Chat]
+>[!TAB Tab]
 
-1. Cloner le &quot;dialogue par défaut&quot; et le renommer.
-2. Dans &quot;Stream Designer&quot;, adaptez les messages de dialogue au secteur cible (un seul flux + la question initiale).
-3. Demandez à 2 ou 3 personnes de tester le Dialogue et de recueillir leurs commentaires.
-4. Créez un lien de test et partagez-le.
-5. Dans &quot;Audience&quot;, ajoutez une URL de page web où le dialogue s’affichera et mettra à jour la cible vers le secteur que vous souhaitez.
-6. Dans &quot;Paramètres&quot;, ajoutez le nom de la campagne, la priorité de la description et la langue.
-7. Cliquez sur &quot;Publish&quot;.
+1. Clonez la « Boîte de dialogue par défaut » et renommez-la.
+2. Dans « Stream Designer », adaptez les messages de la boîte de dialogue au secteur cible (un seul flux + la question initiale).
+3. Demandez à 2 ou 3 personnes de tester la boîte de dialogue et de collecter les commentaires.
+4. Créer un lien de test et le partager.
+5. Dans « Audience », ajoutez une URL de page web où la boîte de dialogue s’affichera et mettra à jour la cible selon le secteur que vous souhaitez.
+6. Dans « Paramètres », ajoutez le nom de la campagne, la priorité de description et la langue.
+7. Cliquez sur « Publier ».
 
->[!TAB Marketo Engage]
+>[!TAB Tab&#x200B;]
 
-1. Créez votre campagne de suivi dynamique et testez l’objectif.
-2. Rétestez le suivi de la campagne dynamique après la publication de la boîte de dialogue.
+1. Créez votre campagne intelligente de suivi et testez l’objectif.
+2. Testez à nouveau la campagne intelligente de suivi après avoir publié la boîte de dialogue.
 
 >[!ENDTABS]
 
-### Cas d’utilisation 2 : promotion de l’enregistrement d’événement et de webinaire
+### Cas d’utilisation 2 : promotion de l’enregistrement à l’événement et au webinaire
 
-Les événements et les webinaires sont des tactiques marketing populaires pour les entreprises B2B afin de générer de la demande. Ils offrent des expériences attrayantes et des informations riches qui attirent des clients potentiels. La connexion des visiteurs de votre site web aux événements et aux webinaires à venir vous permet de qualifier les clients potentiels encore plus rapidement. La création de ce dialogue est peu coûteuse et nécessite peu d’efforts. Il peut rapidement démontrer son succès, ce qui vous permet d’obtenir l’aide des parties prenantes marketing pour ajouter un engagement conversationnel à votre plan d’automatisation omnicanal. Regardez la démonstration et suivez les étapes ci-dessous pour créer votre dialogue de promotion d’événement/webinaire :
+Les événements et webinaires sont des tactiques marketing populaires pour les entreprises B2B afin de générer de la demande. Ils offrent des expériences attrayantes et des informations riches qui attirent les clients potentiels. La connexion des visiteurs et visiteuses de votre site web aux événements et webinaires à venir vous permet de qualifier les clientes et clients potentiels encore plus rapidement. La création de cette boîte de dialogue demande peu d’efforts et est peu coûteuse. Elle peut rapidement s’avérer efficace et vous aider à obtenir le soutien des parties prenantes marketing pour ajouter l’engagement conversationnel à votre plan d’automatisation omnicanal. Regardez la démonstration et suivez les étapes ci-dessous pour créer votre boîte de dialogue de promotion d’événement/webinaire :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429196/?learn=on)
 
 >[!BEGINTABS]
 
->[!TAB Dynamic Chat]
+>[!TAB Tab]
 
 #### Phase 1
 
-1. Créez un modèle pour le dialogue &quot;enregistrement d’événement&quot; pour une utilisation continue de la campagne.
+1. Créez un modèle de boîte de dialogue « enregistrement d’événement » pour une utilisation continue de la campagne.
 
 #### Phase 2
 
-1. Cloner le modèle.
-2. Copier et coller du texte dans le message Dialogue pour un nouvel événement
-3. Mettez à jour les paramètres UTM utilisés dans votre lien d’événement (par exemple utm_medium=website&amp;utm_source=adobe).
-4. Créez un lien de test, cliquez sur &quot;Publish&quot; et partagez-le avec le demandeur.
+1. Clonez le modèle.
+2. Copiez et collez du texte dans le message de la boîte de dialogue pour un nouvel événement.
+3. Mettez à jour les paramètres UTM utilisés dans votre lien d’événement (par exemple, utm_medium=website&amp;utm_source=adobe).
+4. Créez un lien de test, cliquez sur « Publier », puis partagez-le avec le demandeur.
 5. Examen par les pairs et application des commentaires.
 
 
->[!TAB Marketo Engage]
+>[!TAB Tab&#x200B;]
 
 #### Phase 1
 
-1. Créez votre campagne de suivi dynamique dans le modèle de programme webinaire/d’événement et testez-le.
+1. Créez votre campagne intelligente de suivi dans le modèle de programme de webinaire/événement et testez-la.
 
 #### Phase 2
 
-1. Ajoutez le nom de votre campagne au suivi de la campagne dynamique dans Marketo Engage et testez-la.
+1. Ajoutez le nom de votre campagne à la campagne intelligente de suivi dans Marketo Engage et testez-la.
 
 >[!ENDTABS]
 
 
-#### Niveau supérieur : enregistrer les personnes connues
+#### Niveler vers le haut : enregistrer les personnes connues
 
-Vous pouvez offrir une expérience encore meilleure aux visiteurs du site web en les enregistrant pour vos événements et vos webinaires sans qu’ils remplissent un formulaire. Les expériences personnalisées créent de la confiance et montrent aux visiteurs que vous vous souvenez d’eux. Voyons comment mettre à niveau votre événement et votre promotion de webinaire Dialogue en action.
+Vous pouvez offrir une expérience encore meilleure aux visiteurs et visiteuses du site Web en les inscrivant à vos événements et webinaires sans leur demander de remplir un formulaire. Les expériences personnalisées renforcent la confiance et montrent aux visiteurs que vous vous souvenez d’eux. Découvrons comment améliorer votre événement et la promotion du webinaire Dialogue en action.
 
 >[!NOTE]
->Veuillez prendre en compte les risques potentiels de sécurité inhérents à certains Etats/pays protecteurs et mettre en oeuvre cette personnalisation avec précaution en consultant votre équipe juridique.
+>Veuillez tenir compte des risques de sécurité potentiels encourus par certains États/pays protecteurs et mettre en œuvre cette personnalisation avec soin en consultant votre équipe juridique.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429197/?learn=on)
 
 >[!BEGINTABS]
 
->[!TAB Dynamic Chat]
+>[!TAB Tab]
 
-1. Cloner la boîte de dialogue de promotion Événement/Webinaire.
-2. Dans Stream Designer, une fois que l’utilisateur a répondu &quot;Oui&quot;, ajoutez une carte de questions &quot;Vous avez déjà partagé votre adresse électronique avec nous. Souhaitez-vous le conserver pour les détails de l’événement ?&quot;
-3. S’ils répondent &quot;Oui&quot;, ajoutez une carte de message &quot;Vous recevrez un email de confirmation dans votre email avec les détails de l’événement/du webinaire&quot;.
-4. S&#39;ils répondent &quot;Non&quot;, ajoutez une carte de message &quot;Veuillez remplir le formulaire sur la page d&#39;inscription&quot;.
-5. Créez un lien de test, cliquez sur &quot;Publish&quot; et partagez-le avec le demandeur.
-6. Dans l&#39;onglet Audience , ajoutez [email n&#39;est pas vide].
+1. Clonez la boîte de dialogue de promotion d’événement/de webinaire.
+2. Dans Stream Designer, une fois que l&#39;utilisateur a répondu « Oui », ajoutez une carte de questions « Vous avez déjà partagé votre adresse e-mail avec nous. Voulez-vous conserver ceci pour les détails de l’événement ? »
+3. S’ils répondent « Oui », ajoutez une carte de message « Vous recevrez un e-mail de confirmation dans votre e-mail contenant les détails de l’événement/du webinaire ».
+4. S&#39;ils répondent « Non », ajoutez une carte de message « Veuillez remplir le formulaire sur la page d&#39;inscription ».
+5. Créez un lien de test, cliquez sur « Publier », puis partagez-le avec le demandeur.
+6. Dans l’onglet Audience , ajoutez [l’e-mail n’est pas vide].
 
->[!TAB Marketo Engage]
+>[!TAB Tab&#x200B;]
 
-1. Ajoutez ce nouveau dialogue au suivi de la campagne dynamique dans Marketo Engage et testez-le.
+1. Ajoutez cette nouvelle boîte de dialogue à la campagne intelligente de suivi dans Marketo Engage et testez-la.
 
 >[!ENDTABS]
 
-### Cas d’utilisation 3 : extension de l’engagement du contenu d’une campagne
+### Cas d’utilisation 3 : extension de l’engagement du contenu de campagne
 
-Imaginez une fenêtre captivante qui attire votre oeil et vous attire dans un magasin. Si un réceptionniste vous aide alors à sélectionner des produits ou à répondre à vos questions, vous pouvez vous sentir plus à l&#39;aise pour faire un achat. Pour répliquer cette expérience en ligne, la boîte de dialogue de votre Dynamic Chat peut s’afficher sur les pages web où vos campagnes marketing orientent les visiteurs. Lorsque les utilisateurs interagissent avec le contenu web, Dynamic Chat affiche immédiatement les conversations pertinentes, suggérant du contenu supplémentaire ou répondant à des questions potentielles. Pour ce faire, utilisez les déclencheurs d’automatisation pour activer les campagnes de Dynamic Chat en fonction de l’engagement des utilisateurs dans les programmes de Marketo Engage. Maintenant, voyons comment donner vie à ce cas pratique.
+Imaginez qu’un écran de fenêtre captivant attire votre attention et vous entraîne dans un magasin. Si une réceptionniste vous aide ensuite à choisir des produits ou répond à vos questions, vous vous sentirez peut-être plus à l&#39;aise de faire un achat. Pour répliquer cette expérience en ligne, vous pouvez afficher la boîte de dialogue Dynamic Chat sur les pages web vers lesquelles vos campagnes marketing dirigent les visiteurs. Lorsque les utilisateurs et utilisatrices consultent le contenu web, Dynamic Chat affiche immédiatement les conversations pertinentes, suggérant du contenu supplémentaire ou répondant à des questions potentielles. Pour ce faire, utilisez des déclencheurs d’automatisation pour activer les campagnes Dynamic Chat en fonction de l’interaction client dans les programmes Marketo Engage. Maintenant, voyons comment donner vie à ce cas d’utilisation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429199/?learn=on)
 
-Extension de l&#39;engagement du contenu Campaign - Configuration :
+Extension de l’engagement de contenu de Campaign - Configuration :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429200/?learn=on)
 
 >[!BEGINTABS]
 
->[!TAB Dynamic Chat]
+>[!TAB Tab]
 
-1. Générez de nouvelles pistes pour vos campagnes par courrier électronique et les points de contact des campagnes sur les réseaux sociaux. Dans cet exemple, l&#39;enquête de l&#39;index de santé Talent est hébergée sur le site web de la marque.
-2. Cloner un modèle de dialogue existant (dialogue fourre-tout par défaut, par exemple) pour créer trois boîtes de dialogue pour les scénarios suivants et mettre à jour l’&quot;URL cible&quot; dans l’onglet &quot;Audience&quot; en conséquence :
-   * Lorsque des visiteurs web sont venus de vos canaux marketing et arrivent sur votre page web.
+1. Générez de nouveaux leads pour vos campagnes via les points de contact des e-mails et des campagnes sociales. Dans cet exemple, l’enquête de l’indice de santé Talent est hébergée sur le site web de la marque.
+2. Clonez un modèle de boîte de dialogue existant (par exemple, une boîte de dialogue fourre-tout par défaut) pour créer trois boîtes de dialogue pour les scénarios suivants et mettez à jour l’« URL cible » dans l’onglet « Audience » en conséquence :
+   * Lorsque les visiteurs et visiteuses web proviennent de vos canaux marketing et accèdent à votre page web.
    * Sur la page de remerciement
-   * Tout visiteur qui revient sur votre site web dans les 45 jours suivant la campagne marketing (reciblage)
+   * Tous les visiteurs et visiteuses qui reviennent sur votre site web dans les 45 jours suivant l’engagement dans la campagne marketing (reciblage)
 
 >[!ENDTABS]
 
-## Quelle est la suite ?
+## Quelle est la prochaine étape ?
 
-* Faites correspondre votre flux de conversation dans [Stream Designer](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} ou un diagramme de flux hors ligne.
-* Créez un dialogue fourre-tout par défaut en Dynamic Chat.
-* Activez les conversations après l’engagement de la campagne à l’aide de déclencheurs d’automatisation dans Marketo Engage.
+* Mappez votre flux de conversation dans [Stream Designer](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} ou un diagramme de flux hors ligne.
+* Créez une boîte de dialogue fourre-tout par défaut dans Dynamic Chat.
+* Activez les conversations après l’engagement de campagne à l’aide de déclencheurs d’automatisation dans Marketo Engage.
 
 
 ## Auteurs

@@ -8,7 +8,7 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '228'
 ht-degree: 16%
 
 ---
@@ -74,9 +74,9 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 
 </div>
 
-## Ressources supplémentaires
+## Autres ressources
 
-* [Nation de Marketo (communautés)](https://nation.marketo.com/)
-* [Documentation Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=fr)
+* [Nation Marketo (communautés)](https://nation.marketo.com/)
+* [Documentation d’Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=fr)
 * [Tutoriels Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr)
 * [Informations sur les produits Adobe Marketo Engage](https://business.adobe.com/fr/products/marketo/adobe-marketo.html)

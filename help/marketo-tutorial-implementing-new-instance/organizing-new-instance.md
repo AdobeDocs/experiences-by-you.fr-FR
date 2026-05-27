@@ -12,7 +12,7 @@ thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '1166'
+source-wordcount: '1291'
 ht-degree: 2%
 
 ---
@@ -115,7 +115,7 @@ Maintenant, plaçons les valeurs dans la formule et générons les noms des prog
 En descendant d’un niveau pour nommer les ressources, il est préférable de ne pas répéter le nom du programme et d’utiliser des identifiants courts et génériques pour une utilisation ultérieure de clonage. Voici quelques conseils rapides à garder à l’esprit :
 
 * Numérotez les ressources en fonction de leur ordre dans le processus du programme.
-* Utilisez « - » (trait d’union) pour séparer les composants de dénomination au lieu de « . »(point) ou « \ » (trait de soulignement).
+* Utilisez « - » (trait d’union) pour séparer les composants d’affectation de nom au lieu de « . » (point) ou « \ » (trait de soulignement).
    * Pourquoi ? Marketo Engage utilise un point pour séparer le nom du programme du nom de la campagne. L’utilisation de « \_ » vous empêche de le voir lorsque la ressource comporte un lien hypertexte.
 * Utilisez des acronymes standard dans les noms de ressources pour raccourcir la référence et toujours permettre une reconnaissance facile.
 
@@ -162,7 +162,7 @@ Dans cette optique, nous appliquerons ces conseils aux ressources suivantes et c
 
 ##### Nommez les fichiers téléchargeables (.pdf) en utilisant l’abréviation du type de ressource.
 
-| **Type de ressource** | **Description du contenu** | **\-** | **Abréviation du type de ressource** | **,** | **PDF** |
+| **Type de ressource** | **Description du contenu** | **\-** | **Abréviation du type de ressource** | **.** | **PDF** |
 | --- | --- | --- | --- | --- | --- |
 | WP - Livre blanc | Description du contenu | \- | WP | . | pdf |
 | CS - Étude de cas | Description du contenu | \- | CS | . | pdf |
@@ -170,19 +170,19 @@ Dans cette optique, nous appliquerons ces conseils aux ressources suivantes et c
 
 | **Exemples : fichiers PDF téléchargeables** |
 | --- |
-| XYZ-Gadget-DS.pdf |
+| XYZ-gadget-DS.pdf |
 | Acme-Company-CS.pdf |
-| How-XYZ-Gadgets-make-life-easier-WP.pdf |
+| How-XYZ-Gadgets-make-life-easy-WP.pdf |
 
 >[!CAUTION]
 >
 >Lorsque vous nommez des fichiers dans les exemples ci-dessus, n’utilisez pas d’espaces et évitez d’utiliser des traits de soulignement « \_ »
 
-## Quelle est la suite ?
+## Quelle est la prochaine étape ?
 
 * Téléchargez la feuille de calcul : [Organisation Marketo Engage et conventions de nommage](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} pour prendre en charge la création de la structure de dossiers et des conventions de nommage.
 * Une fois que vous avez déterminé les composants nécessaires dans votre convention d’affectation des noms standard, pensez à créer des formules dans une feuille de calcul Google Sheet ou Microsoft Excel. Pour une utilisation ultérieure, il vous suffit d’entrer vos valeurs dans la feuille de calcul pour générer les noms de vos programmes.
-* Une fois que vous vous êtes aligné sur une structure de dossiers globale, il est temps de réfléchir aux modèles dont vous avez besoin en fonction des cas d’utilisation les plus fréquents et des demandes les plus courantes que votre équipe reçoit. Commencez ensuite à créer votre premier modèle de programme. Lisez la suite pour commencer à utiliser les [modèles de programme Adobe Marketo Engage](https://business.adobe.com/fr/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
+* Une fois que vous vous êtes aligné sur une structure de dossiers globale, il est temps de réfléchir aux modèles dont vous avez besoin en fonction des cas d’utilisation les plus fréquents et des demandes les plus courantes que votre équipe reçoit. Commencez ensuite à créer votre premier modèle de programme. Lisez la suite pour commencer à utiliser les [modèles de programme &#x200B;](https://business.adobe.com/fr/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
 
 ### Auteurs
 

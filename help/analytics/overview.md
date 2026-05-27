@@ -8,8 +8,8 @@ solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 19%
+source-wordcount: '223'
+ht-degree: 28%
 
 ---
 
@@ -74,9 +74,9 @@ La chose la plus puissante à propos des solutions [!DNL Adobe Experience Cloud]
 
 </div>
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Communauté Experience League Adobe Analytics](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr)
-* [Documentation Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=fr)
-* [Tutoriels Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr)
+* [Documentation Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=fr)
+* [Tutoriels Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr)
 * [Informations sur les produits Adobe Analytics](https://business.adobe.com/fr/products/analytics/adobe-analytics.html)

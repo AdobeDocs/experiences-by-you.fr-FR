@@ -15,7 +15,7 @@ ht-degree: 12%
 
 # Expériences par vous : ressources par utilisateurs, pour les utilisateurs.
 
-Ce qui est le plus puissant dans les solutions d’expérience digitale (DX) [!DNL Adobe] ? Toi. Les utilisateurs qui prennent les produits, les étudient et les appliquent de manière étonnante et innovante pour créer des expériences et des résultats significatifs. _Experiences by You_ propose du contenu créé par des utilisateurs ordinaires qui ont atteint un niveau d’expertise et d’influence grâce à leurs solutions DX [!DNL Adobe]. Ces connaissances peer-to-peer encouragent la collaboration et la découverte et vous permettent, ainsi qu&#39;à tout autre utilisateur, de trouver l&#39;inspiration nécessaire pour améliorer votre expertise en matière de produits.
+Ce qui est le plus puissant dans les solutions d’expérience digitale (DX) [!DNL Adobe] ? Toi. Les utilisateurs qui prennent les produits, les étudient et les appliquent de manière étonnante et innovante pour créer des expériences et des résultats significatifs. _Experiences by You_ propose du contenu créé par des utilisateurs quotidiens qui ont atteint un niveau d’expertise et d’influence avec leurs solutions [!DNL Adobe] DX. Ces connaissances peer-to-peer encouragent la collaboration et la découverte et vous permettent, ainsi qu&#39;à tout autre utilisateur, de trouver l&#39;inspiration nécessaire pour améliorer votre expertise en matière de produits.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
