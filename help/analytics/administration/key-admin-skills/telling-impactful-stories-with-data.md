@@ -48,7 +48,7 @@ Communiquez l’action recommandée et les mesures à prendre pour y parvenir.  
 
 Ce document a été rédigé par :
 
-![ Amy Ard ](assets/amy-ard-headshot-small.png)
+![&#x200B; Amy Ard &#x200B;](assets/amy-ard-headshot-small.png)
 
 Amy Ard, directrice des [!DNL Analytics] chez Levelwing
 

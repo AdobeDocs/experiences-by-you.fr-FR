@@ -75,7 +75,7 @@ Comme vous pouvez le constater, les histogrammes ont non seulement leur propre u
 
 Ce document a été rédigé par :
 
-![ Gitai Ben-Ammi ](assets/gitai-headshot.png)
+![&#x200B; Gitai Ben-Ammi &#x200B;](assets/gitai-headshot.png)
 
 **Gitai Ben-Ammi**, Consultant principal chez Concentrix Catalyst
 
