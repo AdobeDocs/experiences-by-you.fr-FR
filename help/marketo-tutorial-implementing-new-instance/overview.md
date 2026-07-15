@@ -42,8 +42,8 @@ Cette série « Conseils et astuces pour la mise en œuvre d’une nouvelle inst
 
 * [Synchronisation des champs pour les connecteurs CRM natifs](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *Découvrez comment rationaliser votre intégration CRM initiale en sélectionnant de manière stratégique les champs CRM essentiels à l’utilisation de Marketo Engage. Effectuez l’exercice du dictionnaire de données pour identifier les champs dont vous avez besoin pour une synchronisation CRM fluide qui aide les équipes commerciales et marketing à rester alignées.*
-   * [Prise en main de la synchronisation Salesforce](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target=« _blank}
-   * [Prise en main de la synchronisation Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target=« _blank}
+   * [Prise en main de la synchronisation Salesforce](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target=« _blank}
+   * [Prise en main de la synchronisation Microsoft Dynamics](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target=« _blank}
 <br>
 
 * [Organisation d’une nouvelle instance et établissement de conventions de nommage](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
