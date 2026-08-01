@@ -59,6 +59,6 @@ Cette série « Conseils et astuces pour la mise en œuvre d’une nouvelle inst
 
 ## Ressources supplémentaires
 
-* [Mise en œuvre d’une nouvelle instance Marketo Engage avec des listes de contrôle de bonnes pratiques](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target=« _blank}
+* [Mise en œuvre d’une nouvelle instance Marketo Engage avec des listes de contrôle de bonnes pratiques](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target=« _blank}
   *Chaque liste de contrôle fournit des étapes importantes pour vous permettre de suivre l’avancement de votre configuration. Utilisez les listes de contrôle téléchargeables pour documenter votre travail en cours de route pour les audits d’instances futurs et l’intégration des utilisateurs.*
 
