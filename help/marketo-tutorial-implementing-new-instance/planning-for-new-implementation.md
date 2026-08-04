@@ -128,7 +128,7 @@ L’implémentation d’une nouvelle instance nécessite une planification et un
 
 Écoutez le champion Marketo Engage (2019), Kyle McCormick, sur ses expériences d’intégration et de mise en œuvre chez Palotos Networks. Vous découvrirez les défis auxquels il a été confronté et ses conseils sur la manière de mener à bien et efficacement votre processus d’intégration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447932/?captions=fre_fr&quality=12&learn=on)
 
 ## Quelle est la prochaine étape ?
 

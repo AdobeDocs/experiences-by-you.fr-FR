@@ -32,7 +32,7 @@ Ce qu’il y a de plus puissant dans les solutions [!DNL Adobe] Experience Cloud
 <tr>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-      <img alt="Conseils et astuces - Modèles modifiables" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
+      <img alt="Conseils et astuces - Modèles modifiables" src="https://video.tv.adobe.com/v/3439839?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
@@ -58,7 +58,7 @@ Ce qu’il y a de plus puissant dans les solutions [!DNL Adobe] Experience Cloud
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="Conseils et astuces" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="Conseils et astuces" src="https://video.tv.adobe.com/v/3439473?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
