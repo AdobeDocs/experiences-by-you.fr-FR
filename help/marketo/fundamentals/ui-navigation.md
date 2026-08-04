@@ -1,6 +1,6 @@
 ---
-title: Naviguer dans l’interface utilisateur de  [!DNL Marketo Engage]
-description: Découvrez comment naviguer dans l’interface utilisateur et vous familiariser avec votre façon de contourner la plateforme  [!DNL Marketo Engage] .
+title: Naviguer dans l [!DNL Marketo Engage] interface utilisateur
+description: Découvrez la navigation dans l’interface utilisateur et familiarisez [!DNL Marketo Engage] vous avec la plateforme .
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,20 +13,20 @@ feature: Modern UX
 exl-id: b1bb3d32-bbf3-48e5-999b-102ddd501124
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 27%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 
-# Naviguer dans l’interface utilisateur de [!DNL Marketo Engage]
+# Naviguer dans l’interface utilisateur [!DNL Marketo Engage]
 
 Découvrez la navigation dans l’interface utilisateur et familiarisez-vous avec la plateforme [!DNL Marketo Engage].
 
->[!VIDEO](https://video.tv.adobe.com/v/3450675/?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
 
 ## Ressources supplémentaires
 
-* [[!DNL Marketo Engage] glossaire](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=fr)
-Définitions de la plupart des termes que vous pouvez rencontrer lors de l’utilisation de Marketo.
-* [Glossaire des icônes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=fr)
+* [[!DNL Marketo Engage] glossaire](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+Définitions de nombreux termes que vous pouvez rencontrer lors de l’utilisation de Marketo.
+* [Glossaire des icônes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
 Glossaire des icônes de l’interface [!DNL Marketo Engage].

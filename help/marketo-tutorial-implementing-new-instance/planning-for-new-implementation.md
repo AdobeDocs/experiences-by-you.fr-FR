@@ -38,7 +38,7 @@ Dans ce tutoriel, nous aborderons les jalons spécifiques, les engagements des �
 
 ### Phase 3 - Création de bibliothèques de programmes et configuration de campagnes
 
-- Développer des modèles d&#39;email et des landing pages. À partir de [importation de programmes de démarrage](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) dans la [bibliothèque d’importation de programmes](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Développer des modèles d&#39;email et des landing pages. À partir de [importation de programmes de démarrage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) dans la [bibliothèque d’importation de programmes](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Configuration des règles Segmentation et Personalization
 - Créer des campagnes initiales pour la génération de pistes et le soutien
 
@@ -294,7 +294,7 @@ Vous pouvez également télécharger l&#39;exemple pour modifier et suivre des t
 >[!NOTE]
 >Les exemples fournis ne reposent pas sur un calendrier d’implémentation réel. Ne vous fiez pas à ces éléments comme calendrier standard d’intégration à Marketo Engage, car chaque implémentation est unique avec différents jalons et exigences en fonction des besoins de votre entreprise.
 
-Pour obtenir une assistance pratique sur l’implémentation et la personnalisation de votre Marketo Engage pour votre instance, contactez l’équipe du compte Adobe ou contactez [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir une assistance pratique sur l’implémentation et la personnalisation de votre Marketo Engage pour votre instance, contactez l’équipe du compte Adobe ou contactez [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ### Auteur
 
