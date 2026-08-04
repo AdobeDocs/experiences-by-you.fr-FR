@@ -53,7 +53,7 @@ Cette boîte de dialogue propose cinq options initiales aux visiteurs du site, c
 
 >[!BEGINTABS]
 
->[!TAB ]
+>[!TAB Tab]
 
 #### Phase 1
 
@@ -67,7 +67,7 @@ Cette boîte de dialogue propose cinq options initiales aux visiteurs du site, c
 2. Dans « Paramètres », ajoutez le nom, la description, la priorité et la langue de la campagne.
 3. Cliquez sur Publier.
 
->[!TAB ]
+>[!TAB Tab&#x200B;]
 
 #### Phase 1
 
@@ -90,7 +90,7 @@ Vous pouvez améliorer la Boîte de dialogue fourre-tout par défaut en incorpor
 
 >[!BEGINTABS]
 
->[!TAB ]
+>[!TAB Tab]
 
 1. Clonez la « Boîte de dialogue par défaut » et renommez-la.
 2. Dans « Stream Designer », adaptez les messages de la boîte de dialogue au secteur cible (un seul flux + la question initiale).
@@ -100,7 +100,7 @@ Vous pouvez améliorer la Boîte de dialogue fourre-tout par défaut en incorpor
 6. Dans « Paramètres », ajoutez le nom de la campagne, la priorité de description et la langue.
 7. Cliquez sur « Publier ».
 
->[!TAB ]
+>[!TAB Tab&#x200B;]
 
 1. Créez votre campagne intelligente de suivi et testez l’objectif.
 2. Testez à nouveau la campagne intelligente de suivi après avoir publié la boîte de dialogue.
@@ -115,7 +115,7 @@ Les événements et webinaires sont des tactiques marketing populaires pour les 
 
 >[!BEGINTABS]
 
->[!TAB ]
+>[!TAB Tab]
 
 #### Phase 1
 
@@ -130,7 +130,7 @@ Les événements et webinaires sont des tactiques marketing populaires pour les 
 5. Examen par les pairs et application des commentaires.
 
 
->[!TAB ]
+>[!TAB Tab&#x200B;]
 
 #### Phase 1
 
@@ -154,7 +154,7 @@ Vous pouvez offrir une expérience encore meilleure aux visiteurs et visiteuses 
 
 >[!BEGINTABS]
 
->[!TAB ]
+>[!TAB Tab]
 
 1. Clonez la boîte de dialogue de promotion d’événement/de webinaire.
 2. Dans Stream Designer, une fois que l&#39;utilisateur a répondu « Oui », ajoutez une carte de questions « Vous avez déjà partagé votre adresse e-mail avec nous. Voulez-vous conserver ceci pour les détails de l’événement ? »
@@ -163,7 +163,7 @@ Vous pouvez offrir une expérience encore meilleure aux visiteurs et visiteuses 
 5. Créez un lien de test, cliquez sur « Publier », puis partagez-le avec le demandeur.
 6. Dans l’onglet Audience , ajoutez [l’e-mail n’est pas vide].
 
->[!TAB ]
+>[!TAB Tab&#x200B;]
 
 1. Ajoutez cette nouvelle boîte de dialogue à la campagne intelligente de suivi dans Marketo Engage et testez-la.
 
@@ -181,7 +181,7 @@ Extension de l’engagement de contenu de Campaign - Configuration :
 
 >[!BEGINTABS]
 
->[!TAB ]
+>[!TAB Tab]
 
 1. Générez de nouveaux leads pour vos campagnes via les points de contact des e-mails et des campagnes sociales. Dans cet exemple, l’enquête de l’indice de santé Talent est hébergée sur le site web de la marque.
 2. Clonez un modèle de boîte de dialogue existant (par exemple, une boîte de dialogue fourre-tout par défaut) pour créer trois boîtes de dialogue pour les scénarios suivants et mettez à jour l’« URL cible » dans l’onglet « Audience » en conséquence :
