@@ -8,14 +8,14 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '265'
 ht-degree: 16%
 
 ---
 
 # Marketo by You : ressources par utilisateurs, pour les utilisateurs.
 
-Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? Toi. Les utilisateurs qui prennent les produits, les étudient et les appliquent de manière étonnante et innovante pour créer des expériences et des résultats significatifs. Experience by You propose du contenu créé par des utilisateurs quotidiens qui ont atteint un niveau d’expertise et d’influence grâce à leurs solutions [!DNL Adobe] Experience Cloud. Ces connaissances peer-to-peer encouragent la collaboration et la découverte et vous permettent, ainsi qu&#39;à tout autre utilisateur, de trouver l&#39;inspiration nécessaire pour améliorer votre expertise en matière de produits.
+Ce qu’il y a de plus puissant dans les solutions [!DNL Adobe] Experience Cloud ? Toi. Les utilisateurs qui prennent les produits, les étudient et les appliquent de manière étonnante et innovante pour créer des expériences et des résultats significatifs. Experience by You propose du contenu créé par des utilisateurs quotidiens qui ont atteint un niveau d’expertise et d’influence grâce à leurs solutions [!DNL Adobe] Experience Cloud. Ces connaissances peer-to-peer encouragent la collaboration et la découverte et vous permettent, ainsi qu&#39;à tout autre utilisateur, de trouver l&#39;inspiration nécessaire pour améliorer votre expertise en matière de produits.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,7 +32,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="Naviguer dans l’interface utilisateur [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3450675?captions=fre_fr&format=jpeg" />
+      <img alt="Naviguer dans l’interface utilisateur [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3450428?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -74,7 +74,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 
 </div>
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Nation Marketo (communautés)](https://nation.marketo.com/)
 * [Documentation d’Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=fr)

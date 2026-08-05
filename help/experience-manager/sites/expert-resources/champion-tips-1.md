@@ -1,7 +1,7 @@
 ---
-title: AEM Conseils et astuces pour champions - Modèles modifiables 1
+title: Conseils et astuces AEM Champion - Modèles modifiables 1
 seo-title: AEM Champion Tips and Tricks - Editable Templates 1
-description: Consultez ces conseils rapides pour les modèles modifiables dans AEM Sites par AEM Champion et expert, Greg Dimeris. Essayez-les dans votre instance aujourd'hui.
+description: Consultez ces conseils rapides pour les modèles modifiables dans AEM Sites par Greg Dimeris, champion et expert d’AEM. Faites-les l’essai dans votre instance dès aujourd’hui.
 seo-description: Check out these quick tips for Editable Templates in AEM Sites by AEM Champion and expert, Greg Dimeris. Try them out in your instance today.
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager Sites
 feature-set: Marketo Engage, Experience Manager Sites
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 ---
 
-# AEM Conseils et astuces pour champions : modèles modifiables
+# Conseils et astuces AEM Champion : modèles modifiables
 
->[!VIDEO](https://video.tv.adobe.com/v/3409424?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439839?captions=fre_fr&quality=12&learn=on)

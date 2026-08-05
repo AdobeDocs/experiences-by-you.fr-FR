@@ -49,7 +49,7 @@ Voyons ces cas pratiques en action comme Sara présente son processus, de la car
 
 Cette boîte de dialogue propose cinq options initiales aux visiteurs du site, ce qui crée une expérience autoguidée qui les aide à trouver les informations dont ils ont besoin en fonction de leur personnalité. Pour commencer, vous pouvez explorer votre boîte de réception e-mail « Contactez-nous » pour identifier les thèmes communs et les classer en options de boîte de dialogue qui s’appliquent aux visiteurs de votre site. Regardez la démonstration et suivez les étapes ci-dessous pour créer votre boîte de dialogue fourre-tout par défaut :
 
->[!VIDEO](https://video.tv.adobe.com/v/3454849/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446477/?captions=fre_fr&learn=on)
 
 >[!BEGINTABS]
 
@@ -86,7 +86,7 @@ Cette boîte de dialogue propose cinq options initiales aux visiteurs du site, c
 
 Vous pouvez améliorer la Boîte de dialogue fourre-tout par défaut en incorporant du contenu ciblé par le secteur, ce qui rend les conversations encore plus utiles pour les visiteurs et les visiteuses. Par exemple, proposez des livres blancs ou des études de cas spécifiques à un secteur que vos visiteurs peuvent télécharger. Regardez la démonstration et suivez les étapes ci-dessous pour créer une boîte de dialogue fourre-tout par défaut pour le marketing basé sur les comptes :
 
->[!VIDEO](https://video.tv.adobe.com/v/3429195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441387/?captions=fre_fr&learn=on)
 
 >[!BEGINTABS]
 
@@ -111,7 +111,7 @@ Vous pouvez améliorer la Boîte de dialogue fourre-tout par défaut en incorpor
 
 Les événements et webinaires sont des tactiques marketing populaires pour les entreprises B2B afin de générer de la demande. Ils offrent des expériences attrayantes et des informations riches qui attirent les clients potentiels. La connexion des visiteurs et visiteuses de votre site web aux événements et webinaires à venir vous permet de qualifier les clientes et clients potentiels encore plus rapidement. La création de cette boîte de dialogue demande peu d’efforts et est peu coûteuse. Elle peut rapidement s’avérer efficace et vous aider à obtenir le soutien des parties prenantes marketing pour ajouter l’engagement conversationnel à votre plan d’automatisation omnicanal. Regardez la démonstration et suivez les étapes ci-dessous pour créer votre boîte de dialogue de promotion d’événement/webinaire :
 
->[!VIDEO](https://video.tv.adobe.com/v/3429196/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445092/?captions=fre_fr&learn=on)
 
 >[!BEGINTABS]
 
@@ -150,7 +150,7 @@ Vous pouvez offrir une expérience encore meilleure aux visiteurs et visiteuses 
 >[!NOTE]
 >Veuillez tenir compte des risques de sécurité potentiels encourus par certains États/pays protecteurs et mettre en œuvre cette personnalisation avec soin en consultant votre équipe juridique.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429197/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437091/?captions=fre_fr&learn=on)
 
 >[!BEGINTABS]
 
@@ -173,11 +173,11 @@ Vous pouvez offrir une expérience encore meilleure aux visiteurs et visiteuses 
 
 Imaginez qu’un écran de fenêtre captivant attire votre attention et vous entraîne dans un magasin. Si une réceptionniste vous aide ensuite à choisir des produits ou répond à vos questions, vous vous sentirez peut-être plus à l&#39;aise de faire un achat. Pour répliquer cette expérience en ligne, vous pouvez afficher la boîte de dialogue Dynamic Chat sur les pages web vers lesquelles vos campagnes marketing dirigent les visiteurs. Lorsque les utilisateurs et utilisatrices consultent le contenu web, Dynamic Chat affiche immédiatement les conversations pertinentes, suggérant du contenu supplémentaire ou répondant à des questions potentielles. Pour ce faire, utilisez des déclencheurs d’automatisation pour activer les campagnes Dynamic Chat en fonction de l’interaction client dans les programmes Marketo Engage. Maintenant, voyons comment donner vie à ce cas d’utilisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429199/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437581/?captions=fre_fr&learn=on)
 
 Extension de l’engagement de contenu de Campaign - Configuration :
 
->[!VIDEO](https://video.tv.adobe.com/v/3429200/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439495/?captions=fre_fr&learn=on)
 
 >[!BEGINTABS]
 
