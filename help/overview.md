@@ -4,15 +4,13 @@ description: Avec d’autres clients Adobe, découvrez comment ils utilisent les
 role: User, Developer, Admin
 level: Beginner
 doc-type: overview
-solution: Experience Cloud
+solution: CX Enterprise
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
+source-git-commit: 9589a00f530e3a2d2897c9e2bd4efc0baf0ff125
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 12%
-
 ---
-
 # Expériences par vous : ressources par utilisateurs, pour les utilisateurs.
 
 Ce qui est le plus puissant dans les solutions d’expérience digitale (DX) [!DNL Adobe] ? Toi. Les utilisateurs qui prennent les produits, les étudient et les appliquent de manière étonnante et innovante pour créer des expériences et des résultats significatifs. _Experiences by You_ propose du contenu créé par des utilisateurs quotidiens qui ont atteint un niveau d’expertise et d’influence avec leurs solutions [!DNL Adobe] DX. Ces connaissances peer-to-peer encouragent la collaboration et la découverte et vous permettent, ainsi qu&#39;à tout autre utilisateur, de trouver l&#39;inspiration nécessaire pour améliorer votre expertise en matière de produits.
@@ -32,7 +30,7 @@ Ce qui est le plus puissant dans les solutions d’expérience digitale (DX) [!D
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe Analytics] Conseils et astuces" src="https://video.tv.adobe.com/v/3422278?captions=fre_fr&format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] Conseils et astuces" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
@@ -45,7 +43,7 @@ Ce qui est le plus puissant dans les solutions d’expérience digitale (DX) [!D
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Marketo Engage] Programmes de messagerie" src="https://video.tv.adobe.com/v/3453369?captions=fre_fr&format=jpeg" />
+      <img alt="[!DNL Marketo Engage] Programmes de messagerie" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
@@ -78,5 +76,5 @@ Ce qui est le plus puissant dans les solutions d’expérience digitale (DX) [!D
 * [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=fr)
 * [Documentation Experience Cloud](https://experienceleague.adobe.com/docs/?lang=fr)
 * [Tutoriels sur Experience Cloud](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr)
-* [business.adobe.com](https://business.adobe.com/fr)
+* [business.adobe.com](https://business.adobe.com)
 
