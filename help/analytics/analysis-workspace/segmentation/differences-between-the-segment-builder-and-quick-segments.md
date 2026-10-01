@@ -58,7 +58,7 @@ Dans l’ensemble, les segments rapides et le créateur de segments sont tous de
 
 Ce document a été rédigé par :
 
-![ Mandy George ](assets/mandy-george-2.png)
+![&#x200B; Mandy George &#x200B;](assets/mandy-george-2.png)
 
 **Mandy George**, analyste numérique III à Best Buy Canada
 
@@ -66,4 +66,4 @@ Adobe Analytics Champion
 
 ## Téléchargement
 
-[![Téléchargement De Segments Rapides](assets/quick-segments-download-small.jpg)](Assets/ Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
+[![Téléchargement De Segments Rapides](assets/quick-segments-download-small.jpg)] (Assets/ Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
