@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
 exl-id: f615c9af-9920-4a10-a55a-c750b39d5aea
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 8%
-
 ---
-
 # Créer des sessions de formation enregistrées de base et de courtes vidéos
 
 **QUOI :** créez des vidéos de formation simples et courtes qui couvrent un large éventail de sujets de base et avancés. Ainsi, lorsque de nouveaux utilisateurs utilisent beaucoup l’outil, vous ne diffusez pas le même contenu à chaque fois par le biais d’une réunion.
@@ -35,7 +48,7 @@ ht-degree: 8%
 
 Vous pouvez ensuite facilement diriger les utilisateurs vers ces pages au lieu d’écrire de longs e-mails ou d’avoir encore une réunion. Pour plus d’astuces et de conseils sur la formation des utilisateurs, consultez [[!DNL Adobe] l’article du champion Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=fr){target="_blank"} sur comment simplifier la formation des utilisateurs et y consacrer moins de temps.
 
-En outre, il y a une pléthore (oui, une pléthore) de [&#x200B; tutoriels vidéo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"} sur [!DNL Adobe] Experience League, ainsi que de [&#x200B; cours gratuits](https://experienceleague.adobe.com/fr?lang=fr#dashboard/learning){target="_blank"}. Si vous avez besoin d’une vidéo spécifique aux données de votre entreprise et aux KPI de votre entreprise, alors enregistrez absolument vos propres vidéos. Mais si une vidéo pédagogique générale suffit, il n&#39;y a aucune raison de réinventer la roue.
+En outre, il y a une pléthore (oui, une pléthore) de [ tutoriels vidéo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"} sur [!DNL Adobe] Experience League, ainsi que de [ cours gratuits](https://experienceleague.adobe.com/?lang=fr#dashboard/learning){target="_blank"}. Si vous avez besoin d’une vidéo spécifique aux données de votre entreprise et aux KPI de votre entreprise, alors enregistrez absolument vos propres vidéos. Mais si une vidéo pédagogique générale suffit, il n&#39;y a aucune raison de réinventer la roue.
 
 ## Auteurs
 
@@ -46,6 +59,6 @@ Ce document a été coécrit par :
 Christel Guidon, responsable de la plateforme Digital [!DNL Analytics] chez NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![&#x200B; Rachel Fenwick &#x200B;](assets/Rachel-Fenwick-150.png)
+![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, conseillère principale chez [!DNL Adobe]

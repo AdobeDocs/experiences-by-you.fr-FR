@@ -6,17 +6,36 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 36000
-last-substantial-update: 2024-03-25T00:00:00Z
+last-substantial-update: 2024-03-25T00:00:00.000Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
-source-git-commit: 69fa16c1bf38604e4dabc553baee71598be83db3
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '4166'
 ht-degree: 1%
-
 ---
-
 # La magie derrière le rideau : segments complexes : exclusions, conteneurs et attribution
 
 _Découvrez les subtilités de la segmentation de données complexe, en explorant les exclusions, les conteneurs et les modèles d’attribution. Comme un tour de passe-passe magicien, la maîtrise de ces techniques permet aux analystes d&#39;effectuer la magie des données, transformant les informations avec précision et finesse._
@@ -60,33 +79,33 @@ Vous vous dites peut-être : « D&#39;accord, mais j&#39;ai déjà les options �
 
 ![Figure2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*Comme ci-dessus, chaque accès au cours de la **visite**&#x200B;sera évalué avec le même true/false. Cependant, le jeu de données renvoyé est celui de l’ensemble de la visite.*
+*Comme ci-dessus, chaque accès au cours de la **visite**sera évalué avec le même true/false. Cependant, le jeu de données renvoyé est celui de l’ensemble de la visite.*
 
 - À chaque accès, « Valeur » ne contient pas « Exemple » (oui), donc renvoyez la valeur true ; de même, « Exemple » ne contient pas « Exemple » (non, il en contient), donc renvoyez la valeur false.
-   - Si l’accès **any** dans la visite renvoie **true**, la **visite complète** est renvoyée.*
-   - Si la visite était entièrement composée d’accès contenant « Exemple », aucun accès ne renverrait de valeur true et, par conséquent, cette visite ne serait **renvoyée** dans votre jeu de données.
+  - Si l’accès **any** dans la visite renvoie **true**, la **visite complète** est renvoyée.*
+  - Si la visite était entièrement composée d’accès contenant « Exemple », aucun accès ne renverrait de valeur true et, par conséquent, cette visite ne serait **renvoyée** dans votre jeu de données.
 - Encore une fois, à chaque accès « Example » contient « Example » (oui), donc retourne true
-   - Si **tout accès** renvoie **true**, la visite entière sera **exclue**
-   - Si **tous les accès** de la visite renvoient **false**, cette visite est renvoyée dans votre jeu de données
+  - Si **tout accès** renvoie **true**, la visite entière sera **exclue**
+  - Si **tous les accès** de la visite renvoient **false**, cette visite est renvoyée dans votre jeu de données
 - Maintenant vous pouvez voir où cette logique commence à diverger. Dans l’exemple ci-dessus, il existe trois visites distinctes :
-   - Lorsque vous utilisez « Ne contient pas / est égal à » **deux des trois** visites sont renvoyées.
-   - Lorsque vous utilisez « Exclure contient/est égal à » **une seule** ces visites est renvoyée
+  - Lorsque vous utilisez « Ne contient pas / est égal à » **deux des trois** visites sont renvoyées.
+  - Lorsque vous utilisez « Exclure contient/est égal à » **une seule** ces visites est renvoyée
 
 **Figure 3 : Ne contient pas / n’est pas égal à - Portée de la visite**
 
 ![Figure3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*Comme ci-dessus, chaque accès réalisé par le **visiteur**&#x200B;sera évalué avec la même logique vrai/faux. Cependant, nous examinons maintenant tous les accès que ce visiteur a effectués, au cours de toutes les visites (dans la période sélectionnée).*
+*Comme ci-dessus, chaque accès réalisé par le **visiteur**sera évalué avec la même logique vrai/faux. Cependant, nous examinons maintenant tous les accès que ce visiteur a effectués, au cours de toutes les visites (dans la période sélectionnée).*
 
 - À chaque accès, « Valeur » ne contient pas « Exemple » (oui), donc renvoyez la valeur true ; de même, « Exemple » ne contient pas « Exemple » (non, il en contient), donc renvoyez la valeur false.
-   - Si l’accès **any** effectué par le visiteur renvoie **true**, la **visite complète** est renvoyée.
-   - Si le visiteur n’a jamais effectué d’accès contenant « Exemple », aucun accès ne renvoie true et, par conséquent, ce visiteur n’est **renvoyé** dans votre jeu de données.
+  - Si l’accès **any** effectué par le visiteur renvoie **true**, la **visite complète** est renvoyée.
+  - Si le visiteur n’a jamais effectué d’accès contenant « Exemple », aucun accès ne renvoie true et, par conséquent, ce visiteur n’est **renvoyé** dans votre jeu de données.
 - Encore une fois, à chaque accès « Example » contient « Example » (oui), donc retourne true.
-   - Si **tout accès** renvoie **true**, le visiteur entier (et par la suite toutes ses visites) sera **exclu.**
-   - Si **tous les accès** de la visite renvoient **false**, ce visiteur est renvoyé dans votre jeu de données, renvoyant ainsi avec succès les visiteurs qui n’ont pas fait « X ».
+  - Si **tout accès** renvoie **true**, le visiteur entier (et par la suite toutes ses visites) sera **exclu.**
+  - Si **tous les accès** de la visite renvoient **false**, ce visiteur est renvoyé dans votre jeu de données, renvoyant ainsi avec succès les visiteurs qui n’ont pas fait « X ».
 - Il s’agit d’une extension de la logique de visite, où il y a encore plus de considérations. Dans l’exemple ci-dessus, il y a deux visiteurs distincts, avec 3 visites chacun :
-   - Si vous utilisez « Ne contient pas / est égal à » **les deux** les visiteurs sont renvoyés, ainsi que les **trois** de leurs visites (ce qui représente 2 visiteurs et 6 visites totales dans vos rapports)
-   - Lorsque vous utilisez l’option « Exclure contient/est égal à » **un seul** de ces visiteurs est renvoyé et seules les trois visites associées à ce visiteur sont incluses (ce qui représente 1 visiteur et 3 visites totales dans vos rapports)
+  - Si vous utilisez « Ne contient pas / est égal à » **les deux** les visiteurs sont renvoyés, ainsi que les **trois** de leurs visites (ce qui représente 2 visiteurs et 6 visites totales dans vos rapports)
+  - Lorsque vous utilisez l’option « Exclure contient/est égal à » **un seul** de ces visiteurs est renvoyé et seules les trois visites associées à ce visiteur sont incluses (ce qui représente 1 visiteur et 3 visites totales dans vos rapports)
 
 >[!TIP]
 >
@@ -260,31 +279,31 @@ Supposons que nous ayons deux eVars, que l’une d’elles soit définie pour l�
 **Visite 1**
 
 - Page A
-   - **eVar1** n’est pas défini
-   - **eVar2** n’est pas défini
+  - **eVar1** n’est pas défini
+  - **eVar2** n’est pas défini
 - Cliquez sur Bannière de promotion avec ?icid=promo-banner dans l&#39;URL
 - Page B
-   - **eVar1** et **eVar2** sont définis sur « promo-banner »
-   - **L’instance d’eVar1** est déclenchée
-   - **L’instance d’eVar2** est déclenchée
+  - **eVar1** et **eVar2** sont définis sur « promo-banner »
+  - **L’instance d’eVar1** est déclenchée
+  - **L’instance d’eVar2** est déclenchée
 - Page C
-   - **eVar1** et **eVar2** conservent la valeur « promo-banner »
-   - Aucune des mesures d’instance des eVars n’est déclenchée, car les deux eVars utilisent des valeurs persistantes
+  - **eVar1** et **eVar2** conservent la valeur « promo-banner »
+  - Aucune des mesures d’instance des eVars n’est déclenchée, car les deux eVars utilisent des valeurs persistantes
 
 **Visite 2**
 
 - Page D
-   - **eVar1** n’est défini sur aucune valeur et aucune **instance d’eVar1** n’est déclenchée
-   - **eVar2** conserve la valeur « bannière de promotion » en raison de l’expiration de 30 jours
-   - **Instance d’eVar2** n’est pas déclenchée, car la valeur est persistante et n’est pas réellement définie
+  - **eVar1** n’est défini sur aucune valeur et aucune **instance d’eVar1** n’est déclenchée
+  - **eVar2** conserve la valeur « bannière de promotion » en raison de l’expiration de 30 jours
+  - **Instance d’eVar2** n’est pas déclenchée, car la valeur est persistante et n’est pas réellement définie
 - Cliquez sur Promotion du rail latéral avec ?icid=promo-side-rail dans l’URL
 - Page E
-   - **eVar1** et **eVar2** sont définis sur « rail latéral de promotion »
-   - **L’instance d’eVar1** est déclenchée
-   - **L’instance d’eVar2** est déclenchée
+  - **eVar1** et **eVar2** sont définis sur « rail latéral de promotion »
+  - **L’instance d’eVar1** est déclenchée
+  - **L’instance d’eVar2** est déclenchée
 - Page F
-   - **eVar1** et **eVar2** conservent la valeur « rail latéral de promotion »
-   - Aucune des mesures d’instance des eVars n’est déclenchée, car les deux eVars utilisent des valeurs persistantes
+  - **eVar1** et **eVar2** conservent la valeur « rail latéral de promotion »
+  - Aucune des mesures d’instance des eVars n’est déclenchée, car les deux eVars utilisent des valeurs persistantes
 
 Voici actuellement le résultat attendu de ces deux visites :
 
@@ -319,7 +338,7 @@ Maintenant, examinons où vous pouvez définir l’attribution dans votre segmen
 
 ![Figure4-AttributionModel](assets/figure4-attribution-model.png)
 
-*L’icône d’engrenage de votre dimension permet de définir l’attribution. Chaque option contient des informations disponibles lorsque vous pointez sur « ? » icône. En gros :*
+*L’icône d’engrenage de votre dimension permet de définir l’attribution. Chaque option contient des informations disponibles lorsque vous pointez sur « ? » (...). En gros :*
 
 - Le comportement par défaut renvoie toutes les instances d’eVar où la valeur est définie (de manière spécifique ou par le biais de l’attribution set)
 - L’instance renvoie uniquement la dimension pour laquelle la valeur est explicitement définie (c’est-à-dire sur les accès pour lesquels l’« instance d’eVar » est déclenchée).
@@ -392,7 +411,7 @@ Comme tout grand magicien, le vrai pouvoir est d&#39;inspirer la génération mo
 
 Ce document a été rédigé par :
 
-![&#x200B; Jen Headshot &#x200B;](assets/jen-headshot.png)
+![ Jen Headshot ](assets/jen-headshot.png)
 
 Jennifer Dungan, responsable de l’optimisation des analyses chez Torstar
 

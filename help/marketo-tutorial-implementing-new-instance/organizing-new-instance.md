@@ -6,39 +6,46 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1291'
 ht-degree: 2%
-
 ---
-
 # Organiser une nouvelle instance et établir des conventions de nommage
 
 En tant qu’administrateur ou administratrice mettant en œuvre une nouvelle instance de Marketo Engage, vous jetez les bases qui permettront aux futurs professionnels du marketing au sein de l’organisation de parcourir facilement l’instance. Familiarisez-vous avec l’arborescence, la structure des dossiers et les conventions de nommage pour que votre instance reste ordonnée et configurée pour un succès à long terme. Ce tutoriel comprend des exemples recommandés par Adobe et Natalie Kremer, championne de Marketo Engage (2019-2020), pour vous aider à [organiser les dossiers et nommer les ressources de manière cohérente](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
 
 ## Pourquoi est-il nécessaire de structurer des dossiers et d’appliquer des conventions de nommage ?
 
-Lorsque vous restez organisé dans votre instance, vous et vos collègues pouvez facilement suivre les campagnes, les programmes et les ressources, et générer des rapports sur les performances des programmes. Pour organiser l’arborescence de navigation dans votre instance et la créer à grande échelle, il est recommandé d’utiliser des [dossiers](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [conventions de nommage standard](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} et des fonctionnalités telles que [clonage](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+Lorsque vous restez organisé dans votre instance, vous et vos collègues pouvez facilement suivre les campagnes, les programmes et les ressources, et générer des rapports sur les performances des programmes. Pour organiser l’arborescence de navigation dans votre instance et la créer à grande échelle, il est recommandé d’utiliser des [dossiers](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [conventions de nommage standard](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} et des fonctionnalités telles que [clonage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
 
 ## Organisation d’une instance Marketo Engage
 
->[!VIDEO](https://video.tv.adobe.com/v/3422762/?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
 
 ### Étape 1 - Configurer une structure de dossiers pour mettre vos programmes en ordre
 
-La première étape pour organiser votre instance consiste à [configurer une structure de dossiers](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=fr) héberger votre programme et vos ressources de manière facile à trouver et ordonnée.
+La première étape pour organiser votre instance consiste à [configurer une structure de dossiers](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) héberger votre programme et vos ressources de manière facile à trouver et ordonnée.
 
 Voici quelques conseils rapides pour structurer les dossiers dans l’arborescence :
 
 * Conserver une structure de dossiers plate pour la visibilité.
 * Structurez vos dossiers de manière à refléter la structure de l’équipe de votre entreprise (par exemple, la région ou l’équipe) ou les initiatives (par exemple, les newsletters).
 * Inclure des étiquettes temporelles pour permettre la recherche et signaler le moment approprié pour l’archivage (par exemple, 2024).
-   * Il est recommandé aux administrateurs d’archiver les dossiers au moins une fois par an. À l’aide d’un nom de dossier annuel, vous pouvez facilement désactiver les campagnes dynamiques en direct et archiver l’ensemble du dossier à la fin de l’année.
+  * Il est recommandé aux administrateurs d’archiver les dossiers au moins une fois par an. À l’aide d’un nom de dossier annuel, vous pouvez facilement désactiver les campagnes dynamiques en direct et archiver l’ensemble du dossier à la fin de l’année.
 
 Vous trouverez ci-dessous des exemples de dossiers pour mettre ces conseils en pratique.
 
@@ -69,12 +76,12 @@ Appliquons maintenant la structure de dossiers au niveau du programme. Il est re
 * Campagnes - *Dossier pour toutes les campagnes gérant les interactions et le tracking des statuts.*
 * Assets locale - *Dossier pour toutes les ressources spécifiques à ce programme.*
 
-   * E-mails
-   * Pages de destination
-   * Campagnes intelligentes
-   * Listes - *Uniquement nécessaire lorsqu’il existe des listes spécifiques au programme.*
-   * Forms - *Nécessaire uniquement lorsqu’il existe un Forms spécifique au programme ; la plupart des Forms sont des Assets globaux.*
-   * Rapports : *uniquement nécessaire lorsqu’il existe des rapports spécifiques au programme*.
+  * E-mails
+  * Pages de destination
+  * Campagnes intelligentes
+  * Listes - *Uniquement nécessaire lorsqu’il existe des listes spécifiques au programme.*
+  * Forms - *Nécessaire uniquement lorsqu’il existe un Forms spécifique au programme ; la plupart des Forms sont des Assets globaux.*
+  * Rapports : *uniquement nécessaire lorsqu’il existe des rapports spécifiques au programme*.
 
 ### Étape 3 - Créer des conventions de nommage pour vos programmes et ressources
 
@@ -116,7 +123,7 @@ En descendant d’un niveau pour nommer les ressources, il est préférable de n
 
 * Numérotez les ressources en fonction de leur ordre dans le processus du programme.
 * Utilisez « - » (trait d’union) pour séparer les composants d’affectation de nom au lieu de « . » (point) ou « \ » (trait de soulignement).
-   * Pourquoi ? Marketo Engage utilise un point pour séparer le nom du programme du nom de la campagne. L’utilisation de « \_ » vous empêche de le voir lorsque la ressource comporte un lien hypertexte.
+  * Pourquoi ? Marketo Engage utilise un point pour séparer le nom du programme du nom de la campagne. L’utilisation de « \_ » vous empêche de le voir lorsque la ressource comporte un lien hypertexte.
 * Utilisez des acronymes standard dans les noms de ressources pour raccourcir la référence et toujours permettre une reconnaissance facile.
 
 Dans cette optique, nous appliquerons ces conseils aux ressources suivantes et créerons des formules pour générer des noms :
@@ -182,7 +189,7 @@ Dans cette optique, nous appliquerons ces conseils aux ressources suivantes et c
 
 * Téléchargez la feuille de calcul : [Organisation Marketo Engage et conventions de nommage](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} pour prendre en charge la création de la structure de dossiers et des conventions de nommage.
 * Une fois que vous avez déterminé les composants nécessaires dans votre convention d’affectation des noms standard, pensez à créer des formules dans une feuille de calcul Google Sheet ou Microsoft Excel. Pour une utilisation ultérieure, il vous suffit d’entrer vos valeurs dans la feuille de calcul pour générer les noms de vos programmes.
-* Une fois que vous vous êtes aligné sur une structure de dossiers globale, il est temps de réfléchir aux modèles dont vous avez besoin en fonction des cas d’utilisation les plus fréquents et des demandes les plus courantes que votre équipe reçoit. Commencez ensuite à créer votre premier modèle de programme. Lisez la suite pour commencer à utiliser les [modèles de programme &#x200B;](https://business.adobe.com/fr/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
+* Une fois que vous vous êtes aligné sur une structure de dossiers globale, il est temps de réfléchir aux modèles dont vous avez besoin en fonction des cas d’utilisation les plus fréquents et des demandes les plus courantes que votre équipe reçoit. Commencez ensuite à créer votre premier modèle de programme. Lisez la suite pour commencer à utiliser les [modèles de programme ](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
 
 ### Auteurs
 

@@ -1,6 +1,6 @@
 ---
-title: Guide complet pour la transition  [!DNL Adobe Analytics]  Google [!DNL Analytics]
-description: Découvrez l’emplacement d’une fonctionnalité équivalente et comment l’utiliser efficacement lors de la transition de  [!DNL Analytics] vers  [!DNL Adobe Analytics]
+title: Guide complet de transition vers [!DNL Adobe Analytics] à partir de Google [!DNL Analytics]
+description: Découvrez l’emplacement d’une fonctionnalité équivalente et comment l’utiliser efficacement lors de la transition de Google [!DNL Analytics] vers [!DNL Adobe Analytics]
 solution: Analytics
 feature: Third-party Integration
 role: User
@@ -8,13 +8,26 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: 646bdc8f-c95e-40be-b2f7-8e4ba5653d91
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
+subfeature_v2:
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '3354'
+source-wordcount: '3364'
 ht-degree: 1%
-
 ---
-
 # Guide complet de transition vers [!DNL Adobe Analytics] à partir de Google [!DNL Analytics]{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
 ## 1. Introduction
@@ -94,19 +107,19 @@ Les utilisateurs ont accès à un grand nombre de visualisations :
 * Abandon
 * Flux
 * Graphiques
-   * Aires (empilées et non empilées)
-   * Ligne
-   * Graphique de dispersion
-   * Barres (empilées et non empilées)
-   * Puce
-   * Anneau
-   * Histogramme
-   * Barres horizontales (empilées et non empilées)
+  * Aires (empilées et non empilées)
+  * Ligne
+  * Graphique de dispersion
+  * Barres (empilées et non empilées)
+  * Puce
+  * Anneau
+  * Histogramme
+  * Barres horizontales (empilées et non empilées)
 * Carte
 * Synthèse des blocs
-   * Synthèse des modifications
-   * Synthèse du texte
-   * Texte (champ de texte libre permettant de saisir des informations supplémentaires pour fournir un contexte)
+  * Synthèse des modifications
+  * Synthèse du texte
+  * Texte (champ de texte libre permettant de saisir des informations supplémentaires pour fournir un contexte)
 * Venn
 
 Chaque panneau et visualisation peut recevoir un titre et une description, afin de fournir un contexte aux informations qui y sont répertoriées.
@@ -138,7 +151,7 @@ Une autre fonctionnalité puissante des espaces de travail est la possibilité d
 
 >[!IMPORTANT]
 >
->Pour en savoir plus sur l’utilisation des listes déroulantes et des répartitions à structure libre, voir <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=fr>
+>Pour en savoir plus sur l’utilisation des listes déroulantes et des répartitions à structure libre, voir <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
 
 ##### 2.1.2.2. [!DNL Analytics] Google : tableaux de bord, rapports personnalisés et rapports enregistrés
 
@@ -268,7 +281,7 @@ Je tiens toutefois à souligner que je vous recommande d’utiliser à la fois l
 
 Au-delà de ce guide, vous disposez de nombreuses ressources qui peuvent vous aider à améliorer votre stratégie :
 
-* [[!DNL Adobe] &#x200B;](https://experienceleague.adobe.com/fr?lang=fr#home) - Contient des tutoriels, des vidéos, de la documentation et des forums de la communauté
+* [[!DNL Adobe] ](https://experienceleague.adobe.com/?lang=fr#home) - Contient des tutoriels, des vidéos, de la documentation et des forums de la communauté
 * [[!DNL Adobe] Groupes d’utilisateurs](https://analytics-augs.adobe.com/) - Un hub d’événements gérés par la communauté pour aider les utilisateurs à entrer en contact les uns avec les autres et améliorer leurs implémentations.
 * [[!DNL Adobe Analytics] Canal YouTube des groupes d’utilisateurs](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Vous avez manqué une session de groupe d’utilisateurs [!DNL Adobe Analytics] ? Reregardez les sessions précédentes de groupes d’utilisateurs dans le monde entier pour en savoir plus sur l’utilisation de l’outil par vos pairs.
 * [Canal Slack du Measure Chat](https://www.measure.chat/) - Connectez-vous aux utilisateurs [!DNL Adobe Analytics] à travers le monde et partagez des enseignements du secteur, posez des questions à vos pairs et rejoignez des groupes d’intérêt axés sur les mesures.

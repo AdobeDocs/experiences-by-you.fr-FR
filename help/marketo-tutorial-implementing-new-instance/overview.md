@@ -1,22 +1,29 @@
 ---
 title: Conseils et astuces pour mettre en œuvre une nouvelle instance
-description: Découvrez comment mettre en œuvre une nouvelle instance  [!DNL Marketo Engage]  tirer le meilleur parti de sa puissance.
+description: Découvrez comment mettre en œuvre une nouvelle instance [!DNL Marketo Engage] pour tirer le meilleur parti de sa puissance.
 solution: Marketo Engage
 role: Admin
 level: Beginner
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-03-01T00:00:00Z
+last-substantial-update: 2024-03-01T00:00:00.000Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: b7e6c53ba2f2345e72f5028472d46596e6c41f58
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '653'
-ht-degree: 12%
-
+source-wordcount: '577'
+ht-degree: 0%
 ---
-
 # Conseils et astuces pour mettre en œuvre une nouvelle instance [!DNL Marketo Engage]
 
 Bienvenue dans Adobe [!DNL Marketo Engage] ! La configuration d’une nouvelle instance est la première étape pour améliorer votre stratégie de marketing numérique avec l’automatisation du marketing. La clé d’une implémentation [!DNL Marketo Engage] réussie réside dans la documentation.
@@ -42,8 +49,8 @@ Cette série « Conseils et astuces pour la mise en œuvre d’une nouvelle inst
 
 * [Synchronisation des champs pour les connecteurs CRM natifs](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *Découvrez comment rationaliser votre intégration CRM initiale en sélectionnant de manière stratégique les champs CRM essentiels à l’utilisation de Marketo Engage. Effectuez l’exercice du dictionnaire de données pour identifier les champs dont vous avez besoin pour une synchronisation CRM fluide qui aide les équipes commerciales et marketing à rester alignées.*
-   * [Prise en main de la synchronisation Salesforce](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target=« _blank}
-   * [Prise en main de la synchronisation Microsoft Dynamics](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target=« _blank}
+  * [Prise en main de la synchronisation Salesforce](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target=« _blank}
+  * [Prise en main de la synchronisation Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target=« _blank}
 <br>
 
 * [Organisation d’une nouvelle instance et établissement de conventions de nommage](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -59,6 +66,6 @@ Cette série « Conseils et astuces pour la mise en œuvre d’une nouvelle inst
 
 ## Ressources supplémentaires
 
-* [Mise en œuvre d’une nouvelle instance Marketo Engage avec des listes de contrôle de bonnes pratiques](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target=« _blank}
+* [Mise en œuvre d’une nouvelle instance Marketo Engage avec des listes de contrôle de bonnes pratiques](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target=« _blank}
   *Chaque liste de contrôle fournit des étapes importantes pour vous permettre de suivre l’avancement de votre configuration. Utilisez les listes de contrôle téléchargeables pour documenter votre travail en cours de route pour les audits d’instances futurs et l’intégration des utilisateurs.*
 

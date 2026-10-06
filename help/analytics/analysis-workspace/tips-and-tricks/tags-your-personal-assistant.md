@@ -6,17 +6,37 @@ role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
 duration: 36000
-last-substantial-update: 2024-02-22T00:00:00Z
+last-substantial-update: 2024-02-22T00:00:00.000Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
 exl-id: 563941cc-30a2-45d2-8634-0bde3b539ffd
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: 2e0e1a8a-56e7-5bd5-b805-f35a7c0c2ca7
+    internal-label: Projects
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1404'
 ht-degree: 0%
-
 ---
-
 # Balises - votre assistant personnel
 
 _Découvrez comment #TAGS pouvez rationaliser vos analyses numériques, en faisant office d’assistant personnel pour trouver efficacement ce dont vous avez besoin. Jeff Bloomer, champion Adobe Analytics, partage les points de vue d’experts sur l’optimisation du potentiel de l’outil pour votre bénéfice._
@@ -34,9 +54,9 @@ Lorsque nous nous tournons vers nos tâches quotidiennes, la recherche de choses
 Maintenant que j&#39;ai votre attention, permettez-moi de commencer par poser une question :
 
 
-![Combien d&#39;entre vous &#x200B;](assets/how-many-of-you.jpg)
+![Combien d&#39;entre vous ](assets/how-many-of-you.jpg)
 
-Combien d&#39;entre vous l&#39;ont fait ?  Vous avez commencé à rechercher une **dimension**, **période**, **segment** ou **mesure calculée** et vous êtes inondé de cette liste géante (voir **Figure 1**) de tout ce que vous ne voulez PAS.  **&#x200B;**&#x200B;** pense qu&#39;il essaie d&#39;être utile, mais en réalité, il a seulement réussi à ne pas être utile du tout.
+Combien d&#39;entre vous l&#39;ont fait ?  Vous avez commencé à rechercher une **dimension**, **période**, **segment** ou **mesure calculée** et vous êtes inondé de cette liste géante (voir **Figure 1**) de tout ce que vous ne voulez PAS.  ****** pense qu&#39;il essaie d&#39;être utile, mais en réalité, il a seulement réussi à ne pas être utile du tout.
 
 ![figure 1 recherche de l&#39;année](assets/tags-example-year.jpg)
 
@@ -44,7 +64,7 @@ Combien d&#39;entre vous l&#39;ont fait ?  Vous avez commencé à rechercher une
 
 Mieux encore, vous avez créé de *nouvelles* **périodes** et **segments**, et comme ils sont « tellement nouveaux », vous penseriez qu’au moins ces éléments devraient être rapides et faciles à trouver la prochaine fois que vous irez dans ***Adobe Workspace***. Ai-je raison ?
 
-Eh bien, je déteste faire éclater votre bulle, mais essayez simplement de quitter **&#x200B;**&#x200B;** après avoir créé tous vos nouveaux « petits amis », et quand vous revenez, la majorité d&#39;entre eux se sont simplement enfuis.  Si vous avez de la chance, *peut-être* l&#39;un d&#39;eux est resté pour vous attendre, mais le reste est déjà parti depuis longtemps et joue à cache-cache.
+Eh bien, je déteste faire éclater votre bulle, mais essayez simplement de quitter ****** après avoir créé tous vos nouveaux « petits amis », et quand vous revenez, la majorité d&#39;entre eux se sont simplement enfuis.  Si vous avez de la chance, *peut-être* l&#39;un d&#39;eux est resté pour vous attendre, mais le reste est déjà parti depuis longtemps et joue à cache-cache.
 
 ## Réécrire le règlement
 
@@ -56,7 +76,7 @@ Sérieusement, ce dont nous parlons ici, c&#39;est de la LSPA !  C&#39;est vrai!
 
 Pour ceux d&#39;entre vous qui *vraiment* besoin d&#39;un rappel, cela ressemble à ceci : **#**
 
-Quoi qu&#39;il en soit, la raison pour laquelle nous parlons de **&#x200B;**&#x200B;est qu&#39;ils sont mis dans ce « compartiment optionnel » de « trucs ennuyeux et fastidieux, dégoûtants » que tout le monde a tendance à ignorer (comme les Descriptions), parce que nous sommes tous si pressés de créer les choses les plus importantes comme, oh je ne sais pas -
+Quoi qu&#39;il en soit, la raison pour laquelle nous parlons de **** est qu&#39;ils sont mis dans ce « compartiment optionnel » de « trucs ennuyeux et fastidieux, dégoûtants » que tout le monde a tendance à ignorer (comme les Descriptions), parce que nous sommes tous si pressés de créer les choses les plus importantes comme, oh je ne sais pas -
 
 - Rapports Workspace
 - Segments
@@ -69,7 +89,7 @@ Regardez les choses en face !  Tout ce que vous voulez, nous avons vu et entendu
 
 ## Contenu de la boîte à outils
 
-**&#x200B;**&#x200B;a même fait du service WE THE PEOPLE le service de création d&#39;un ensemble choisi de #TAGS prêts à l&#39;emploi, parce que, eh bien... il fallait bien qu&#39;ils nous lancent quelque part.  Je vais ajouter quelques mises en garde dans quelques instants, mais ce que je vous montre d&#39;abord vous en donnera le plus pour votre argent !
+**** a même fait du service WE THE PEOPLE le service de création d&#39;un ensemble choisi de #TAGS prêts à l&#39;emploi, parce que, eh bien... il fallait bien qu&#39;ils nous lancent quelque part.  Je vais ajouter quelques mises en garde dans quelques instants, mais ce que je vous montre d&#39;abord vous en donnera le plus pour votre argent !
 
 Avant de créer l’une des vôtres, vous devez d’abord savoir comment rechercher des **balises** existantes :
 
@@ -96,7 +116,7 @@ Excusez le jeu de mots, mais « #tag, c&#39;est toi ! »  Tu t&#39;es économis�
 
 ## Mettre votre assistant personnel au travail
 
-Supposons que nous travaillions dans l&#39;industrie **du voyage** et que nous préparions un rapport pour leurs **heures de bureau principales**.  Si nous commencions à effectuer une recherche uniquement sur le terme « VOYAGE », nous pourrions obtenir beaucoup plus de résultats que nécessaire.  En fait, si nous affichions un **&#x200B;**&#x200B;contenant ne serait-ce que la moitié des résultats dont nous avions besoin, les composants ne resteraient pas facilement disponibles.
+Supposons que nous travaillions dans l&#39;industrie **du voyage** et que nous préparions un rapport pour leurs **heures de bureau principales**.  Si nous commencions à effectuer une recherche uniquement sur le terme « VOYAGE », nous pourrions obtenir beaucoup plus de résultats que nécessaire.  En fait, si nous affichions un **** contenant ne serait-ce que la moitié des résultats dont nous avions besoin, les composants ne resteraient pas facilement disponibles.
 
 ![Balises corrompues](assets/tags-example-travel.jpg)
 
@@ -132,7 +152,7 @@ Bien sûr, se cacher et chercher était amusant comme un enfant, mais maintenant
 
 Ce document a été rédigé par :
 
-![&#x200B; Jeff Bloomer &#x200B;](assets/jeff-bloomer.png)
+![ Jeff Bloomer ](assets/jeff-bloomer.png)
 
 **Jeff Bloomer**, responsable, Analyses numériques chez Kroger Personal Finance
 

@@ -1,6 +1,6 @@
 ---
-title: Dix bonnes pratiques pour  [!DNL Adobe] [!DNL Campaign] réussite pour les professionnels du marketing
-description: Découvrez les dix bonnes pratiques à suivre pour aider [!DNL Adobe] [!DNL Campaign] les utilisateurs et utilisatrices à déverrouiller et à accélérer la transformation de la consommation numérique pour offrir une meilleure expérience à leurs clients et clientes.
+title: Dix bonnes pratiques pour le succès de la [!DNL Campaign] [!DNL Adobe] pour les professionnels du marketing
+description: Découvrez les dix bonnes pratiques pour aider [!DNL Adobe] professionnels de la [!DNL Campaign] à déverrouiller et à accélérer la transformation de la consommation numérique pour offrir une meilleure expérience à leurs clients.
 doc-type: article
 solution: Campaign
 feature-set: Campaign
@@ -8,18 +8,37 @@ feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
-last-substantial-update: 2023-01-31T00:00:00Z
+last-substantial-update: 2023-01-31T00:00:00.000Z
 exl-id: add6ed84-892d-4901-9dd2-b0cba0c57290
-source-git-commit: 44e3e3da9c7c45a73b7fc40374b8e31972fbd166
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: 13af5358-448e-5a4a-850b-0db592bb0f8f
+    internal-label: Personalization
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: afa4204e-6d08-4e29-bc35-26aafb656d48
+    internal-label: Profiles and audiences
+subfeature_v2:
+  - id: d4adbfcb-4ec0-5691-b003-d940294aa34c
+    internal-label: Subscriptions
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1351'
 ht-degree: 78%
-
 ---
-
 # Dix bonnes pratiques pour le succès de [!DNL [!DNL Adobe] [!DNL Campaign]] pour les professionnels du marketing
 
-Christian Klimczyk est un « [!DNL Adobe] Nerd » autoproclamé avec sept années d’expertise [!DNL [!DNL Adobe] Experience Cloud], principalement axée sur [!DNL [!DNL Adobe] [!DNL Campaign]]. En tant que propriétaire de plateforme [!DNL Adobe] pour une grande entreprise agroalimentaire, Christian et son équipe utilisent [!DNL [!DNL Campaign]] pour toutes les communications et interactions avec les consommateurs et consommatrices. Ils coordonnent et gèrent de manière transparente les exigences de réglementation élevées et les campagnes marketing client multicanaux par publipostage direct, e-mail et SMS/MMS.
+Christian Klimczyk est un « [!DNL Adobe] Nerd » autoproclamé avec sept années d’expertise dans [!DNL [!DNL Adobe] Experience Cloud], principalement axée sur [!DNL [!DNL Adobe] [!DNL Campaign]]. En tant que propriétaire de plateforme [!DNL Adobe] pour une grande entreprise agroalimentaire, Christian et son équipe utilisent [!DNL [!DNL Campaign]] pour toutes les communications et interactions avec les consommateurs et consommatrices. Ils coordonnent et gèrent de manière transparente les exigences de réglementation élevées et les campagnes marketing client multicanaux par publipostage direct, e-mail et SMS/MMS.
 
 Dans cet article, Christian partage ses bonnes pratiques pour aider les utilisateurs et utilisatrices de [!DNL Adobe] [!DNL Campaign] à déverrouiller et à accélérer la transformation de la consommation numérique pour offrir une meilleure expérience à leurs clients et clientes.
 
@@ -28,7 +47,7 @@ Dans cet article, Christian partage ses bonnes pratiques pour aider les utilisat
 
 La première étape pour garantir votre réussite avec [!DNL [!DNL Adobe] [!DNL Campaign]] consiste à comprendre vos outils et les attentes de vos clients, ce qui est vrai dans n&#39;importe quel type de marketing. Définissez et comprenez clairement les canaux que vous utilisez pour contacter vos client(e)s, sachez quand utiliser ces canaux et pourquoi.
 
-[!DNL Adobe] [!DNL Campaign] est un outil flexible qui vous permet d’exécuter et d’orchestrer des communications de différentes manières. [La moitié des client(e)s utilisent trois à cinq canaux lors de chaque parcours d’achat &#x200B;](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Il est donc essentiel de comprendre et de planifier l’utilisation de ces canaux pour accomplir tout le potentiel de votre plateforme et interagir avec vos client(e)s.
+[!DNL Adobe] [!DNL Campaign] est un outil flexible qui vous permet d’exécuter et d’orchestrer des communications de différentes manières. [La moitié des client(e)s utilisent trois à cinq canaux lors de chaque parcours d’achat ](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Il est donc essentiel de comprendre et de planifier l’utilisation de ces canaux pour accomplir tout le potentiel de votre plateforme et interagir avec vos client(e)s.
 
 ## &#x200B;2. Documenter et comprendre vos données client
 

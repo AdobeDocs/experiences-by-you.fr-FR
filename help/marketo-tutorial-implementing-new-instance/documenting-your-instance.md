@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-08T00:00:00Z
+last-substantial-update: 2024-05-08T00:00:00.000Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '862'
-ht-degree: 0%
-
+ht-degree: 1%
 ---
-
 # Prise en main de la gouvernance et de la documentation des instances
 
 Une documentation de qualité peut être presque aussi importante que l’implémentation de l’instance elle-même. Un guide de gouvernance est une ressource essentielle qui décrit les détails de configuration de votre instance Marketo Engage, en couvrant des sujets tels que les structures de programme/dossiers, les limites de communication, etc. Ce document dynamique est une référence destinée à l’administration ou aux utilisateurs expérimentés de Marketo Engage. Il présente les bonnes pratiques spécifiques et les normes de gouvernance adaptées à votre instance et organisation Marketo Engage.

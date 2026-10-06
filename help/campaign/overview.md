@@ -5,18 +5,31 @@ role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Campaign
-thumbnail: null
+thumbnail:
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 26%
-
+source-wordcount: '278'
+ht-degree: 33%
 ---
-
 # [!DNL Campaign] par vous : ressources par utilisateurs, pour les utilisateurs.
 
-Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? Toi. Les utilisateurs qui prennent les produits, les étudient et les appliquent de manière étonnante et innovante pour créer des expériences et des résultats significatifs. Experience by You propose du contenu créé par des utilisateurs quotidiens qui ont atteint un niveau d’expertise et d’influence grâce à leurs solutions [!DNL Adobe] Experience Cloud. Ces connaissances peer-to-peer encouragent la collaboration et la découverte et vous permettent, ainsi qu&#39;à tout autre utilisateur, de trouver l&#39;inspiration nécessaire pour améliorer votre expertise en matière de produits.
+Ce qu’il y a de plus puissant dans les solutions [!DNL Adobe] Experience Cloud ? Toi. Les utilisateurs qui prennent les produits, les étudient et les appliquent de manière étonnante et innovante pour créer des expériences et des résultats significatifs. Experience by You propose du contenu créé par des utilisateurs quotidiens qui ont atteint un niveau d’expertise et d’influence grâce à leurs solutions [!DNL Adobe] Experience Cloud. Ces connaissances peer-to-peer encouragent la collaboration et la découverte et vous permettent, ainsi qu&#39;à tout autre utilisateur, de trouver l&#39;inspiration nécessaire pour améliorer votre expertise en matière de produits.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -33,7 +46,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="Bonnes pratiques relatives aux workflows pour les professionnels du marketing" src="https://video.tv.adobe.com/v/3448122?captions=fre_fr&format=jpeg" />
+      <img alt="Bonnes pratiques relatives aux workflows pour les professionnels du marketing" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
@@ -46,7 +59,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="Résolution de problèmes pour les spécialistes du marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=fr" />
+      <img alt="Résolution de problèmes pour les spécialistes du marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +72,7 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=fr" />
+      <img alt="Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
@@ -81,4 +94,4 @@ Ce qu’il y a de plus puissant dans [!DNL Adobe] solutions Experience Cloud ? T
 * Adobe Campaign v8 - [Documentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=fr) / [Tutoriels](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr)
 * Adobe Campaign Classic v7 - [Documentation](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=fr) / [Tutoriels](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr)
 * Adobe Campaign Standard - [Documentation](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=fr) / [Tutoriels](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr)
-* [Informations sur les produits Adobe Campaign](https://business.adobe.com/fr/products/campaign/adobe-campaign.html)
+* [Informations sur les produits Adobe Campaign](https://business.adobe.com/products/campaign/adobe-campaign.html)

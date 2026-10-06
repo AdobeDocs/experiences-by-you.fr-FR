@@ -6,17 +6,35 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '627'
 ht-degree: 1%
-
 ---
-
 # Créer un diagramme de flux de données pour comprendre votre tech stack marketing
 
 En tant qu’administrateur prenant en charge une instance [!DNL Marketo Engage] active depuis des années, il est comme une mission impossible d’effectuer un audit et de nettoyer l’instance efficacement. Lorsque [!DNL Adobe] [!DNL Marketo Champion] (2019), Kelly Jo Horton, a mis en place une instance de longue date, elle a relevé ce défi en [créant un diagramme de « Lead et sources de données »](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} pour se familiariser avec l&#39;univers des données. Dans ce tutoriel, vous apprendrez à créer votre propre diagramme de flux de données en vous appuyant sur les exemples partagés par Kelly Jo Horton. Apprenons à connaître votre écosystème MarTech !
@@ -25,7 +43,7 @@ En tant qu’administrateur prenant en charge une instance [!DNL Marketo Engage]
 
 1. **Familiarisez-vous avec le tech stack marketing hérité d’une instance active.** Tous les responsables des opérations marketing/responsables des opérations de plateforme sont encouragés à effectuer cet exercice lors du démarrage dans une nouvelle entreprise. Ce processus de création permet aux utilisateurs administrateurs d’avoir une vue d’ensemble des données et activités envoyées depuis les intégrations externes vers [!DNL Marketo Engage] et de résoudre facilement les erreurs d’API.
 2. **Familiarisez-vous avec les principales parties prenantes qui gèrent les intégrations externes.** Une astuce que Kelly Jo Horton utilise pour identifier rapidement les parties prenantes est de référencer la liste des utilisateurs d’API.
-   1. **Accédez à l’onglet « Intégration > LaunchPoint » dans la section « Administration ».** En savoir plus sur la navigation vers l’onglet « LaunchPoint » : [Créer un service personnalisé à utiliser avec l’API REST](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=fr){target="_blank"}.
+   1. **Accédez à l’onglet « Intégration > LaunchPoint » dans la section « Administration ».** En savoir plus sur la navigation vers l’onglet « LaunchPoint » : [Créer un service personnalisé à utiliser avec l’API REST](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. Recherchez les statistiques d’utilisation de l’API par utilisateur de l’API dans l’onglet Intégration > Services web de la section Informations sur l’appel API . En cliquant sur le numéro d’appel API, vous pouvez afficher les appels individuels spécifiques effectués par chaque utilisateur.
 
 ## Comment effectuer cet exercice de diagramme de flux de données visuelles
@@ -47,7 +65,7 @@ Créez un diagramme « État futur » qui peut être utilisé lors de la présen
 
 Créez une version technique qui affiche des détails tels que le nom d&#39;utilisateur de l&#39;API pour chaque intégration, une brève description du type de données transmises à [!DNL Marketo Engage] ou extraites de [!DNL Marketo Engage], ainsi qu&#39;un diagramme détaillé de tous les flux et déclencheurs de middleware. Voici un exemple :
 
-![Version technique &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
+![Version technique ](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
 ## Quelle est la prochaine étape ?
@@ -127,9 +145,9 @@ Voici quelques outils que vous pouvez utiliser : draw.io (Google Docs), [!DNL Ad
 [!DNL Adobe] Champion Marketo (2019)
 *Partenaire client senior chez Etumos*
 
-![&#x200B; Kelly Jo Horton &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
+![ Kelly Jo Horton ](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
 
 **Amy Chiu**
 *Responsable marketing, adoption et rétention,[!DNL Adobe]*
 
-![&#x200B; Amy Chiu &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![ Amy Chiu ](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

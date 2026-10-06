@@ -1,27 +1,40 @@
 ---
-title: Déverrouiller des informations à l’aide d’histogrammes ; au-delà des moyennes en  [!DNL Analytics]
+title: Déverrouiller les informations à l’aide d’histogrammes ; au-delà des moyennes en [!DNL Analytics]
 description: Découvrez l’impact des histogrammes dans Analytics pour obtenir des informations au-delà des moyennes.
 feature-set: Analytics
 feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
 exl-id: 46a9dab2-17f8-435e-949c-45d4a60343f0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1105'
 ht-degree: 1%
-
 ---
-
 # Déverrouiller des informations avec des histogrammes : au-delà des moyennes en [!DNL Analytics]
 
 _Découvrez l’impact des histogrammes dans les analyses pour obtenir des informations au-delà des moyennes. Les histogrammes révèlent les modèles de données concernant le comportement des clients, l’engagement des visiteurs, les performances techniques et les erreurs de formulaire, ce qui permet d’obtenir des informations plus précises et de prendre des décisions informées dans [!DNL Adobe] Workspace._
 
-On y va tout de suite. Vous devriez utiliser [histogrammes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=fr). Je vais vous expliquer pourquoi, mais je veux répondre à votre première question : qu&#39;est-ce qu&#39;un histogramme ? J&#39;ai compris. La plupart du temps, quand vous voyez un tas de barres qui montent, vous pourriez penser que c&#39;est un graphique à barres. Oui, les histogrammes se ressemblent, mais je vous assure qu&#39;ils sont différents. Un graphique à barres compare les éléments, tandis qu’un histogramme indique la fréquence à laquelle une variable s’est produite. Jette un œil. Voici un graphique à barres :
+On y va tout de suite. Vous devriez utiliser [histogrammes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html). Je vais vous expliquer pourquoi, mais je veux répondre à votre première question : qu&#39;est-ce qu&#39;un histogramme ? J&#39;ai compris. La plupart du temps, quand vous voyez un tas de barres qui montent, vous pourriez penser que c&#39;est un graphique à barres. Oui, les histogrammes se ressemblent, mais je vous assure qu&#39;ils sont différents. Un graphique à barres compare les éléments, tandis qu’un histogramme indique la fréquence à laquelle une variable s’est produite. Jette un œil. Voici un graphique à barres :
 
 ![Graphique à barres 1](assets/bar-chart-1.png)
 
@@ -75,7 +88,7 @@ Comme vous pouvez le constater, les histogrammes ont non seulement leur propre u
 
 Ce document a été rédigé par :
 
-![&#x200B; Gitai Ben-Ammi &#x200B;](assets/gitai-headshot.png)
+![ Gitai Ben-Ammi ](assets/gitai-headshot.png)
 
 **Gitai Ben-Ammi**, Consultant principal chez Concentrix Catalyst
 

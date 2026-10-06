@@ -1,6 +1,6 @@
 ---
 title: Création de tableaux de bord opérationnels dans Analysis Workspace
-description: Découvrez comment les tableaux de bord opérationnels dans [!DNL Adobe Analytics] Workspace révolutionnent la communication et l'efficacité.
+description: Découvrez comment les tableaux de bord opérationnels dans [!DNL Adobe Analytics] Workspace révolutionnent la communication et l’efficacité.
 solution: Analytics
 feature-set: Analytics
 feature: Curate and Share
@@ -8,17 +8,30 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+subfeature_v2:
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1146'
 ht-degree: 0%
-
 ---
-
 # Création de tableaux de bord opérationnels dans Analysis Workspace
 
 _Découvrez comment les tableaux de bord opérationnels dans [!DNL Adobe Analytics] Workspace révolutionnent la communication et l’efficacité. Découvrez comment créer des tableaux de bord de FAQ, d’actualités et d’annonces, de bogues et de fonctionnalités pour obtenir des informations rationalisées, une expérience utilisateur améliorée et un engagement amélioré._
@@ -28,7 +41,7 @@ Comme beaucoup d’administrateurs, je gère un hub d’informations interne (Co
 
 J&#39;ai remarqué que les utilisateurs ignoraient souvent mes références au site Confluence, avec des raisons comme « Mon VPN est éteint, » ou « Je ne peux pas le lire maintenant, » etc. En gros, « Je lirai ce document plus tard » signifie qu&#39;il ne sera jamais lu, et la même question sera posée à nouveau la semaine prochaine.
 
-***Le succès de la réalisation :**&#x200B;la polyvalence de Workspace pourrait changer la donne. Les utilisateurs et utilisatrices préfèrent des réponses rapides et directes dans Workspace, donc restons-en là pour éviter des étapes supplémentaires.*
+***Le succès de la réalisation :**la polyvalence de Workspace pourrait changer la donne. Les utilisateurs et utilisatrices préfèrent des réponses rapides et directes dans Workspace, donc restons-en là pour éviter des étapes supplémentaires.*
 
 J&#39;ai créé des tableaux de bord opérationnels pour partager l&#39;ensemble de l&#39;entreprise. Jusqu&#39;à présent, ils ont tenu les utilisateurs informés, centralisé l&#39;information et réduit la frustration. Il s’agit d’un processus facile et évolutif qui accroît l’efficacité au fil du temps.
 
@@ -49,7 +62,7 @@ Permettez-moi de vous présenter les trois tableaux de bord opérationnels que j
 
 Fatigué de la boucle sans fin des réponses répétées ? Arrêtez ! Gagnez du temps en créant un tableau de bord de questions fréquentes. Les utilisateurs et utilisatrices peuvent le consulter avant de le demander, ou vous pouvez rapidement y accéder dans vos réponses.
 
-Créez simplement des [visualisations textuelles](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=fr) avec des questions formatées en tant que titres et des réponses/explications en tant que contenu, toutes réduites pour afficher uniquement la question. Regroupez-les par pertinence (par exemple, pages ou produits) ou utilisez des panneaux. Restez simple et donnez la priorité aux requêtes courantes.
+Créez simplement des [visualisations textuelles](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) avec des questions formatées en tant que titres et des réponses/explications en tant que contenu, toutes réduites pour afficher uniquement la question. Regroupez-les par pertinence (par exemple, pages ou produits) ou utilisez des panneaux. Restez simple et donnez la priorité aux requêtes courantes.
 
 Au lieu d&#39;écrire de longs e-mails ou de redécouvrir d&#39;anciennes explications, mettez à jour votre tableau de bord des FAQ. Commencez maintenant et développez avec le temps. Utilisez des liens hypertexte pour faire référence à d’autres tableaux de bord ou questions fréquentes dans les rapports. Fournissez un contexte complexe si nécessaire en liant d’autres tableaux de bord aux questions fréquentes.
 

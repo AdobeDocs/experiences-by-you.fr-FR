@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1838'
 ht-degree: 0%
-
 ---
-
 # Gestion des parties prenantes pour la mise en œuvre de Marketo Engage
 
 La mise en œuvre de Marketo Engage est un moment critique pour développer votre pile MarTech. Cela peut impliquer différentes parties prenantes, du marketing aux ventes en passant par l’informatique. Découvrez comment obtenir de l’aide de la part de votre entreprise pour votre nouvelle instance de Marketo Engage en posant les bonnes questions et en communiquant régulièrement les mises à jour et l’assistance nécessaires. Utilisez le tutoriel et les modèles (avec des versions téléchargeables) pour guider vos communications internes tout au long de l’implémentation et de l’intégration des utilisateurs.
@@ -30,9 +37,9 @@ Lancez la mise en œuvre en vous alignant sur les priorités de vos dirigeants e
 | **Questions** | **Exemples** | **Ressources utiles** |
 | --- | --- | --- |
 | Sur quel(le) partenaire(s) devriez-vous vous concentrer ? | <ul><li>Directeur commercial</li><li>CMO</li><li>PDG</li> |  |
-| Quels sont vos principaux objectifs (marketing, ventes, affaires)? | <ol><li>Augmenter l’engagement auprès de nos clients et prospects</li><li>Augmentez nos opérations.</li> | <ul><li>[En savoir plus sur le développement des objectifs et de la stratégie marketing](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target=« _blank}</li><ul> |
+| Quels sont vos principaux objectifs (marketing, ventes, affaires)? | <ol><li>Augmenter l’engagement auprès de nos clients et prospects</li><li>Augmentez nos opérations.</li> | <ul><li>[En savoir plus sur le développement des objectifs et de la stratégie marketing](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target=« _blank}</li><ul> |
 | Comment Marketo Engage vous aidera-t-il à atteindre ces objectifs ? | <ol><li>Nous pouvons créer des programmes personnalisés à l’aide de jetons, de contenu dynamique, etc</li><li> Nous pouvons produire des programmes de soutien qui nous permettront de maintenir un engagement à long terme avec les prospects et les clients</li><li>Nous pouvons automatiser nos programmes de marketing pour atteindre plus de personnes avec moins d&#39;heures de main-d&#39;œuvre investies dans chaque programme.</li></ol> | <ul><li>[Pourquoi l’automatisation est essentielle à toute stratégie marketing](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target=« _blank}</li><li>[Conseils pour créer une feuille de route d’automatisation du marketing](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target=« _blank}</li></ul> |
-| Quels obstacles/blocages potentiels prévoyez-vous lors de l’intégration et de la mise en œuvre que l’équipe opérationnelle marketing/l’actionnaire doit connaître ? | <ol><li>Beaucoup d&#39;objets personnalisés dans notre CRM</li><li>Aucune stratégie de notation lead/personne clairement définie</li><li>Données sales</li><li>Échéanciers et/ou attentes irréalistes de la direction</li><li>Projets concurrents utilisant des ressources</li></ul> | <ul><li>[Nouveaux conseils de mise en œuvre de &#x200B;](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target=« _blank}</li><li>[Conseils pour la première fois concernant l’implémentation et la gestion de Marketo](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target=« _blank}</li><li>[Les 10 meilleurs conseils d’homologues pour le Adobe Marketo Engage d’intégration](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target=« _blank}</li></ul> |
+| Quels obstacles/blocages potentiels prévoyez-vous lors de l’intégration et de la mise en œuvre que l’équipe opérationnelle marketing/l’actionnaire doit connaître ? | <ol><li>Beaucoup d&#39;objets personnalisés dans notre CRM</li><li>Aucune stratégie de notation lead/personne clairement définie</li><li>Données sales</li><li>Échéanciers et/ou attentes irréalistes de la direction</li><li>Projets concurrents utilisant des ressources</li></ul> | <ul><li>[Nouveaux conseils de mise en œuvre de ](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target=« _blank}</li><li>[Conseils pour la première fois concernant l’implémentation et la gestion de Marketo](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target=« _blank}</li><li>[Les 10 meilleurs conseils d’homologues pour le Adobe Marketo Engage d’intégration](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target=« _blank}</li></ul> |
 | De quelles ressources/support aurez-vous besoin et de qui/quelle partie de l&#39;organisation ? | <ol><li>Coopération avec l’administrateur CRM</li><li>Communications régulières avec les responsables des ventes pour déterminer la stratégie de notation des prospects et des personnes</li><li>Support technique et réunions régulières avec votre manager/vos dirigeants</li><li>Conseils sur les priorités et les stratégies de vos dirigeants</li><li>Soutien de l&#39;informatique, des procédures d&#39;exploitation normalisées (SOP), des finances, etc.</li></ul> | <ul><li>[Clé universelle de la réussite de Marketo : gouvernance et formation continue](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target=« _blank}</li></ul> |
 
 ### Action 2 - Fournir des communications ciblées à vos actionnaires

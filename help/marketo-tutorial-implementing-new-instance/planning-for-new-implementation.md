@@ -10,13 +10,20 @@ last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 9%
-
 ---
-
 # Planifier une nouvelle implémentation de Marketo Engage
 
 La mise en œuvre d’une nouvelle instance Marketo Engage implique une planification méticuleuse, une collaboration entre les équipes et une optimisation continue. Bien qu’il n’existe pas de recette parfaite pour mettre en œuvre une nouvelle instance, la plupart des administrateurs Marketo Engage qui l’ont parcourue peuvent convenir que la planification à l’avance rendra le processus beaucoup plus fluide.
@@ -38,7 +45,7 @@ Dans ce tutoriel, nous aborderons les jalons spécifiques, les engagements des �
 
 ### Phase 3 - Création de bibliothèques de programmes et configuration de campagnes
 
-- Développer des modèles d&#39;email et des landing pages. À partir de [importation de programmes de démarrage](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) dans la [bibliothèque d’importation de programmes](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Développer des modèles d&#39;email et des landing pages. À partir de [importation de programmes de démarrage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) dans la [bibliothèque d’importation de programmes](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Configuration des règles Segmentation et Personalization
 - Créer des campagnes initiales pour la génération de pistes et le soutien
 
@@ -128,7 +135,7 @@ L’implémentation d’une nouvelle instance nécessite une planification et un
 
 Écoutez le champion Marketo Engage (2019), Kyle McCormick, sur ses expériences d’intégration et de mise en œuvre chez Palotos Networks. Vous découvrirez les défis auxquels il a été confronté et ses conseils sur la manière de mener à bien et efficacement votre processus d’intégration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447932/?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
 
 ## Quelle est la prochaine étape ?
 
@@ -294,7 +301,7 @@ Vous pouvez également télécharger l&#39;exemple pour modifier et suivre des t
 >[!NOTE]
 >Les exemples fournis ne reposent pas sur un calendrier d’implémentation réel. Ne vous fiez pas à ces éléments comme calendrier standard d’intégration à Marketo Engage, car chaque implémentation est unique avec différents jalons et exigences en fonction des besoins de votre entreprise.
 
-Pour obtenir une assistance pratique sur l’implémentation et la personnalisation de votre Marketo Engage pour votre instance, contactez l’équipe du compte Adobe ou contactez [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir une assistance pratique sur l’implémentation et la personnalisation de votre Marketo Engage pour votre instance, contactez l’équipe du compte Adobe ou contactez [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ### Auteur
 

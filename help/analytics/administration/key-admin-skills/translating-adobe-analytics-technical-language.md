@@ -1,6 +1,6 @@
 ---
-title: Traduire  [!DNL Adobe Analytics]  langage technique en langage simple
-description: Avec un monde numérique plus scruté que jamais auparavant, il est de plus en plus nécessaire de comprendre, d’analyser et d’exploiter les riches données disponibles dans votre  [!DNL Adobe Analytics] . Cette attention accrue peut faire apparaître un ensemble de parties prenantes totalement novices en matière de props et d’eVars. En tant qu’expert [!DNL Adobe Analytics] e de votre entreprise, vous êtes essentiel pour aider vos parties prenantes à comprendre les détails techniques et à tirer le meilleur parti de votre  [!DNL Adobe Analytics] .
+title: Traduire [!DNL Adobe Analytics] langage technique en langage adapté à tous
+description: Avec un monde numérique plus scruté que jamais auparavant, il est de plus en plus nécessaire de comprendre, d’analyser et d’exploiter les riches données disponibles dans votre configuration [!DNL Adobe Analytics]. Cette attention accrue peut faire apparaître un ensemble de parties prenantes totalement novices en matière de props et d’eVars. En tant qu’expert [!DNL Adobe Analytics] de votre organisation, vous êtes essentiel pour aider vos parties prenantes à comprendre les détails techniques et à tirer le meilleur parti de votre investissement [!DNL Adobe Analytics].
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,16 +10,26 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: b26f8b1e-e57d-4684-86c2-7a13f67521e6
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '1009'
 ht-degree: 0%
-
 ---
-
 # Traduire [!DNL Adobe Analytics] langage technique en langage adapté à tous
 
->[!VIDEO](https://video.tv.adobe.com/v/345323/?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Parler différentes langues
 
