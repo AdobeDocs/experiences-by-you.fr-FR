@@ -84,7 +84,7 @@ _En savoir plus sur la conférence de mesure. Utilisez une carte funnel pour vis
 ### Les tableaux de bord de prévisualisation
 
 1. À l’aide de la carte funnel comme guide, créez des tableaux de bord de maquette.
-1. Il doit y avoir une vue d’ensemble, telle qu’un [ Tableau de bord du résumé exécutif](driving-success-with-executive-summary-dashboards.md) et des tableaux de bord pour chacun des entonnoirs.
+1. Il doit y avoir une vue d’ensemble, telle qu’un [&#x200B; Tableau de bord du résumé exécutif](driving-success-with-executive-summary-dashboards.md) et des tableaux de bord pour chacun des entonnoirs.
 1. Il y aura également des options plus spécifiques à votre site ou application, telles que les performances du produit ou les performances du contenu.
 1. Distribuez-les aux parties prenantes concernées et obtenez des commentaires sur la conception.
 1. Effectuez les mises à jour demandées et, si de nouvelles mesures ou dimensions sont nécessaires, ajoutez-les à votre SDR.

@@ -75,7 +75,7 @@ Vous pouvez également utiliser des GIF dans vos projets pour inclure des images
 
 Ce document a été rédigé par :
 
-![Dan Cummings ](assets/text09.png)
+![Dan Cummings &#x200B;](assets/text09.png)
 
 **Dan Cummings**, directeur principal des [!DNL Analytics] d&#39;ingénierie des produits chez McDonald&#39;s Corporation
 
