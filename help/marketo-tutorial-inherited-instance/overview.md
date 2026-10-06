@@ -34,7 +34,7 @@ ht-degree: 0%
 
 Si vous héritez d’une instance Live [!DNL Marketo Engage] gérée par plusieurs personnes, vous pouvez vous retrouver à prendre des notes mentales sur tout ce qui semble déplacé. Il est important d’organiser le travail de nettoyage et d’optimisation en catégorisant les tâches, puis en hiérarchisant les tâches qui font beaucoup de chemin.
 
-Ce tutoriel « Conseils et astuces d’audit pour les instances héritées », provenant de [!DNL Adobe] Champions Marketo, fournit des conseils détaillés aux nouveaux administrateurs. Le tutoriel accompagne les [listes de contrôle d’audit](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) téléchargeables, ainsi que les modèles pour vous aider à démarrer immédiatement une instance héritée. Suivez les tutoriels et laissez-vous inspirer par l’apprentissage par les pairs !
+Ce tutoriel « Conseils et astuces d’audit pour les instances héritées », provenant de [!DNL Adobe] Champions Marketo, fournit des conseils détaillés aux nouveaux administrateurs. Le tutoriel accompagne les [listes de contrôle d’audit](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=fr) téléchargeables, ainsi que les modèles pour vous aider à démarrer immédiatement une instance héritée. Suivez les tutoriels et laissez-vous inspirer par l’apprentissage par les pairs !
 
 ## Sujets et ce que vous allez apprendre
 
