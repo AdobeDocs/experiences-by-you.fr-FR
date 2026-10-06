@@ -29,7 +29,7 @@ ht-degree: 0%
 ---
 # Travailler à tous les niveaux
 
->[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345452/?captions=fre_fr&quality=12&learn=on)
 
 Le parcours à [!DNL Adobe Analytics] commence par une bonne implémentation. Nous connaissons tous le dicton qui dit : «l&#39;ordure entre, l&#39;ordure sort». Pour éliminer toute mise en œuvre de ce type, les administrateurs doivent surveiller tous les détails des données introduites dans le système. Cela dit, la stratégie de collecte de données est influencée par de nombreuses parties prenantes de l’organisation avec lesquelles un administrateur devra travailler jour après jour.
 

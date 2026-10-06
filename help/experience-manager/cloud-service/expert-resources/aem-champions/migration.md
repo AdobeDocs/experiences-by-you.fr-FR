@@ -37,4 +37,4 @@ ht-degree: 29%
 
 Explorez les conseils experts et les bonnes pratiques du champion AEM, Wilson Faure. Dans cette vidéo, il explique les subtilités de la planification et de la préparation de la migration vers AEM as a Cloud Service. Découvrez les bonnes pratiques inestimables pour les jalons essentiels du parcours de migration, notamment l’établissement de références de performances et la résolution des obstacles tels que la compatibilité du code client et la gestion des API externes/internes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445931/?captions=fre_fr&learn=on)
