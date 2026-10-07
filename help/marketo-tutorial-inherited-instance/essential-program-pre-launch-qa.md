@@ -6,17 +6,35 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '6045'
+source-wordcount: '6054'
 ht-degree: 2%
-
 ---
-
 # Processus d’assurance de la qualité préalable au lancement du programme essentiel pour réussir
 
 Si vous êtes un administrateur [!DNL Marketo Engage] ou que vous faites partie de l’équipe des opérations marketing, il est essentiel de bien examiner la configuration du programme pour éviter les erreurs rencontrées par les clients. Bien que vous puissiez apprendre de vos erreurs en cours de route pour limiter les erreurs, il ne s’agit pas d’un processus évolutif. Découvrez comment concevoir et exécuter un processus d’assurance qualité (QA) de prélancement de programme entre les créateurs et les utilisateurs expérimentés/réviseurs afin de vous faire gagner du temps, d’éviter les erreurs et de former plus rapidement vos utilisateurs internes.

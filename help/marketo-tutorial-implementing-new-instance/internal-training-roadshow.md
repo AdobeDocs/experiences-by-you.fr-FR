@@ -1,22 +1,29 @@
 ---
 title: Développement de l’intégration interne et de la formation
-description: Découvrez comment établir une procédure robuste pour créer et gérer la documentation et le journal des modifications pour votre  [!DNL Marketo Engage] . Cela permet non seulement de gagner du temps pour le partage des connaissances de votre équipe, mais également d’améliorer l’intégrité et l’efficacité de votre instance.
+description: Découvrez comment établir une procédure robuste pour créer et gérer la documentation et le journal des modifications pour votre instance [!DNL Marketo Engage]. Cela permet non seulement de gagner du temps pour le partage des connaissances de votre équipe, mais également d’améliorer l’intégrité et l’efficacité de votre instance.
 role: Admin
 level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-03-01T00:00:00Z
+last-substantial-update: 2024-03-01T00:00:00.000Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
 exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '856'
 ht-degree: 0%
-
 ---
-
 # Développement de l’intégration interne et présentation de la formation
 
 Alors que vous mettez en ligne une nouvelle instance de [!DNL Marketo Engage], il est temps d’amener les équipes concernées à se mettre rapidement à niveau afin d’exploiter les [!DNL Marketo Engage] pour leur travail.

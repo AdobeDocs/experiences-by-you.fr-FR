@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1838'
 ht-degree: 0%
-
 ---
-
 # Gestion des parties prenantes pour la mise en œuvre de Marketo Engage
 
 La mise en œuvre de Marketo Engage est un moment critique pour développer votre pile MarTech. Cela peut impliquer différentes parties prenantes, du marketing aux ventes en passant par l’informatique. Découvrez comment obtenir de l’aide de la part de votre entreprise pour votre nouvelle instance de Marketo Engage en posant les bonnes questions et en communiquant régulièrement les mises à jour et l’assistance nécessaires. Utilisez le tutoriel et les modèles (avec des versions téléchargeables) pour guider vos communications internes tout au long de l’implémentation et de l’intégration des utilisateurs.

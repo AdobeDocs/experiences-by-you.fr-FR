@@ -1,6 +1,6 @@
 ---
 title: Avoir une place à table
-description: Avoir une place à table. Cette expression populaire est un sujet brûlant dans le monde des affaires depuis des années maintenant. Mais qu'est-ce que ça veut dire ? Avoir une place à table signifie que vous êtes inclus(e) dans les conversions décisionnelles de haut niveau. Vous êtes non seulement invité(e), mais votre contribution est appréciée. Je vais vous montrer comment avoir une place à table aidera votre entreprise et votre carrière en tant qu [!DNL Adobe Analytics] administrateur.
+description: Avoir une place à table. Cette expression populaire est un sujet brûlant dans le monde des affaires depuis des années maintenant. Mais qu'est-ce que ça veut dire ? Avoir une place à table signifie que vous êtes inclus(e) dans les conversions décisionnelles de haut niveau. Vous êtes non seulement invité(e), mais votre contribution est appréciée. Je vais vous montrer comment avoir une place à table aidera votre entreprise et votre carrière en tant qu'administrateur [!DNL Adobe Analytics].
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: fa3190e3-836e-4391-9de6-0b733d55825f
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1305'
+source-wordcount: '1306'
 ht-degree: 0%
-
 ---
-
 # Avoir une place à table
 
 >[!VIDEO](https://video.tv.adobe.com/v/345313/?captions=fre_fr&quality=12&learn=on)

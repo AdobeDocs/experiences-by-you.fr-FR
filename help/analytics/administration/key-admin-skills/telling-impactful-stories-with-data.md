@@ -1,6 +1,6 @@
 ---
 title: Raconter des histoires percutantes avec des données
-description: La narration des données, c’est quand l’art et la science se rencontrent à l’aide des données, de la visualisation et de la narration.  L’utilisation de ces composants implique l’élaboration d’une histoire de données percutante en trois parties. En racontant efficacement une histoire avec des données,  [!DNL Analytics]  pouvez devenir plus accessible à un public plus large et vous pouvez augmenter la valeur que vous apportez à votre organisation par le biais d’une prise de décision axée sur les données.
+description: La narration des données, c’est quand l’art et la science se rencontrent à l’aide des données, de la visualisation et de la narration.  L’utilisation de ces composants implique l’élaboration d’une histoire de données percutante en trois parties. En racontant efficacement une histoire avec des données, [!DNL Analytics] pouvez devenir plus accessible à un public plus large et vous pouvez augmenter la valeur que vous apportez à votre organisation par le biais d’une prise de décision axée sur les données.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: bbbe8514-95d2-4e18-aaa2-6c3bd94816a1
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 6%
-
 ---
-
 # Raconter des histoires percutantes avec des données
 
 La narration des données, c’est quand l’art et la science se rencontrent à l’aide des données, de la visualisation et de la narration.  L’utilisation de ces composants implique l’élaboration d’une histoire de données percutante en trois parties. En racontant efficacement une histoire avec des données, [!DNL Analytics] pouvez devenir plus accessible à un public plus large et vous pouvez augmenter la valeur que vous apportez à votre organisation par le biais d’une prise de décision axée sur les données.

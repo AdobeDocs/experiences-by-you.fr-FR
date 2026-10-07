@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1291'
 ht-degree: 2%
-
 ---
-
 # Organiser une nouvelle instance et établir des conventions de nommage
 
 En tant qu’administrateur ou administratrice mettant en œuvre une nouvelle instance de Marketo Engage, vous jetez les bases qui permettront aux futurs professionnels du marketing au sein de l’organisation de parcourir facilement l’instance. Familiarisez-vous avec l’arborescence, la structure des dossiers et les conventions de nommage pour que votre instance reste ordonnée et configurée pour un succès à long terme. Ce tutoriel comprend des exemples recommandés par Adobe et Natalie Kremer, championne de Marketo Engage (2019-2020), pour vous aider à [organiser les dossiers et nommer les ressources de manière cohérente](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
@@ -38,7 +45,7 @@ Voici quelques conseils rapides pour structurer les dossiers dans l’arborescen
 * Conserver une structure de dossiers plate pour la visibilité.
 * Structurez vos dossiers de manière à refléter la structure de l’équipe de votre entreprise (par exemple, la région ou l’équipe) ou les initiatives (par exemple, les newsletters).
 * Inclure des étiquettes temporelles pour permettre la recherche et signaler le moment approprié pour l’archivage (par exemple, 2024).
-   * Il est recommandé aux administrateurs d’archiver les dossiers au moins une fois par an. À l’aide d’un nom de dossier annuel, vous pouvez facilement désactiver les campagnes dynamiques en direct et archiver l’ensemble du dossier à la fin de l’année.
+  * Il est recommandé aux administrateurs d’archiver les dossiers au moins une fois par an. À l’aide d’un nom de dossier annuel, vous pouvez facilement désactiver les campagnes dynamiques en direct et archiver l’ensemble du dossier à la fin de l’année.
 
 Vous trouverez ci-dessous des exemples de dossiers pour mettre ces conseils en pratique.
 
@@ -69,12 +76,12 @@ Appliquons maintenant la structure de dossiers au niveau du programme. Il est re
 * Campagnes - *Dossier pour toutes les campagnes gérant les interactions et le tracking des statuts.*
 * Assets locale - *Dossier pour toutes les ressources spécifiques à ce programme.*
 
-   * E-mails
-   * Pages de destination
-   * Campagnes intelligentes
-   * Listes - *Uniquement nécessaire lorsqu’il existe des listes spécifiques au programme.*
-   * Forms - *Nécessaire uniquement lorsqu’il existe un Forms spécifique au programme ; la plupart des Forms sont des Assets globaux.*
-   * Rapports : *uniquement nécessaire lorsqu’il existe des rapports spécifiques au programme*.
+  * E-mails
+  * Pages de destination
+  * Campagnes intelligentes
+  * Listes - *Uniquement nécessaire lorsqu’il existe des listes spécifiques au programme.*
+  * Forms - *Nécessaire uniquement lorsqu’il existe un Forms spécifique au programme ; la plupart des Forms sont des Assets globaux.*
+  * Rapports : *uniquement nécessaire lorsqu’il existe des rapports spécifiques au programme*.
 
 ### Étape 3 - Créer des conventions de nommage pour vos programmes et ressources
 
@@ -116,7 +123,7 @@ En descendant d’un niveau pour nommer les ressources, il est préférable de n
 
 * Numérotez les ressources en fonction de leur ordre dans le processus du programme.
 * Utilisez « - » (trait d’union) pour séparer les composants d’affectation de nom au lieu de « . » (point) ou « \ » (trait de soulignement).
-   * Pourquoi ? Marketo Engage utilise un point pour séparer le nom du programme du nom de la campagne. L’utilisation de « \_ » vous empêche de le voir lorsque la ressource comporte un lien hypertexte.
+  * Pourquoi ? Marketo Engage utilise un point pour séparer le nom du programme du nom de la campagne. L’utilisation de « \_ » vous empêche de le voir lorsque la ressource comporte un lien hypertexte.
 * Utilisez des acronymes standard dans les noms de ressources pour raccourcir la référence et toujours permettre une reconnaissance facile.
 
 Dans cette optique, nous appliquerons ces conseils aux ressources suivantes et créerons des formules pour générer des noms :

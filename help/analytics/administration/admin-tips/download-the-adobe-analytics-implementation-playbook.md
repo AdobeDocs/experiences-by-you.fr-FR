@@ -1,5 +1,5 @@
 ---
-title: Téléchargement du guide  [!DNL Adobe Analytics]  mise en œuvre
+title: Télécharger le guide d’implémentation de [!DNL Adobe Analytics]
 description: Le document sur les exigences commerciales (communément appelé BRD) revêt un caractère essentiel. Les principaux intervenants, les utilisateurs professionnels et techniques participent d’ordinaire à son élaboration. Il vous permet de documenter tous les indicateurs de performance clés souhaités, les exigences en matière de création de rapports et tout point de données que vous souhaitez observer une fois l’implémentation d’Adobe Analytics terminée.
 solution: Analytics
 feature-set: Analytics
@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: 42679c86-e08f-4dda-8e47-f9880409bad6
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1779'
+source-wordcount: '1800'
 ht-degree: 0%
-
 ---
-
 # Télécharger le guide d’implémentation de [!DNL Adobe Analytics]
 
 Avant de commencer, [téléchargez le guide](assets/aa-implementation-playbook.xlsx).
@@ -46,7 +59,7 @@ Enfin, la colonne État de l’implémentation servira à vérifier l’état d�
 
 **POURQUOI :** ce document servira à plusieurs fins, mais les plus importantes sont les suivantes :
 
-* Pour toute personne qui découvre votre implémentation (nouvel employé, propriétaire d’entreprise cherchant à mieux comprendre les rapports disponibles, etc.), ce document offre une vue d’ensemble optimale de toutes les variables implémentées et de leur objectif afin que les individus puissent se familiariser avec votre configuration d’Adobe Analytics en libre-service.
+* Pour toute personne qui découvre votre implémentation (nouvel employé, propriétaire d’entreprise cherchant à mieux comprendre les rapports disponibles, etc.) Ce document offre une vue d’ensemble optimale de toutes les variables implémentées et de leur objectif afin que les utilisateurs puissent se familiariser avec votre configuration d’Adobe Analytics à leur gré.
 * Pour le propriétaire du produit AA/l’utilisateur technique, ce document sert de rappel de la manière dont les autres variables sont configurées et des variables disponibles pour l’ajout d’une nouvelle dimension.
 
 **COMMENT :** commencez par répertorier dans un document Excel toutes [!DNL Adobe] variables prêtes à l’emploi (page, produit, zone géographique, etc.), ainsi que les eVars, props, événements et variables de liste. Celui-ci doit comporter un onglet par site/suite de rapports.
@@ -68,16 +81,16 @@ Capture d’écran d’un exemple de document SDR :
 Il est également recommandé d’utiliser ce document de balisage pour suivre les variables libres et les variables « inutiles ». Lorsqu’une dimension n’est plus utile, le développeur a généralement besoin d’un certain temps pour la supprimer. Même après cela, la mise en cache peut se produire, ou vous pouvez réaliser que la dimension était également définie ailleurs. Nettoyer les dimensions n’est pas facile et nécessite souvent de la patience. Voici quelques conseils pour garder tout ce qui est inutile caché afin que vos utilisateurs ne soient pas perdus tout en faisant le suivi.
 
 * Toutes les dimensions/événements non utilisés sont « libres » ou « en cours de suppression ».
-   * Si la dimension contient des valeurs indésirables au cours des 90 derniers jours, elle est « en cours de suppression »
-   * Si la dimension est libre et effacée pendant au moins les 90 derniers jours, elle est « libre »
-   * Marquez-les comme telles sous « Nom » dans le document de balisage, afin de pouvoir facilement les filtrer. Je ne les coche pas dans le document de balisage (filtre de données Excel) afin que les utilisateurs ne les voient pas
-   * Marquez-les comme nom eVar dans l’interface afin que les utilisateurs ne les trouvent pas dans une recherche (par exemple « (v6) ») et supprimez la description dans l’interface.
+  * Si la dimension contient des valeurs indésirables au cours des 90 derniers jours, elle est « en cours de suppression »
+  * Si la dimension est libre et effacée pendant au moins les 90 derniers jours, elle est « libre »
+  * Marquez-les comme telles sous « Nom » dans le document de balisage, afin de pouvoir facilement les filtrer. Je ne les coche pas dans le document de balisage (filtre de données Excel) afin que les utilisateurs ne les voient pas
+  * Marquez-les comme nom eVar dans l’interface afin que les utilisateurs ne les trouvent pas dans une recherche (par exemple « (v6) ») et supprimez la description dans l’interface.
 * Ainsi, lorsqu’une nouvelle dimension est nécessaire, vous pouvez facilement filtrer « libre » dans la colonne « Nom » pour trouver une dimension adaptée
 * Pour les dimensions et événements « en cours de suppression », je vous recommande de suivre ceux-ci à l’aide de Workspace :
-   * Créez un projet visible par les administrateurs uniquement avec 3 tableaux : eVars, props et événements. J’utilise « instances » pour les eVars spécifiques, et pour les props, je crée des segments d’accès avec « prop5 existe », par exemple.
-   * Définir la date sur Les 90 derniers jours
-   * Utilisez les lignes ci-dessus comme lignes dans les 3 tableaux, avec des occurrences.
-   * Dès que quelque chose atteint « 0 », je le marque comme « libre » dans le document de balisage et je le supprime du projet Workspace
+  * Créez un projet visible par les administrateurs uniquement avec 3 tableaux : eVars, props et événements. J’utilise « instances » pour les eVars spécifiques, et pour les props, je crée des segments d’accès avec « prop5 existe », par exemple.
+  * Définir la date sur Les 90 derniers jours
+  * Utilisez les lignes ci-dessus comme lignes dans les 3 tableaux, avec des occurrences.
+  * Dès que quelque chose atteint « 0 », je le marque comme « libre » dans le document de balisage et je le supprime du projet Workspace
 
 De cette façon, vos données sont toujours propres et vous avez une idée claire de ce qui est inutilisable.
 

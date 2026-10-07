@@ -6,17 +6,30 @@ feature: Attribution
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 2a62e563-bad9-424f-94ca-2af68d4a83b5
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
-
 ---
-
 # Présentation [!DNL Adobe Analytics] panneau d’attribution et des intervalles de recherche en amont
 
 Quand j&#39;ai commencé à penser au [panneau d&#39;attribution](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=fr) et à **intervalle de recherche en amont**, le concept de &#39;voyage *temps&#39;* m&#39;est immédiatement venu à l&#39;esprit ; puis, bien sûr, notre réponse typique à de nombreux nouveaux outils comme ceux-ci est de simplement remettre à plus tard leur utilisation, car ils ont l&#39;air si compliqués.
@@ -76,9 +89,9 @@ Dans cette optique, voici quelques exemples de la manière dont les ❸ **modèl
 
 - **En U** : cette approche attribue **40 %** du crédit à la *première personne* dans la porte, répartit **20 %** du crédit entre *toutes les personnes entre les deux*, puis donne **40 %** au **dernier** à travers. Ce modèle sera le plus souvent utilisé dans les situations où vous avez un **long cycle de conversion/vente** contenant *plusieurs points de contact* en cours de route.  Dans ce cas, votre objectif est principalement de mettre en évidence les ***première*** et ***dernière*** tactiques marketing qui ont contribué à la conversion des clients.
 - **J**-**Shaped** et **Inverse J** :
-   - Pensez à **en U**, mais à la place, ce modèle attribue **60%** crédit à la *dernière personne* qui passe la porte, **20%** à la *première*, puis *divise* les 20%**restants à** tout le monde **&#x200B; au milieu.  &#x200B;** Inverse J** fait exactement le contraire.
+  - Pensez à **en U**, mais à la place, ce modèle attribue **60%** crédit à la *dernière personne* qui passe la porte, **20%** à la *première*, puis *divise* les 20%**restants à** tout le monde **&#x200B; au milieu.  &#x200B;** Inverse J** fait exactement le contraire.
 
-     L&#39;objectif ici est de mettre l&#39;accent, soit au *début* soit à la *fin* de votre campagne ; cependant, vous voulez quand même attribuer un certain crédit à l&#39;élément contributeur à l&#39;autre bout tout en reconnaissant les « petits » en cours de route.
+    L&#39;objectif ici est de mettre l&#39;accent, soit au *début* soit à la *fin* de votre campagne ; cependant, vous voulez quand même attribuer un certain crédit à l&#39;élément contributeur à l&#39;autre bout tout en reconnaissant les « petits » en cours de route.
 
 - **Décroissance temporelle** : Maintenant, je m&#39;en voudrais de ne pas partager celui-ci. Ce modèle a littéralement une demi-vie qui se désintègre de manière exponentielle - au fil du temps !  Dans ce cas, le paramètre *par défaut* de la demi-vie de ce modèle est de **7 jours**.  Son fonctionnement consiste à appliquer ensuite *poids* à chaque **canal marketing**, *en fonction du temps écoulé* après le *point de contact initial* et lorsque le client effectue une conversion.
 
