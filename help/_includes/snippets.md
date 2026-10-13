@@ -10,7 +10,7 @@ ht-degree: 1%
 
 ## Amy Chiu {#amy-chiu}
 
-![ Amy Chiu ](/help/marketo-tutorial-implementing-new-instance/assets/amy-chiu.png){width="150"}
+![&#x200B; Amy Chiu &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/amy-chiu.png){width="150"}
 
 **Amy Chiu**, responsable marketing, adoption et rétention, Adobe
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ## Natalie Kremer {#natalie-kremer}
 
-![ Natalie Kremer ](/help/marketo-tutorial-implementing-new-instance/assets/natalie-kremer.png){width="150"}
+![&#x200B; Natalie Kremer &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/natalie-kremer.png){width="150"}
 
 **Natalie Kremer**, directrice principale, Services-conseils, Etumos
 Adobe Marketo Engage Champion (2019-2020)
@@ -56,6 +56,6 @@ Adobe Marketo Engage Champion (2015)
 
 ## Sara Barrière {#sara-barriuso}
 
-![ Sara Barriuso ](/help/marketo-tutorial-implementing-new-instance/assets/sara_barriuso.png){width="150"}
+![&#x200B; Sara Barriuso &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/sara_barriuso.png){width="150"}
 
 **Sara Barriuso**, responsable des opérations marketing chez Cornerstone OnDemand
