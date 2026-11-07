@@ -58,7 +58,7 @@ Ce qu’il y a de plus puissant dans les solutions [!DNL Adobe] Experience Cloud
   </td>
   <td>
     <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="Manuel d’intégration de Cloud Manager" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+      <img alt="Manuel d’intégration de Cloud Manager" src="https://video.tv.adobe.com/v/3506879?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
