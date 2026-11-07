@@ -48,7 +48,7 @@ Le guide d’intégration vous aidera à vous prendre en main en tant que nouvel
 
 Consultez ces conseils de votre collègue responsable technique, Rakesh Pasupuleti. Rakesh est un champion [!DNL Adobe] d’Experience Manager et il partage des idées sur l’utilisation du guide d’intégration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506879?captions=fre_fr&quality=12&learn=on)
 
 ## Ressources supplémentaires {#additional-resources}
 

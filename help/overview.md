@@ -66,7 +66,7 @@ Ce qui est le plus puissant dans les solutions d’expérience digitale (DX) [!D
   </td>
   <td>
     <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="Manuel d’intégration d’AEM as a Cloud Service" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+      <img alt="Manuel d’intégration d’AEM as a Cloud Service" src="https://video.tv.adobe.com/v/3506879?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
